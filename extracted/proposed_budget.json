@@ -1,0 +1,3974 @@
+{
+  "19-20": {
+    "001": {
+      "revenus": [
+        {
+          "label": "* BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "* Pizza",
+          "amount": 30000.0
+        },
+        {
+          "label": "* Chocolat",
+          "amount": 26000.0
+        },
+        {
+          "label": "* Danse",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "* BBQ Centre de prêt",
+          "amount": 2000.0
+        },
+        {
+          "label": "* Pizza Aliments, Fournitures pédagogiques",
+          "amount": 30000.0
+        },
+        {
+          "label": "* Chocolat Écran, cour d'école, informatique",
+          "amount": 26000.0
+        },
+        {
+          "label": "* Danse disco, articles pour danse",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "002": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 12500.0
+        },
+        {
+          "label": "Campagne de financement (OPP) activités à déterminer",
+          "amount": 500.0
+        },
+        {
+          "label": "Photos (dons)",
+          "amount": 800.0
+        },
+        {
+          "label": "Campagne de financement pour finissants",
+          "amount": 1300.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza (aliments, boissons et autres fournitures)",
+          "amount": 6000.0
+        },
+        {
+          "label": "Activités (revenus de pizza)",
+          "amount": 6500.0
+        },
+        {
+          "label": "Photos(don)",
+          "amount": 800.0
+        },
+        {
+          "label": "Campagne de financement OPP(achat de pyjamas)",
+          "amount": 500.0
+        },
+        {
+          "label": "Campagne de financement finissants(vente pâtisseries, sous-marins, etc.)",
+          "amount": 1300.0
+        }
+      ]
+    },
+    "003": {
+      "revenus": [
+        {
+          "label": "Campagne de financement (Fondation) 1",
+          "amount": 9000.0
+        },
+        {
+          "label": "Finissants (campagne de financement, dîner pizza, etc.)",
+          "amount": 15000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Matériels spécialisés",
+          "amount": 8000.0
+        },
+        {
+          "label": "Transport",
+          "amount": 1000.0
+        },
+        {
+          "label": "Aliments-boissons",
+          "amount": 700.0
+        },
+        {
+          "label": "Autres fournitures",
+          "amount": 1000.0
+        },
+        {
+          "label": "Transports",
+          "amount": 5000.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 8300.0
+        }
+      ]
+    },
+    "005": {
+      "revenus": [
+        {
+          "label": "Dictée PGL",
+          "amount": 2000.0
+        },
+        {
+          "label": "Dîners Subway",
+          "amount": 8000.0
+        },
+        {
+          "label": "Levée de fonds - activités et sortie des finissants",
+          "amount": 6000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dictée PGL",
+          "amount": 2000.0
+        },
+        {
+          "label": "Diners Subway",
+          "amount": 6000.0
+        },
+        {
+          "label": "Levée de fonds - activités et sortie des finissants",
+          "amount": 6000.0
+        },
+        {
+          "label": "Surplus provenant de campagnes de financement",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "006": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 15000.0
+        },
+        {
+          "label": "Humeur",
+          "amount": 13000.0
+        },
+        {
+          "label": "Chandails école",
+          "amount": 1400.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "Dons Photomania",
+          "amount": 1600.0
+        },
+        {
+          "label": "Twitti",
+          "amount": 2500.0
+        },
+        {
+          "label": "Charlie",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza - projets à déterminer",
+          "amount": 15000.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 1400.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "- transport",
+          "amount": 3200.0
+        },
+        {
+          "label": "- sorties",
+          "amount": 5000.0
+        },
+        {
+          "label": "- cérémonie",
+          "amount": 800.0
+        },
+        {
+          "label": "Twitti",
+          "amount": 2500.0
+        },
+        {
+          "label": "Charlie",
+          "amount": 3000.0
+        },
+        {
+          "label": "- transport",
+          "amount": 1200.0
+        },
+        {
+          "label": "- sorties",
+          "amount": 1800.0
+        },
+        {
+          "label": "Campagne de financement et dons : activités école",
+          "amount": 14600.0
+        }
+      ]
+    },
+    "007": {
+      "revenus": [
+        {
+          "label": "Campagne de financement pizza",
+          "amount": 8000.0
+        },
+        {
+          "label": "Campagne de financement desserts",
+          "amount": 4000.0
+        },
+        {
+          "label": "Montant de la ville pour la patinoire",
+          "amount": 3500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Frais pour sorties scolaires, activités sportives et culturelles",
+          "amount": 2300.0
+        },
+        {
+          "label": "Activités finissants",
+          "amount": 2800.0
+        },
+        {
+          "label": "Activités écoles (BBQ fin d'année et épluchette de maïs)",
+          "amount": 3000.0
+        },
+        {
+          "label": "Équipement sportif",
+          "amount": 2500.0
+        },
+        {
+          "label": "Soutien financier pour la patinoire",
+          "amount": 2900.0
+        },
+        {
+          "label": "Initiatives cour d'école",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "008": {
+      "revenus": [
+        {
+          "label": "Dîners pizza",
+          "amount": 30000.0
+        },
+        {
+          "label": "Agrumes, produits altitude",
+          "amount": 10000.0
+        },
+        {
+          "label": "Marchethon",
+          "amount": 7500.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 5650.0
+        },
+        {
+          "label": "Exposition d'arts",
+          "amount": 1700.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîners pizza Aliments, organisation",
+          "amount": 13000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 10000.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 5650.0
+        },
+        {
+          "label": "Priorités CÉ",
+          "amount": 24500.0
+        },
+        {
+          "label": "Matériel d'arts",
+          "amount": 1700.0
+        }
+      ]
+    },
+    "011": {
+      "revenus": [
+        {
+          "label": "Vente de pizzas",
+          "amount": 17000.0
+        },
+        {
+          "label": "Photos",
+          "amount": 700.0
+        },
+        {
+          "label": "Vente de pâtisseries",
+          "amount": 1500.0
+        },
+        {
+          "label": "Mathémath-lon",
+          "amount": 6400.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités pour les classes TSA",
+          "amount": 700.0
+        },
+        {
+          "label": "Activités pour les finissants",
+          "amount": 3900.0
+        },
+        {
+          "label": "Frais Pizza (1 for 1)",
+          "amount": 11700.0
+        },
+        {
+          "label": "Allocations 3/c clalassssee",
+          "amount": 8500.0
+        },
+        {
+          "label": "Activités et matériel divers",
+          "amount": 800.0
+        }
+      ]
+    },
+    "012": {
+      "revenus": [
+        {
+          "label": "érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "campagne de fiancement dictée PGL",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "campagne de fiancement dictée PGL",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "013": {
+      "revenus": [
+        {
+          "label": "Dîner pizza",
+          "amount": 2500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîner pizza",
+          "amount": 2500.0
+        }
+      ]
+    },
+    "014": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 20000.0
+        },
+        {
+          "label": "Pâques",
+          "amount": 3500.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 11500.0
+        },
+        {
+          "label": "Pâques",
+          "amount": 2300.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 3200.0
+        },
+        {
+          "label": "Instruments musique",
+          "amount": 1000.0
+        },
+        {
+          "label": "Matériel d'Arts",
+          "amount": 575.0
+        },
+        {
+          "label": "Projet pacifique",
+          "amount": 2000.0
+        },
+        {
+          "label": "Dictée PGL -3e cycle",
+          "amount": 425.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités de Noël",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités thématiques",
+          "amount": 2000.0
+        },
+        {
+          "label": "École verte",
+          "amount": 2500.0
+        }
+      ]
+    },
+    "016": {
+      "revenus": [
+        {
+          "label": "Marchethon",
+          "amount": 3000.0
+        },
+        {
+          "label": "don photomania",
+          "amount": 942.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 7195.0
+        },
+        {
+          "label": "Sous-marins",
+          "amount": 1731.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Achat de livres pour les classes",
+          "amount": 6900.0
+        },
+        {
+          "label": "cérémonie des finissants",
+          "amount": 750.0
+        },
+        {
+          "label": "cour d'école aménagement",
+          "amount": 2500.0
+        },
+        {
+          "label": "Vélo pour le marchethon",
+          "amount": 450.0
+        },
+        {
+          "label": "spectacle début d'année de 3e à 6e année",
+          "amount": 850.0
+        },
+        {
+          "label": "spectacle début d'année du préscolaire et 1er cycle",
+          "amount": 850.0
+        },
+        {
+          "label": "finition et entretien du sentier pédestre",
+          "amount": 500.0
+        },
+        {
+          "label": "sucettes glacées de la rentrée",
+          "amount": 41.0
+        },
+        {
+          "label": "carnaval",
+          "amount": 10.0
+        },
+        {
+          "label": "Olympiades",
+          "amount": 17.0
+        }
+      ]
+    },
+    "017": {
+      "revenus": [
+        {
+          "label": "Marchethon",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "equipements sportifs",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "018": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 20000.0
+        },
+        {
+          "label": "Autre",
+          "amount": 15000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 13000.0
+        },
+        {
+          "label": "Activité étudiantes",
+          "amount": 22000.0
+        }
+      ]
+    },
+    "020": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités)",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "026": {
+      "revenus": [
+        {
+          "label": "Campagne de financement",
+          "amount": 16000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 50000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagne de financement",
+          "amount": 10233.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 3500.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Matériels",
+          "amount": 7200.0
+        },
+        {
+          "label": "Libérations",
+          "amount": 1500.0
+        },
+        {
+          "label": "Autobus",
+          "amount": 1500.0
+        },
+        {
+          "label": "Prévision de surplus pour 2019-2020",
+          "amount": 9067.0
+        }
+      ]
+    },
+    "027": {
+      "revenus": [
+        {
+          "label": "Finissants aliments",
+          "amount": 500.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 2000.0
+        },
+        {
+          "label": "Campagnes de financement (variées) Variées",
+          "amount": 27000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants aliments",
+          "amount": 500.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 2000.0
+        },
+        {
+          "label": "Campagnes de financement (variées) Variées",
+          "amount": 27000.0
+        }
+      ]
+    },
+    "028": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Dons Photomania",
+          "amount": 1500.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Vente de pâtisseries 6e année",
+          "amount": 1200.0
+        },
+        {
+          "label": "Lecture-o-thon 1er cycle",
+          "amount": 4300.0
+        },
+        {
+          "label": "Montant des années antérieures",
+          "amount": 55000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza Factures pizza - jus-collations",
+          "amount": 21000.0
+        },
+        {
+          "label": "Finissants et matériel didactique ( à diviser)",
+          "amount": 14000.0
+        },
+        {
+          "label": "Dons Photomania- pour les finissants",
+          "amount": 1500.0
+        },
+        {
+          "label": "Surplus BBQ cour d'école: matériel",
+          "amount": 2000.0
+        },
+        {
+          "label": "Vente de pâtisseries- activités finissants",
+          "amount": 1200.0
+        },
+        {
+          "label": "Lecture-o-thon achats de livres",
+          "amount": 4300.0
+        },
+        {
+          "label": "Asphaltage (+10 Fondation CSPO)",
+          "amount": 35000.0
+        },
+        {
+          "label": "Appareillage spectacle",
+          "amount": 5000.0
+        },
+        {
+          "label": "Matériel d'éducation physique",
+          "amount": 5000.0
+        },
+        {
+          "label": "Spectacle début de l'année",
+          "amount": 3000.0
+        },
+        {
+          "label": "Activités de masse VCP",
+          "amount": 7000.0
+        }
+      ]
+    },
+    "029": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Finissants (Campagne de financement) Septembre-Mai",
+          "amount": 11000.0
+        },
+        {
+          "label": "Spectalent école 50% Novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Spectalent 50% Novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Cinéma 50% Mars",
+          "amount": 1200.0
+        },
+        {
+          "label": "Gîte-Amis Cinéma 50% Mars",
+          "amount": 1200.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Finissants (Campagne de financement) Septembre-Mai",
+          "amount": 11000.0
+        },
+        {
+          "label": "Spectalent école 50% Novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Spectalent 50% Novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Cinéma 50% Mars",
+          "amount": 1200.0
+        },
+        {
+          "label": "Gîte-Amis Cinéma 50% Mars",
+          "amount": 1200.0
+        }
+      ]
+    },
+    "032": {
+      "revenus": [
+        {
+          "label": "(pizza, marchethon, vente par catalogue)",
+          "amount": 50000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Aménagement de la cour d'école",
+          "amount": 50000.0
+        }
+      ]
+    },
+    "034": {
+      "revenus": [
+        {
+          "label": "Dîner Pizza",
+          "amount": 28000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Embellissement de la cour d'école",
+          "amount": 23500.0
+        },
+        {
+          "label": "Semaines reconnaissances",
+          "amount": 1000.0
+        },
+        {
+          "label": "Opération de pizza",
+          "amount": 500.0
+        },
+        {
+          "label": "BBQ ou activités de masse",
+          "amount": 3000.0
+        }
+      ]
+    }
+  },
+  "20-21": {
+    "001": {
+      "revenus": [
+        {
+          "label": "* BBQ",
+          "amount": 2500.0
+        },
+        {
+          "label": "* Pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Vente de billets 500x5",
+          "amount": 17500.0
+        },
+        {
+          "label": "* Danse",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "* BBQ Centre de prêt",
+          "amount": 2500.0
+        },
+        {
+          "label": "* Pizza Aliments, Fournitures pédagogiques",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Vente de billets Imprimerie (Loto Québec), écran rétractable et projecteur 500x5",
+          "amount": 17500.0
+        },
+        {
+          "label": "* Danse disco, articles pour danse",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "002": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 8500.0
+        },
+        {
+          "label": "Campagne de financement: OPP",
+          "amount": 400.0
+        },
+        {
+          "label": "Photos",
+          "amount": 800.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 8500.0
+        },
+        {
+          "label": "Campagne de financement: OPP",
+          "amount": 400.0
+        },
+        {
+          "label": "Photos",
+          "amount": 800.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "003": {
+      "revenus": [
+        {
+          "label": "Campagne de financement (Fondation) 1",
+          "amount": 5000.0
+        },
+        {
+          "label": "Finissants (campagne de financement, dîner pizza, etc.)",
+          "amount": 15000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Matériels spécialisés",
+          "amount": 4500.0
+        },
+        {
+          "label": "Transport",
+          "amount": 500.0
+        },
+        {
+          "label": "Aliments-boissons",
+          "amount": 700.0
+        },
+        {
+          "label": "Autres fournitures",
+          "amount": 1000.0
+        },
+        {
+          "label": "Transports",
+          "amount": 5000.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 8300.0
+        }
+      ]
+    },
+    "005": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 8500.0
+        },
+        {
+          "label": "Campagne de financement: OPP",
+          "amount": 400.0
+        },
+        {
+          "label": "Photos",
+          "amount": 800.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 8500.0
+        },
+        {
+          "label": "Campagne de financement: OPP",
+          "amount": 400.0
+        },
+        {
+          "label": "Photos",
+          "amount": 800.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "006": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 15500.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer",
+          "amount": 12250.0
+        },
+        {
+          "label": "- Finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "Twitti",
+          "amount": 2270.0
+        },
+        {
+          "label": "Petits déjeuners",
+          "amount": 2500.0
+        },
+        {
+          "label": "Don Photomania",
+          "amount": 1436.0
+        },
+        {
+          "label": "Mazzola (50 repas X 129jrs X 0,30$)",
+          "amount": 1935.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza -",
+          "amount": 15500.0
+        },
+        {
+          "label": "Campagne de financement - chandails",
+          "amount": 9500.0
+        },
+        {
+          "label": "Campagne de financement + dons",
+          "amount": 4186.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "- transport",
+          "amount": 3200.0
+        },
+        {
+          "label": "- sorties",
+          "amount": 5000.0
+        },
+        {
+          "label": "- cérémonie",
+          "amount": 800.0
+        },
+        {
+          "label": "Twitti",
+          "amount": 2270.0
+        },
+        {
+          "label": "Petits déjeuners",
+          "amount": 2500.0
+        },
+        {
+          "label": "Mazzola",
+          "amount": 1935.0
+        }
+      ]
+    },
+    "007": {
+      "revenus": [
+        {
+          "label": "Montant de la ville pour la patinoire",
+          "amount": 3500.0
+        },
+        {
+          "label": "Campagne de financement pizza",
+          "amount": 4000.0
+        },
+        {
+          "label": "Surplus 2019-2020",
+          "amount": 2931.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Soutien financier pour la patinoire",
+          "amount": 500.0
+        },
+        {
+          "label": "Matériel scolaire",
+          "amount": 4431.0
+        },
+        {
+          "label": "Activités école (Épluchette, bbq fin d'année)",
+          "amount": 2000.0
+        },
+        {
+          "label": "Activités finissants",
+          "amount": 2500.0
+        },
+        {
+          "label": "Équipement sportif",
+          "amount": 1000.0
+        }
+      ]
+    },
+    "008": {
+      "revenus": [
+        {
+          "label": "Dîners pizza",
+          "amount": 36500.0
+        },
+        {
+          "label": "Campagne de financement automne",
+          "amount": 12000.0
+        },
+        {
+          "label": "Marchethon",
+          "amount": 9000.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 6800.0
+        },
+        {
+          "label": "Exposition d'arts",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîners pizza Aliments, organisation",
+          "amount": 15800.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 11000.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 6800.0
+        },
+        {
+          "label": "Priorités CÉ",
+          "amount": 30700.0
+        },
+        {
+          "label": "Matériel d'arts",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "011": {
+      "revenus": [
+        {
+          "label": "Vente de pizza",
+          "amount": 23360.0
+        },
+        {
+          "label": "Photos",
+          "amount": 700.0
+        },
+        {
+          "label": "Ventes de pâtisseries (finissants)",
+          "amount": 1500.0
+        },
+        {
+          "label": "Marcheton",
+          "amount": 6400.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités finissants",
+          "amount": 3900.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 17300.0
+        },
+        {
+          "label": "Allocations classe",
+          "amount": 8500.0
+        },
+        {
+          "label": "Activités et matériel divers",
+          "amount": 2260.0
+        }
+      ]
+    },
+    "013": {
+      "revenus": [
+        {
+          "label": "Dîner pizza",
+          "amount": 6400.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîner pizza",
+          "amount": 6400.0
+        }
+      ]
+    },
+    "014": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 20000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 11500.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 3500.0
+        },
+        {
+          "label": "Instruments de musique",
+          "amount": 1000.0
+        },
+        {
+          "label": "Matériels d'art",
+          "amount": 500.0
+        },
+        {
+          "label": "Projet pacifique",
+          "amount": 2000.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 500.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités de Noël",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités thématiques",
+          "amount": 500.0
+        },
+        {
+          "label": "Projet école verte",
+          "amount": 2500.0
+        }
+      ]
+    },
+    "016": {
+      "revenus": [
+        {
+          "label": "Marchethon",
+          "amount": 2975.0
+        },
+        {
+          "label": "Don de photomania",
+          "amount": 904.0
+        },
+        {
+          "label": "Pizza et sous-marins annuellement 33 dîners (*avec COVID 21 dîners seulement ont eu lieu)",
+          "amount": 4500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Achats de livres pour les classes incluant les 2 ortho et l'enseignant d'anglais 25 personnnes x250$",
+          "amount": 6250.0
+        },
+        {
+          "label": "Cérémonie des finissants",
+          "amount": 750.0
+        },
+        {
+          "label": "Olympiques",
+          "amount": 60.0
+        },
+        {
+          "label": "Carnaval",
+          "amount": 69.0
+        },
+        {
+          "label": "achat de matériels pour le CPES (Centre de prêt d'équipement sportif et saines habitudes de vie",
+          "amount": 1250.0
+        }
+      ]
+    },
+    "018": {
+      "revenus": [
+        {
+          "label": "Campagne de financement",
+          "amount": 20000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Aménagement de la cour d'école",
+          "amount": 20000.0
+        }
+      ]
+    },
+    "020": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités)",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "026": {
+      "revenus": [
+        {
+          "label": "Campagne de financement",
+          "amount": 16000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 13000.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Don photomania",
+          "amount": 950.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagne de financement Bonne",
+          "amount": 16000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 13000.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Matériel",
+          "amount": 950.0
+        }
+      ]
+    },
+    "027": {
+      "revenus": [
+        {
+          "label": "Finissants Aliments",
+          "amount": 750.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 3000.0
+        },
+        {
+          "label": "Campagnes de financements variées Variées",
+          "amount": 25000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants Aliments",
+          "amount": 750.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 3000.0
+        },
+        {
+          "label": "Campagnes de financements variées Variées",
+          "amount": 25000.0
+        }
+      ]
+    },
+    "028": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "Dons photomania",
+          "amount": 1600.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Vente de pâtisseries",
+          "amount": 1200.0
+        },
+        {
+          "label": "Lectur-o-thon",
+          "amount": 4300.0
+        },
+        {
+          "label": "Montant des années antérieures",
+          "amount": 55000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza pizza-jus-collations",
+          "amount": 21000.0
+        },
+        {
+          "label": "Finissants et matériel didactiques",
+          "amount": 14000.0
+        },
+        {
+          "label": "Don Photomanniaia- cphoaunrd laeisl sfinissnants",
+          "amount": 1600.0
+        },
+        {
+          "label": "Surplus BBQ-cocuoru dr' édc'éocleole -matériel",
+          "amount": 2000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 1200.0
+        },
+        {
+          "label": "Livres",
+          "amount": 4300.0
+        },
+        {
+          "label": "Cour d'école asphaltage + Fondation",
+          "amount": 35000.0
+        },
+        {
+          "label": "Appareillage spectacle-Musique",
+          "amount": 3500.0
+        },
+        {
+          "label": "Matériel éducation physique",
+          "amount": 6000.0
+        },
+        {
+          "label": "Spectacle début d'année",
+          "amount": 3500.0
+        },
+        {
+          "label": "Activités de masse+ récompense VCP",
+          "amount": 7000.0
+        }
+      ]
+    },
+    "029": {
+      "revenus": [
+        {
+          "label": "Finissants (Campagne de financement) Sept. à mai",
+          "amount": 11000.0
+        },
+        {
+          "label": "5e année (Campagne de financement) Sept. à mai",
+          "amount": 2500.0
+        },
+        {
+          "label": "Spectalent école 50% novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Spectalent 50% novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Cinéma 50% mars",
+          "amount": 1200.0
+        },
+        {
+          "label": "Gîte-Amis Cinéma 50% mars",
+          "amount": 1200.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants (Campagne de financement) Sept. à mai",
+          "amount": 11000.0
+        },
+        {
+          "label": "5e année (Campagne de financement) Sept. à mai",
+          "amount": 2500.0
+        },
+        {
+          "label": "Spectalent école 50% novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Spectalent 50% novembre",
+          "amount": 600.0
+        },
+        {
+          "label": "DJO Cinéma 50% mars",
+          "amount": 1200.0
+        },
+        {
+          "label": "Gîte-Amis Cinéma 50% mars",
+          "amount": 1200.0
+        }
+      ]
+    },
+    "032": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 60000.0
+        },
+        {
+          "label": "BBQ, Marchethon",
+          "amount": 5000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Aménagement de la cour d'école : phase 2",
+          "amount": 65000.0
+        }
+      ]
+    },
+    "033": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 27000.0
+        },
+        {
+          "label": "Campagne de financement - école",
+          "amount": 20000.0
+        },
+        {
+          "label": "Photos",
+          "amount": 1300.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 5610.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 15000.0
+        },
+        {
+          "label": "Camapagne de financement",
+          "amount": 10000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 5610.0
+        },
+        {
+          "label": "Cour de l'école",
+          "amount": 23300.0
+        }
+      ]
+    },
+    "034": {
+      "revenus": [
+        {
+          "label": "Dîner Pizza",
+          "amount": 25000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Embellissement de la cour d'école",
+          "amount": 20500.0
+        },
+        {
+          "label": "Semaines reconnaissances",
+          "amount": 1000.0
+        },
+        {
+          "label": "Gestion de la pizza",
+          "amount": 500.0
+        },
+        {
+          "label": "Soutien à un élève pour le dîner",
+          "amount": 3000.0
+        }
+      ]
+    }
+  },
+  "22-23": {
+    "001": {
+      "revenus": [
+        {
+          "label": "* BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "* Pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Vente de serre",
+          "amount": 700.0
+        },
+        {
+          "label": "* Bougethon",
+          "amount": 7000.0
+        },
+        {
+          "label": "* Danse",
+          "amount": 1300.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "* BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "* Pizza ( Fourniture pour pizza, facture, matériels pédagogiques…)",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Vente de serre (Structure cour école)",
+          "amount": 700.0
+        },
+        {
+          "label": "* Bougethon (Structure cour école et matériels d'éducation physique",
+          "amount": 7000.0
+        },
+        {
+          "label": "* Danse ( facture disco, articles pour la danse…)",
+          "amount": 1300.0
+        }
+      ]
+    },
+    "002": {
+      "revenus": [
+        {
+          "label": "pizza 17",
+          "amount": 10200.0
+        },
+        {
+          "label": "GDPL",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza (fourniture, facture, t-shirts, bibliothèque)",
+          "amount": 10200.0
+        },
+        {
+          "label": "GDPL (cour d'école)",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "003": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement - cour d'école",
+          "amount": 20000.0
+        },
+        {
+          "label": "Campagnes de financement - finissants",
+          "amount": 15000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités des finissants",
+          "amount": 15000.0
+        },
+        {
+          "label": "Cour d'école",
+          "amount": 20000.0
+        }
+      ]
+    },
+    "005": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 13000.0
+        },
+        {
+          "label": "mazzola",
+          "amount": 500.0
+        },
+        {
+          "label": "activités financement pour les 6e année",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "pizza",
+          "amount": 10000.0
+        },
+        {
+          "label": "cour école",
+          "amount": 5500.0
+        }
+      ]
+    },
+    "006": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 52000.0
+        },
+        {
+          "label": "Campagnes de financement - à déterminer (Projet cour d'école Limoges)",
+          "amount": 12000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 9000.0
+        },
+        {
+          "label": "Don - Photomania (Projet à déterminer en septembre)",
+          "amount": 1419.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 37000.0
+        },
+        {
+          "label": "Profit de la pizza (projet à déterminer en septembre)",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagnes de financement - à déterminer (Projet cour d'école Limoges)",
+          "amount": 12000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 9000.0
+        },
+        {
+          "label": "Don - Photomania",
+          "amount": 1419.0
+        }
+      ]
+    },
+    "007": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 16000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Classe verte",
+          "amount": 10000.0
+        },
+        {
+          "label": "Effets scolaires",
+          "amount": 2000.0
+        },
+        {
+          "label": "Vêtements",
+          "amount": 4000.0
+        }
+      ]
+    },
+    "011": {
+      "revenus": [
+        {
+          "label": "Vente de pizza",
+          "amount": 20000.0
+        },
+        {
+          "label": "Photos",
+          "amount": 800.0
+        },
+        {
+          "label": "Ventes de pâtisseries (finissants)",
+          "amount": 2000.0
+        },
+        {
+          "label": "Marcheton",
+          "amount": 8000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Allocations classe",
+          "amount": 9000.0
+        },
+        {
+          "label": "Activités et matériel divers",
+          "amount": 3000.0
+        },
+        {
+          "label": "classe verte phase 2",
+          "amount": 14800.0
+        }
+      ]
+    },
+    "012": {
+      "revenus": [
+        {
+          "label": "Érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "Campagne de financement finissants",
+          "amount": 3000.0
+        },
+        {
+          "label": "Campagne de financement laboratoire créatif",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "Campagne de financement finissants",
+          "amount": 3000.0
+        },
+        {
+          "label": "Campagne de financement laboratoire créatif",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "014": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 20000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 11500.0
+        },
+        {
+          "label": "Bbq",
+          "amount": 3500.0
+        },
+        {
+          "label": "Instruments de musique",
+          "amount": 1000.0
+        },
+        {
+          "label": "Matériel d'art",
+          "amount": 1000.0
+        },
+        {
+          "label": "Projet pacifique",
+          "amount": 2000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activité de Noël",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités thématiques",
+          "amount": 1500.0
+        },
+        {
+          "label": "École verte",
+          "amount": 1000.0
+        },
+        {
+          "label": "Dictée PGL",
+          "amount": 500.0
+        }
+      ]
+    },
+    "015": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement/pizza",
+          "amount": 4000.0
+        },
+        {
+          "label": "Rstourne photos",
+          "amount": 700.0
+        },
+        {
+          "label": "Campagne de financement/Finissants",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités école",
+          "amount": 3700.0
+        },
+        {
+          "label": "Finissants (sorties, transport, services spécialisés)",
+          "amount": 5000.0
+        }
+      ]
+    },
+    "016": {
+      "revenus": [
+        {
+          "label": "Marchethon",
+          "amount": 1800.0
+        },
+        {
+          "label": "Don de photomania",
+          "amount": 800.0
+        },
+        {
+          "label": "Dîners pizza et sous-marins 18 au total",
+          "amount": 5750.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Achats de livres et jeux éducatifs pour les classes, spécialiste anglais, orthos et TES école",
+          "amount": 4100.0
+        },
+        {
+          "label": "Cérémonie des finissants",
+          "amount": 800.0
+        },
+        {
+          "label": "Olympiades",
+          "amount": 50.0
+        },
+        {
+          "label": "Carnaval",
+          "amount": 50.0
+        },
+        {
+          "label": "Vélo pour le marchethon",
+          "amount": 300.0
+        },
+        {
+          "label": "Achats pour le centre prêt d'équipements sportifs et jeux extérieurs par classe",
+          "amount": 800.0
+        },
+        {
+          "label": "Achats spécialiste musique",
+          "amount": 500.0
+        },
+        {
+          "label": "Achats de jeux éducatifs pour le service de garde",
+          "amount": 500.0
+        },
+        {
+          "label": "Paiments Pascale et Tina",
+          "amount": 1250.0
+        }
+      ]
+    },
+    "018": {
+      "revenus": [
+        {
+          "label": "cour Diner levée de fonds (pizza et sous-marin)",
+          "amount": 4000.0
+        },
+        {
+          "label": "cour Colle à moi (étiquettes)",
+          "amount": 1000.0
+        },
+        {
+          "label": "cour Rochef",
+          "amount": 3000.0
+        },
+        {
+          "label": "cour Course de fin d'année",
+          "amount": 2000.0
+        },
+        {
+          "label": "cour Dons photomania",
+          "amount": 1000.0
+        },
+        {
+          "label": "cour Marché artisanat",
+          "amount": 1000.0
+        },
+        {
+          "label": "cour canettes et bouteilles",
+          "amount": 3000.0
+        },
+        {
+          "label": "Solde année antérieure (2021-2022) - prévisionnel",
+          "amount": 25000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "cour Aménagement phase 1",
+          "amount": 40000.0
+        }
+      ]
+    },
+    "020": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités)",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "026": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 35000.0
+        },
+        {
+          "label": "activités finissants",
+          "amount": 3000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 3000.0
+        },
+        {
+          "label": "campagne de financement",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "activités finissants",
+          "amount": 4250.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 1500.0
+        },
+        {
+          "label": "campagne de financement",
+          "amount": 10000.0
+        },
+        {
+          "label": "prévision de surplus",
+          "amount": 10250.0
+        }
+      ]
+    },
+    "027": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement variées Variées",
+          "amount": 27000.0
+        },
+        {
+          "label": "Activités finissants - campagnes de financement Variées",
+          "amount": 6400.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement variées variées",
+          "amount": 27000.0
+        },
+        {
+          "label": "Finissants chandails",
+          "amount": 900.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "028": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 40000.0
+        },
+        {
+          "label": "Don Photomania",
+          "amount": 1500.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "Lectur-o-thon",
+          "amount": 4000.0
+        },
+        {
+          "label": "Montant des années antérieures",
+          "amount": 55000.0
+        },
+        {
+          "label": "T-shirt école 16$X90",
+          "amount": 1440.0
+        },
+        {
+          "label": "Bô-sapin",
+          "amount": 850.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 24800.0
+        },
+        {
+          "label": "Finissants et matériel didactique",
+          "amount": 14000.0
+        },
+        {
+          "label": "Chandail des finissants (don Photomania)",
+          "amount": 1500.0
+        },
+        {
+          "label": "Surplus BBQ",
+          "amount": 2000.0
+        },
+        {
+          "label": "T-shirts",
+          "amount": 1350.0
+        },
+        {
+          "label": "Livres",
+          "amount": 4000.0
+        },
+        {
+          "label": "Cour d'école+ 10000 dans la compte de la Fondation",
+          "amount": 40000.0
+        },
+        {
+          "label": "Appareillage musique",
+          "amount": 3000.0
+        },
+        {
+          "label": "Matériel éducation physique",
+          "amount": 3000.0
+        },
+        {
+          "label": "Spectacledébut de la l'année",
+          "amount": 4000.0
+        },
+        {
+          "label": "Activités de masse+ VCP",
+          "amount": 7140.0
+        }
+      ]
+    },
+    "032": {
+      "revenus": [
+        {
+          "label": "Pizza octobre à juin - 8 mois",
+          "amount": 30000.0
+        },
+        {
+          "label": "Marchethon",
+          "amount": 5000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Parcours actifs dans l'écolee , aménagement cour d'école, ballons poires, vélos.",
+          "amount": 35000.0
+        }
+      ]
+    },
+    "033": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 27000.0
+        },
+        {
+          "label": "Campagnes de financement",
+          "amount": 15000.0
+        },
+        {
+          "label": "Photos",
+          "amount": 1300.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 750.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagnes de financement",
+          "amount": 7500.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2050.0
+        },
+        {
+          "label": "Cour d'école",
+          "amount": 14500.0
+        },
+        {
+          "label": "Activités plein-air",
+          "amount": 5000.0
+        }
+      ]
+    },
+    "034": {
+      "revenus": [
+        {
+          "label": "Campagne de financement Pizza",
+          "amount": 20000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Embellissement dans la cour d'école",
+          "amount": 18500.0
+        },
+        {
+          "label": "Gestion de la pizza",
+          "amount": 500.0
+        },
+        {
+          "label": "Semaine de reconnaissance",
+          "amount": 1000.0
+        }
+      ]
+    },
+    "035": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 8000.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 3270.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2500.0
+        },
+        {
+          "label": "Campagne de financement (à déterminer)",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza - projet cours d'école",
+          "amount": 8000.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 3270.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 2500.0
+        },
+        {
+          "label": "- Sortie",
+          "amount": 700.0
+        },
+        {
+          "label": "- Transport",
+          "amount": 1500.0
+        },
+        {
+          "label": "- Cérémonie",
+          "amount": 300.0
+        },
+        {
+          "label": "Campagne de financement - projet cour d'école",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "036": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 6000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités et cour d'école)",
+          "amount": 6000.0
+        }
+      ]
+    }
+  },
+  "23-24": {
+    "001": {
+      "revenus": [
+        {
+          "label": "* Pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Danse",
+          "amount": 1300.0
+        },
+        {
+          "label": "* Perfection ou chocolat meilleur au monde",
+          "amount": 5000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "* Pizza (Fourniture pour pizza, facture, matériel pédagogique…)",
+          "amount": 25000.0
+        },
+        {
+          "label": "* Danse (Facture DJ, articles pour la danse…)",
+          "amount": 1300.0
+        },
+        {
+          "label": "* Perfection ou chocolat meilleur au monde (cour de l'école)",
+          "amount": 5000.0
+        }
+      ]
+    },
+    "002": {
+      "revenus": [
+        {
+          "label": "soldes",
+          "amount": 30943.0
+        },
+        {
+          "label": "pizza",
+          "amount": 3350.0
+        },
+        {
+          "label": "6e année / pop corn-pizza",
+          "amount": 1540.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "aménagement de la cour d'école",
+          "amount": 28375.0
+        },
+        {
+          "label": "aménagement bibliothèque",
+          "amount": 1864.0
+        },
+        {
+          "label": "sortie 3e cycle",
+          "amount": 1540.0
+        },
+        {
+          "label": "en réserve",
+          "amount": 4054.0
+        }
+      ]
+    },
+    "003": {
+      "revenus": [
+        {
+          "label": "Campagne de financement - finissants",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagne de financement - cour d'école et activités de masse",
+          "amount": 6000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activité des finissants",
+          "amount": 15000.0
+        },
+        {
+          "label": "Aménagement de la cour d'école et activités de masse (carnaval, kermesse, etc.)",
+          "amount": 6000.0
+        }
+      ]
+    },
+    "005": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 14000.0
+        },
+        {
+          "label": "subway",
+          "amount": 8200.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "pizza",
+          "amount": 13000.0
+        },
+        {
+          "label": "subway",
+          "amount": 7000.0
+        },
+        {
+          "label": "Profits levée de fonds pour activités et ou projet",
+          "amount": 2200.0
+        }
+      ]
+    },
+    "006": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 52000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 10000.0
+        },
+        {
+          "label": "Don - Photomania (Projet à déterminer en septembre)",
+          "amount": 1419.0
+        },
+        {
+          "label": "Solde année antérieure (réaménagement de cour d'école)",
+          "amount": 96250.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 37000.0
+        },
+        {
+          "label": "Profit de la pizza (projet à déterminer en septembre)",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 10000.0
+        },
+        {
+          "label": "Don - Photomania",
+          "amount": 1419.0
+        },
+        {
+          "label": "Porjet ultérieur (réaménagement de cour d'école)",
+          "amount": 96250.0
+        }
+      ]
+    },
+    "008": {
+      "revenus": [
+        {
+          "label": "dîners-pizza (ils sont maintenant à toutes les semaines)",
+          "amount": 71000.0
+        },
+        {
+          "label": "campagne de financement autonomes",
+          "amount": 2000.0
+        },
+        {
+          "label": "marchethon (projet super marathonien)",
+          "amount": 10275.0
+        },
+        {
+          "label": "prévision du solde du fonds à destination spéciale au 30 juin 2023",
+          "amount": 18000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "diners-pizza-aliments et organisation",
+          "amount": 48600.0
+        },
+        {
+          "label": "finissants",
+          "amount": 6000.0
+        },
+        {
+          "label": "priorités du CÉ (réussite scolaire, sentiment d'appartenance et qualité de vie)",
+          "amount": 39000.0
+        },
+        {
+          "label": "projet 25e anniservaire de l'établissement",
+          "amount": 7675.0
+        }
+      ]
+    },
+    "011": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 8000.0
+        },
+        {
+          "label": "Marcheton",
+          "amount": 4600.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités des finissants",
+          "amount": 5000.0
+        },
+        {
+          "label": "Classe verte",
+          "amount": 5600.0
+        },
+        {
+          "label": "Fête de fin d'année",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "012": {
+      "revenus": [
+        {
+          "label": "Érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "Campagne de financement finissants",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne de financement OPP Pizza: IPAD enseignants",
+          "amount": 20000.0
+        },
+        {
+          "label": "Campagne de financement chapons : Activités reconnaissances",
+          "amount": 1500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Érablière",
+          "amount": 7500.0
+        },
+        {
+          "label": "Campagne de financement finissants",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne de financement OPP Pizza: IPAD enseignants",
+          "amount": 20000.0
+        },
+        {
+          "label": "Campagne de financement chapons : Activités de reconnaissances",
+          "amount": 1500.0
+        }
+      ]
+    },
+    "014": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 42000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 29000.0
+        },
+        {
+          "label": "BBQ",
+          "amount": 3600.0
+        },
+        {
+          "label": "Cour intérieure",
+          "amount": 5000.0
+        },
+        {
+          "label": "Projet pacifique",
+          "amount": 600.0
+        },
+        {
+          "label": "Matériel d'art",
+          "amount": 800.0
+        },
+        {
+          "label": "Instruments de musique",
+          "amount": 1000.0
+        },
+        {
+          "label": "Activités de Noël",
+          "amount": 2000.0
+        },
+        {
+          "label": "Ecole verte",
+          "amount": 800.0
+        },
+        {
+          "label": "Matériel de mapulation mathématiques",
+          "amount": 1200.0
+        },
+        {
+          "label": "Activités thématiques",
+          "amount": 600.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 1400.0
+        }
+      ]
+    },
+    "015": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement (Pizza, Subway)",
+          "amount": 5000.0
+        },
+        {
+          "label": "Ristourne photos",
+          "amount": 700.0
+        },
+        {
+          "label": "Campagne de financement finissants (Pizza, Subway)",
+          "amount": 5000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités école",
+          "amount": 4700.0
+        },
+        {
+          "label": "Finissants (Sorties, transport, services spécialisés)",
+          "amount": 6000.0
+        }
+      ]
+    },
+    "016": {
+      "revenus": [
+        {
+          "label": "Marcheton",
+          "amount": 1500.0
+        },
+        {
+          "label": "Don de photomania",
+          "amount": 750.0
+        },
+        {
+          "label": "Dîners pizza et sous-marins",
+          "amount": 20000.0
+        },
+        {
+          "label": "Vente de chocolat Rochef",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîners pizza et sous-marins",
+          "amount": 17000.0
+        },
+        {
+          "label": "Vente de chocolat Rochef",
+          "amount": 7000.0
+        },
+        {
+          "label": "Cérémonie des finissants",
+          "amount": 750.0
+        },
+        {
+          "label": "Olympiades",
+          "amount": 250.0
+        },
+        {
+          "label": "Carnaval",
+          "amount": 250.0
+        },
+        {
+          "label": "Bosco académie",
+          "amount": 500.0
+        },
+        {
+          "label": "Vélo pour le marcheton",
+          "amount": 300.0
+        },
+        {
+          "label": "Achat pour le CPES",
+          "amount": 750.0
+        },
+        {
+          "label": "Achats spécialiste musique",
+          "amount": 500.0
+        },
+        {
+          "label": "Projet classe verte",
+          "amount": 2500.0
+        },
+        {
+          "label": "Achats de jeux éducatifs pour les classes, spécialistes, orthos et TES",
+          "amount": 2450.0
+        }
+      ]
+    },
+    "018": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement cour d'école",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagnes de financement TSA - défi sportif",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagnes de financement pour les finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Solde année antérieure (2022-2023) - prévisionnel",
+          "amount": 50000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Sortie et activités des finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Sortie défi sportif",
+          "amount": 5000.0
+        },
+        {
+          "label": "Somme à accumuler pour le projet d'envergure cour d'école",
+          "amount": 65000.0
+        }
+      ]
+    },
+    "019": {
+      "revenus": [
+        {
+          "label": "Solde 2022-2023 (8 mai 2023) 11 320$",
+          "amount": 11320.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités rassembleuses et cour d'école (classe verte)",
+          "amount": 11320.0
+        }
+      ]
+    },
+    "020": {
+      "revenus": [
+        {
+          "label": "Midis pizza",
+          "amount": 6000.0
+        },
+        {
+          "label": "Chocolat de Pâques",
+          "amount": 9000.0
+        },
+        {
+          "label": "Vente de chandails",
+          "amount": 1500.0
+        },
+        {
+          "label": "Bouteilles consignées",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités étudiantes de masse",
+          "amount": 13500.0
+        },
+        {
+          "label": "Activités des finissants",
+          "amount": 3000.0
+        },
+        {
+          "label": "Achat massif de matériel scolaire",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "026": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "activité finissant",
+          "amount": 3000.0
+        },
+        {
+          "label": "bbq",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "activité finissant",
+          "amount": 3000.0
+        },
+        {
+          "label": "bbq",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "027": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement variées Variées",
+          "amount": 25000.0
+        },
+        {
+          "label": "Activités pour les finissants - campagnes de financement Variées",
+          "amount": 7000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants Album",
+          "amount": 500.0
+        },
+        {
+          "label": "chandails",
+          "amount": 1000.0
+        },
+        {
+          "label": "Transports",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 3000.0
+        },
+        {
+          "label": "Matériels pédagogiques",
+          "amount": 5000.0
+        },
+        {
+          "label": "Matériels sportifs",
+          "amount": 5000.0
+        },
+        {
+          "label": "Embellissement de la cour d'école",
+          "amount": 15000.0
+        }
+      ]
+    },
+    "028": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 52000.0
+        },
+        {
+          "label": "Don Photomania",
+          "amount": 1400.0
+        },
+        {
+          "label": "T-shirt école x 100)",
+          "amount": 1700.0
+        },
+        {
+          "label": "Bô-sapin",
+          "amount": 700.0
+        },
+        {
+          "label": "Campagne de financement élèves finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "BBQ fin d'année",
+          "amount": 2000.0
+        },
+        {
+          "label": "Montant des années antérieures",
+          "amount": 63500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 35800.0
+        },
+        {
+          "label": "Finissants et matériel didactique +",
+          "amount": 16200.0
+        },
+        {
+          "label": "Chandails des finissants (don Photomania + )",
+          "amount": 2000.0
+        },
+        {
+          "label": "T-shirts école",
+          "amount": 1700.0
+        },
+        {
+          "label": "Sortie de fin d'année élèves finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Projet cour d'école phase 1 (été 2023)",
+          "amount": 10000.0
+        },
+        {
+          "label": "Spectacle de début d'année",
+          "amount": 4000.0
+        },
+        {
+          "label": "Activités de masse + VCP",
+          "amount": 6000.0
+        },
+        {
+          "label": "Matériel éducation physique",
+          "amount": 3000.0
+        },
+        {
+          "label": "Appareillage musique",
+          "amount": 3000.0
+        },
+        {
+          "label": "Surplus BBQ fin d'année",
+          "amount": 2000.0
+        },
+        {
+          "label": "Projet cour d'école phase 2 ?",
+          "amount": -10000.0
+        },
+        {
+          "label": "Autre(s) projet(s)",
+          "amount": 37600.0
+        }
+      ]
+    },
+    "029": {
+      "revenus": [
+        {
+          "label": "Finissants (campagne de financement) sept.à mai",
+          "amount": 4000.0
+        },
+        {
+          "label": "DJO cinéma 50% février",
+          "amount": 1231.0
+        },
+        {
+          "label": "Opération Enfant Soleil Porte ton pyj! février",
+          "amount": 1000.0
+        },
+        {
+          "label": "Vente de pâtisseries (5e année) oct. À mai",
+          "amount": 4900.0
+        },
+        {
+          "label": "Vente de vêtements à l'effigie de l'école des Tournesols novembre",
+          "amount": 300.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants (campagne de financement) sept. à mai",
+          "amount": 4000.0
+        },
+        {
+          "label": "DJO cinéma 50% février",
+          "amount": 1231.0
+        },
+        {
+          "label": "Opération Enfant Soleil Porte ton pyj! février",
+          "amount": 1000.0
+        },
+        {
+          "label": "Vente de pâtisseries (5e année) oct.à mai",
+          "amount": 4900.0
+        },
+        {
+          "label": "Vente de vêtements à l'effigie de l'école des Tournesols novembre",
+          "amount": 300.0
+        }
+      ]
+    },
+    "032": {
+      "revenus": [
+        {
+          "label": "Pizza octobre 2023 à juin 2024",
+          "amount": 45000.0
+        },
+        {
+          "label": "Marchethon",
+          "amount": 5000.0
+        },
+        {
+          "label": "Chocolat Pâques",
+          "amount": 1284.0
+        },
+        {
+          "label": "Photomania",
+          "amount": 515.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Corridors actifs, aménagemcaebnatsn, ovnélos,",
+          "amount": 36799.0
+        },
+        {
+          "label": "Profit",
+          "amount": 15000.0
+        }
+      ]
+    },
+    "033": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 27000.0
+        },
+        {
+          "label": "Tacos",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagnes de financement(finissants et école)",
+          "amount": 15000.0
+        },
+        {
+          "label": "Photos",
+          "amount": 750.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 18000.0
+        },
+        {
+          "label": "Tacos",
+          "amount": 10000.0
+        },
+        {
+          "label": "Campagnes de financement",
+          "amount": 9500.0
+        },
+        {
+          "label": "Cour d'école",
+          "amount": 10000.0
+        },
+        {
+          "label": "Activités plein-air(ski de fond, randonnées)",
+          "amount": 5000.0
+        },
+        {
+          "label": "Activités école",
+          "amount": 5250.0
+        }
+      ]
+    },
+    "034": {
+      "revenus": [
+        {
+          "label": "Campagne de financement dîner Pizza",
+          "amount": 25000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Embellissement de la cour d'école",
+          "amount": 23500.0
+        },
+        {
+          "label": "Gestion de la pizza",
+          "amount": 500.0
+        },
+        {
+          "label": "Activités de reconnaissance du personnel",
+          "amount": 1000.0
+        }
+      ]
+    },
+    "035": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 12000.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 4000.0
+        },
+        {
+          "label": "- Subway",
+          "amount": 500.0
+        },
+        {
+          "label": "- campagne de financement à déterminer",
+          "amount": 2500.0
+        },
+        {
+          "label": "Campagne de financement (à déterminer)",
+          "amount": 10000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Projet cour d'école (pizza)",
+          "amount": 12000.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 4000.0
+        },
+        {
+          "label": "- sortie",
+          "amount": 1600.0
+        },
+        {
+          "label": "- transport",
+          "amount": 1000.0
+        },
+        {
+          "label": "- cérémonie",
+          "amount": 400.0
+        },
+        {
+          "label": "Campagne de financement ;",
+          "amount": 10000.0
+        }
+      ]
+    },
+    "036": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 6000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités, parascolaire, cour d'école)",
+          "amount": 6000.0
+        }
+      ]
+    }
+  },
+  "24-25": {
+    "001": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 25000.0
+        },
+        {
+          "label": "Danse",
+          "amount": 1300.0
+        },
+        {
+          "label": "Chocolat meilleur au monde ou Confiserie Jermax",
+          "amount": 5000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza (Fourniture pour pizza, facture, matériel pédagogique…)",
+          "amount": 25000.0
+        },
+        {
+          "label": "Danse (Facture DJ, articles pour la danse…)",
+          "amount": 1300.0
+        },
+        {
+          "label": "Chocolat meilleur au monde ou Confiserie Jermax",
+          "amount": 5000.0
+        }
+      ]
+    },
+    "002": {
+      "revenus": [
+        {
+          "label": "soldes",
+          "amount": 30000.0
+        },
+        {
+          "label": "Pizza",
+          "amount": 22352.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "cabanon et bibliothèque",
+          "amount": 35800.0
+        },
+        {
+          "label": "pizza",
+          "amount": 16552.0
+        }
+      ]
+    },
+    "003": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 13000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissant",
+          "amount": 5000.0
+        },
+        {
+          "label": "Activités-sorties scolaires",
+          "amount": 8000.0
+        }
+      ]
+    },
+    "004": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 28000.0
+        },
+        {
+          "label": "Profit de la pizza (projet à déterminer en septembre)",
+          "amount": 13000.0
+        },
+        {
+          "label": "Campagne de financement- à déterminer - activité de finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "Projet ultérieure - cour d'école",
+          "amount": 61209.0
+        },
+        {
+          "label": "solde antérieure (extrascolaires- surpl. Année ant.",
+          "amount": 46702.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 28000.0
+        },
+        {
+          "label": "Profit de la pizza (projet à déterminer en septembre)",
+          "amount": 13000.0
+        },
+        {
+          "label": "Campagne de financement- à déterminer - activité de finissants",
+          "amount": 9000.0
+        },
+        {
+          "label": "Projet ultérieure - cour d'école",
+          "amount": 61209.0
+        },
+        {
+          "label": "solde antérieure (extrascolaires- surpl. Année ant.",
+          "amount": 46702.0
+        }
+      ]
+    },
+    "005": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 14000.0
+        },
+        {
+          "label": "Subway",
+          "amount": 8200.0
+        },
+        {
+          "label": "Vente de t-shirt 150",
+          "amount": 2550.0
+        },
+        {
+          "label": "Épluchette-pizza début d'année (19 septembre)",
+          "amount": 2150.0
+        },
+        {
+          "label": "Activité citrouilles (30 octobre)",
+          "amount": 200.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 13000.0
+        },
+        {
+          "label": "Subway",
+          "amount": 7000.0
+        },
+        {
+          "label": "Vente de t-shirt",
+          "amount": 2550.0
+        },
+        {
+          "label": "Épluchette-pizza début d'année (19 septembre)",
+          "amount": 1518.0
+        },
+        {
+          "label": "Cour d'école",
+          "amount": 2082.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 750.0
+        },
+        {
+          "label": "Activité citrouilles (30 octobre)",
+          "amount": 200.0
+        }
+      ]
+    },
+    "006": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 52000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 10000.0
+        },
+        {
+          "label": "Solde année antérieure (réaménagement de cour d'école)",
+          "amount": 114000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 37000.0
+        },
+        {
+          "label": "Profit de la pizza (Activités de masse \"école\")",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagne de financement - à déterminer (Activités finissants)",
+          "amount": 10000.0
+        },
+        {
+          "label": "Projets ultérieurs",
+          "amount": 111000.0
+        },
+        {
+          "label": "Activités finissants (engagement du CÉ pour 3 ans)",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "008": {
+      "revenus": [
+        {
+          "label": "diners-pizza (ils sont maintenus à toutes les semaines)",
+          "amount": 71000.0
+        },
+        {
+          "label": "campagnes de financement autonomes",
+          "amount": 11000.0
+        },
+        {
+          "label": "revenus de notre friperie",
+          "amount": 200.0
+        },
+        {
+          "label": "prévision du solde de fonds à destination spéciale au 30 juin 2024",
+          "amount": 26000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "dîners-pizza aliments et organisation",
+          "amount": 49000.0
+        },
+        {
+          "label": "finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "priorités du conseil d'établissement ( réussite scolaire, sentiment d'appartenance et qualité de vie)",
+          "amount": 48200.0
+        },
+        {
+          "label": "projet pilote douance pour l'école",
+          "amount": 5000.0
+        },
+        {
+          "label": "artciles sentiment d'appartenance élèves et personnel",
+          "amount": 3000.0
+        },
+        {
+          "label": "matériel d'art pour projet TES et école",
+          "amount": 4000.0
+        }
+      ]
+    },
+    "011": {
+      "revenus": [
+        {
+          "label": "Solde 2023-2024 (23 mai 202) 8447$",
+          "amount": 8447.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "activités rassembleuses, cour d'école",
+          "amount": 8447.0
+        }
+      ]
+    },
+    "012": {
+      "revenus": [
+        {
+          "label": "Érablière",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne financement des finissants",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagne de financement de l'OPP Dîners",
+          "amount": 25000.0
+        },
+        {
+          "label": "Campagne de financement de l'OPP Saveurs des Monts",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne de financement Échos des champs",
+          "amount": 1500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Érablière",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne financement des finissants",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagne de financement de l'OPP Dîners",
+          "amount": 25000.0
+        },
+        {
+          "label": "Campagne de financement de l'OPP Saveurs des Monts",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagne de financement Échos des champs",
+          "amount": 1500.0
+        }
+      ]
+    },
+    "015": {
+      "revenus": [
+        {
+          "label": "Campagne pizza/finissants",
+          "amount": 17000.0
+        },
+        {
+          "label": "Soirée cinéma",
+          "amount": 1000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagne pizza/finissants",
+          "amount": 10000.0
+        },
+        {
+          "label": "Chandails de l'école",
+          "amount": 6000.0
+        },
+        {
+          "label": "Chandails finissants",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "016": {
+      "revenus": [
+        {
+          "label": "Don de photomania",
+          "amount": 700.0
+        },
+        {
+          "label": "Dîners pizza_sous-marins",
+          "amount": 25000.0
+        },
+        {
+          "label": "Vente produits perfection",
+          "amount": 10000.0
+        },
+        {
+          "label": "Vente écoles enracinées",
+          "amount": 4500.0
+        },
+        {
+          "label": "Marcheton",
+          "amount": 1000.0
+        },
+        {
+          "label": "Vente chocolat Rochef",
+          "amount": 10000.0
+        },
+        {
+          "label": "Vente étiquettes colle à moi",
+          "amount": 500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Dîner pizza_sous-marins",
+          "amount": 10000.0
+        },
+        {
+          "label": "Vente produits perfection",
+          "amount": 8000.0
+        },
+        {
+          "label": "Vente produits écoles enracinées",
+          "amount": 3000.0
+        },
+        {
+          "label": "Vélo marcheton",
+          "amount": 300.0
+        },
+        {
+          "label": "Ventre produits Rochef",
+          "amount": 8000.0
+        },
+        {
+          "label": "Fête de finissants",
+          "amount": 750.0
+        },
+        {
+          "label": "Olympiades",
+          "amount": 250.0
+        },
+        {
+          "label": "Carnaval",
+          "amount": 250.0
+        },
+        {
+          "label": "Projet classe extérieure",
+          "amount": 18000.0
+        },
+        {
+          "label": "Laboratoire créatif",
+          "amount": 3150.0
+        }
+      ]
+    },
+    "018": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement cour d'école",
+          "amount": 15000.0
+        },
+        {
+          "label": "Campagnes de financement TSA - défi sportif",
+          "amount": 5000.0
+        },
+        {
+          "label": "Campagnes de financement pour les finissants",
+          "amount": 4000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Sortie et activités des finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Sortie défi sportif",
+          "amount": 5000.0
+        },
+        {
+          "label": "Cour d'école",
+          "amount": 15000.0
+        }
+      ]
+    },
+    "019": {
+      "revenus": [
+        {
+          "label": "Solde 2023-2024 (23 mai 202) 8447$",
+          "amount": 8447.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "activités rassembleuses, cour d'école",
+          "amount": 8447.0
+        }
+      ]
+    },
+    "020": {
+      "revenus": [
+        {
+          "label": "Diners pizza",
+          "amount": 4205.0
+        },
+        {
+          "label": "Chocolat Pâques",
+          "amount": 3600.0
+        },
+        {
+          "label": "Bouteilles",
+          "amount": 4190.0
+        },
+        {
+          "label": "Fête de fin d'année",
+          "amount": 1000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Activités étudiantes de masse",
+          "amount": 5000.0
+        },
+        {
+          "label": "Activités des finissants",
+          "amount": 4190.0
+        },
+        {
+          "label": "Fête de fin d'année",
+          "amount": 1000.0
+        },
+        {
+          "label": "Cour d'école ( Chocolat de Pâques)",
+          "amount": 2805.0
+        }
+      ]
+    },
+    "026": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 41980.0
+        },
+        {
+          "label": "activité finissant",
+          "amount": 3000.0
+        },
+        {
+          "label": "bbq",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "pizza",
+          "amount": 41980.0
+        },
+        {
+          "label": "activité finissant",
+          "amount": 3000.0
+        },
+        {
+          "label": "bbq",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "027": {
+      "revenus": [
+        {
+          "label": "Campagnes de financements variées (pizza, subway, vente chandails) Variées",
+          "amount": 30000.0
+        },
+        {
+          "label": "Activités pour les finissants - campagnes de financement variées",
+          "amount": 8000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Finissants Album",
+          "amount": 500.0
+        },
+        {
+          "label": "Chandails",
+          "amount": 1000.0
+        },
+        {
+          "label": "Transport",
+          "amount": 2500.0
+        },
+        {
+          "label": "Sorties",
+          "amount": 3500.0
+        },
+        {
+          "label": "Cérémonies",
+          "amount": 500.0
+        },
+        {
+          "label": "Matériels pédagogiques",
+          "amount": 5000.0
+        },
+        {
+          "label": "Matériels sportifs",
+          "amount": 5000.0
+        },
+        {
+          "label": "Embellissement cour d'école",
+          "amount": 20000.0
+        }
+      ]
+    },
+    "028": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 52000.0
+        },
+        {
+          "label": "T-shirt école x 100)",
+          "amount": 1700.0
+        },
+        {
+          "label": "Bô-sapin",
+          "amount": 700.0
+        },
+        {
+          "label": "Campagne de financement élèves finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "BBQ fin d'année",
+          "amount": 2000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 35800.0
+        },
+        {
+          "label": "Finissants et matériel didactique +",
+          "amount": 16900.0
+        },
+        {
+          "label": "T-shirts école",
+          "amount": 1700.0
+        },
+        {
+          "label": "Sortie de fin d'année élèves finissants",
+          "amount": 4000.0
+        },
+        {
+          "label": "Surplus BBQ fin d'année",
+          "amount": 2000.0
+        }
+      ]
+    },
+    "029": {
+      "revenus": [
+        {
+          "label": "Diners pizza",
+          "amount": 36000.0
+        },
+        {
+          "label": "Campagne de financement chandails",
+          "amount": 8000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Achat de pizza",
+          "amount": 11000.0
+        },
+        {
+          "label": "Finissants",
+          "amount": 12000.0
+        },
+        {
+          "label": "Ammeublement bibliothèque",
+          "amount": 13000.0
+        },
+        {
+          "label": "Achat de chandails",
+          "amount": 3000.0
+        },
+        {
+          "label": "Activités de masse école",
+          "amount": 5000.0
+        }
+      ]
+    },
+    "032": {
+      "revenus": [
+        {
+          "label": "pizza",
+          "amount": 24000.0
+        },
+        {
+          "label": "marcheton",
+          "amount": 4600.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "pizza",
+          "amount": 21000.0
+        },
+        {
+          "label": "cour d'école",
+          "amount": 1161.0
+        },
+        {
+          "label": "cabanon",
+          "amount": 6439.0
+        }
+      ]
+    },
+    "033": {
+      "revenus": [
+        {
+          "label": "Campagne de financement OPP Pizza",
+          "amount": 44000.0
+        },
+        {
+          "label": "Campagne de financement OPP Étiquettes",
+          "amount": 3000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagne de financement OPP Pizza - cour d'école",
+          "amount": 44000.0
+        },
+        {
+          "label": "Campagne de financement OPP Étiquettes",
+          "amount": 3000.0
+        }
+      ]
+    },
+    "034": {
+      "revenus": [
+        {
+          "label": "Campagne de financement : Dîners-pizzas : Bloc 1 : maintien, entretien et aménagement de la cour d'école",
+          "amount": 25000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagne de financement : Dîners-pizzas : Bloc 1 : maintien, entretien et aménagement de la cour d'école",
+          "amount": 25000.0
+        }
+      ]
+    },
+    "035": {
+      "revenus": [
+        {
+          "label": "Pizza",
+          "amount": 17225.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Projet cour d'école",
+          "amount": 17225.0
+        },
+        {
+          "label": "Chandails finissants",
+          "amount": 1200.0
+        },
+        {
+          "label": "Sortie",
+          "amount": 1000.0
+        },
+        {
+          "label": "Cérémonie",
+          "amount": 300.0
+        }
+      ]
+    },
+    "036": {
+      "revenus": [
+        {
+          "label": "Campagnes de financement",
+          "amount": 6000.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Campagnes de financement (activités, parascolaire, cour d'école)",
+          "amount": 6000.0
+        }
+      ]
+    },
+    "037": {
+      "revenus": [
+        {
+          "label": "Dîners pizza",
+          "amount": 18000.0
+        },
+        {
+          "label": "Don de Photomania",
+          "amount": 500.0
+        }
+      ],
+      "depenses": [
+        {
+          "label": "Pizza",
+          "amount": 13000.0
+        },
+        {
+          "label": "Activités pour les élèves +",
+          "amount": 5500.0
+        }
+      ]
+    }
+  }
+}
