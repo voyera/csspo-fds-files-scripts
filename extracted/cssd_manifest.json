@@ -1,0 +1,3193 @@
+{
+  "network": "cssd",
+  "schools": {
+    "050": "Massé",
+    "051": "La Source",
+    "053": "du Nouveau-Monde",
+    "054": "de Touraine",
+    "056": "le Tremplin",
+    "059": "l'Oiseau Bleu",
+    "063": "Sainte-Élisabeth",
+    "064": "de la Colline",
+    "065": "le Petit Prince",
+    "066": "de l'Envolée",
+    "067": "du Vallon",
+    "068": "des Cépages",
+    "069": "de l'Escalade",
+    "070": "de l'Odyssée",
+    "072": "du Bois-Joli",
+    "073": "des Trois-Saisons",
+    "075": "Carle",
+    "076": "des Sentiers",
+    "077": "l'Équipage",
+    "079": "des Belles-Rives",
+    "080": "de la Montée",
+    "081": "de la Traversée",
+    "083": "la Sablonnière",
+    "085": "des Apprentis-Sages",
+    "086": "de la Rose-des-Vents",
+    "087": "de l'Orée-des-Bois",
+    "088": "du Sommet",
+    "089": "du Cheval-Blanc",
+    "097": "de la Traversée"
+  },
+  "identityNotes": {
+    "072": "Nom de fichier FDS 2019-20 erroné (« De l'Odyssée ») ; la page titre des prévisions budgétaires confirme ÉCOLE DU BOIS JOLI.",
+    "076": "Nouvelle école apparue en 2023-24 ; PDF titré « École Lavigne », PNG FDS nommé « Des Sentiers » (renommage à vérifier).",
+    "081": "Code utilisé jusqu'en 2022-23 pour l'école de la Traversée.",
+    "097": "Reprend l'école de la Traversée à partir de 2023-24 (clientèle 425 → 254 : possible scission, à documenter)."
+  },
+  "entries": [
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/050 Massé.png",
+      "sha256": "e696d5cee1feae56f66c4ca53d1527ea2862a3fd8e7fdffb501f49aa2f56ec11",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/051 La Source.png",
+      "sha256": "3b13c0b5a2a89c043e9c87779b0d0920623cd342e71c653828608d95cf65e22b",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/053 Du Nouveau-Monde.png",
+      "sha256": "e22e30d3c4b2febed3a4db69e1fc359898a6d2c76dcaec0f3a6d3854b93d4db1",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/054 De Touraine.png",
+      "sha256": "d34d86b38a07e5b00d5fd8aba4bc319aae632602a339b7260885c655e6c1ab8e",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/056 Le Tremplin.png",
+      "sha256": "a26c7211962b2995587d42671207fc6136de100c7d0adef5184068166de14f72",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/059 L'Oiseau Bleu.png",
+      "sha256": "99f0607e9ce68b2cb58145487c7eaef725699fb5eeecf107de0be6bd2b09c233",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/063 Ste-Élisabeth.png",
+      "sha256": "8e0004deb796ee89e990aab9f68712bc412cff455c98bc3a6d8ac8d097c00a19",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/064 De la Colline.png",
+      "sha256": "542d9b3970804fdbf9e8c2ea2b0366e27494b3c1895a52825237f6f0076b0c59",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/065 Le Petit Prince.png",
+      "sha256": "776e5299fcebc9df172ba621ca0dc40b20091b2d8bd9c792e7d7bdc32557b4c7",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/066 De l'Envolée.png",
+      "sha256": "f31ac077780f2e8e1f61438cc26dcbc2df222e04de5ced0ffea889396cf21e93",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/067 Du Vallon.png",
+      "sha256": "955ed3e0db4b4f8915050a1b6ee04a04005f186af2d3e3beb9ef718d5f7e5a1e",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/068 Des Cépages.png",
+      "sha256": "14ca1ab8416039dc8569e012cc219c025f40a258842e7a1aa35d11449db76861",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/069 De l'Escalade.png",
+      "sha256": "6e32c59cda6cb38dbfd9b9def0ccf164791d84b486ab85962a166be2bc2fcda7",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/070 De l'Odyssée.png",
+      "sha256": "3eb89bf24fabc3654276369d797c7b76d5ad7e40f3ae94c0c348a11b73241c50",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/072 De l'Odyssée.png",
+      "sha256": "d4648b3d5b58a2049804d36454885a2331588dba6b451cea2a3603adba356dbe",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/073 Des Trois-Saisons.png",
+      "sha256": "64b74e3b83c8fb3d85ef4884797ac73ee5e835a255e0dbd472155cc1db66070e",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/075 Carle.png",
+      "sha256": "ababf841e6250041693c43df6e7af53bb4240a19826d0f5a7d02591954d975e0",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/077 L'Équipage.png",
+      "sha256": "0631cc15ed5e7239f03a13dc2e6c2c5400f7a8d638aa72c2e5e3a4857771e9c5",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/079 Des Belles-Rives.png",
+      "sha256": "4a2ee591429e532baa9b81cc710c9ed9f31f15ce4cfed9d7c192733335dcc632",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/080 De la Montée.png",
+      "sha256": "6f2c42f2b7d294bbd83ea1b10f0beace3f522990e42852d7147140064b8214ee",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/081 De la Traversée.png",
+      "sha256": "d62fbdcac1601aeb0013fa12a4ac0e14d034f323d5487e000ff1da4eef690451",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/083 La Sablonnière.png",
+      "sha256": "f6ad05fbef8d31b374043350c4103662f126772fa0e83015a09442257d06647e",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/085 Des Apprentis-Sages.png",
+      "sha256": "ee2485a4fd218b2fe650d35a5264fac7921d308f7279cfeb3cb5d407bbc10379",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/086 De la Rose-des-Vents.png",
+      "sha256": "b00c975be8123ea9fad51415e521852cbbf92c5d73e8062d256753da784dd2ac",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/087 De l'Orée-des-Bois.png",
+      "sha256": "ac38027d7f53c1dff8f6fa23783a8796f6dbcca3908b3b6240afe431716d0d3b",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/088 Du Sommet.png",
+      "sha256": "fd0b375bbbf74cfd429040cab2fd89a70fb6ed9dbb4712b36e148cb4d2b25a60",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2019-2020/089 Du Cheval-Blanc.png",
+      "sha256": "7b1a97295f67fbf9fefac32b78c3f423c18d8f049680db9c363479afef2abec9",
+      "status": "present",
+      "format": "summary-4-lignes"
+    },
+    {
+      "family": "fds",
+      "year": "2019-2020",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/050.png",
+      "sha256": "4874b5200cbbb24af98c7849bb6c9d3f852db4e4f4950aaa2de19f02c9727efa",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/051.png",
+      "sha256": "ceed518a5da069c91b166a6607ae02175719b76e07ce864e49f00ba219946c47",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/053.png",
+      "sha256": "4b25698a9ff739425f38fc28e3741890c5b012279adf52cca078a1cc8d1980d2",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/054.png",
+      "sha256": "1ba68ea5c26cdd03c93d7140629ca6e36dab5fee6e6487db125e9b1bcdd910a5",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/056.png",
+      "sha256": "637af0ed38b01c803b448472c975db98dd283b4d31700e0b193e5d620a5343c3",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/059.png",
+      "sha256": "d6ce6e0b7ab542f3e4d16b568df315a636f89252823b47e1a4cae54b619e4e49",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/063.png",
+      "sha256": "01eb58a6a59056f5865f4bd999ce0684dd037fdc012e719b1ab76a961ec50c28",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/064.png",
+      "sha256": "761735c3e9a5d99257b29cb7013cdfe5c35b507928f7a1f365f00f28058383a1",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/065.png",
+      "sha256": "d2c32e22e463d7c3141b2d85f697feda9ba48fb33caf7d38f2a27a24f2e36c43",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/066.png",
+      "sha256": "7b9b104202c8e151b7d42b37da3aa98a9147df56a5d886547e71f656aaeaeeba",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/067.png",
+      "sha256": "c8986d172df0c367ba46f8f92c434d2b559bd25dcaad4f2a729414d90e1b3ed1",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/068.png",
+      "sha256": "c9b33a39153ef0ae41acf8e1ca529963e35f6a2ba9ea37d64aa3b3672d6f4559",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/069.png",
+      "sha256": "8b2454e96d47839cb1af8a8f0fa3b73dbdd9c920e60aab0ec2aa6603534faa89",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/070.png",
+      "sha256": "3c7b6c889a7388239df2e289e933ba71684d2d9d80058b94787d3ff16d99a50c",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/072.png",
+      "sha256": "15b21780785629d0a410c62177fa47e6fd93597e0714c164770bcfb2fa41e3fa",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/073.png",
+      "sha256": "c643570b4945c3f951179d808f3776cd82a82e4fbe68e605b806badc93fdd6a7",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/075.png",
+      "sha256": "85501f56942b8fcc2483a1a7a5692d4cac2587e1d00ba91108b362562de9c451",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/077.png",
+      "sha256": "8fefed80a79dd52de040be710cd2430a0f06d0c22c0cbc025b7ffa9e1a3baa8f",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/079.png",
+      "sha256": "c24b0ead03f91b57c2859d0580b01397c447c37781d1959c0ab0d95049fca9cd",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/080.png",
+      "sha256": "5324b47b38ac3ccf1b84233d094cbc498715da581fa88394986b7b428b8505e7",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/081.png",
+      "sha256": "bc68afb2852ff3ee8320d13b78692827aa97984e7859cf970d4e65b648ceb7b3",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/083.png",
+      "sha256": "2f481fc6c409687040d46d304d02e9e59b24d5865314230172c2be6131c18aa5",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/085.png",
+      "sha256": "eea98e72182cb889a5c3cdf42b410472f797e88fdb4400cae5e266667f737f49",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/086.png",
+      "sha256": "b3e1d99a00d114d28b5f08cfc49341c2d8504df7dfce373e4c0199f9bde73bc9",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/087.png",
+      "sha256": "e90c0b26354fe2b7a7b5c2f4c8018bdbccda123bd03ea62a98857be3d7fe9daa",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/088.png",
+      "sha256": "34bc9060940fc48c24c496038b6c60601817b2f25391a56ae28acf9177fa6c8c",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2020-2021/089.png",
+      "sha256": "ee646db18461e056cbf53e79718f492fc4ce9724a111ae5bc6dfb8609c64501d",
+      "status": "present",
+      "format": "table-projets-ajouts"
+    },
+    {
+      "family": "fds",
+      "year": "2020-2021",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/050 Massé.png",
+      "sha256": "8a9cde4b34a1f9cb3b987ca8df39d79f51842b96bbd4765b3a0e90c9f88a779c",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/051 La Source.png",
+      "sha256": "a47e69fac9d6fbd2dea65109291c96f931ad639c292b32965a1c5f02616079f0",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/053 Du Nouveau-Monde.png",
+      "sha256": "acda57e6670642b0ef056d197a25f948760c810a7e5eabafe2a6c27a8adc9f0b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/054 De Touraine.png",
+      "sha256": "75a2f0822a33e27c1543319124fdb041417b0a83bd306b7f046fdc6d0ee28e7f",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/056 Le Tremplin.png",
+      "sha256": "15a1aebbfa8364f1bade7cabce1377a91e37b2eae3cf5aadd116734ffb003948",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/059 L'Oiseau Bleu.png",
+      "sha256": "6ca173aa3368ff7f5888e13c09c282d8b787146ac9045fd22b46d6658ac78e0c",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/063 Ste-Élisabeth.png",
+      "sha256": "25a4b244ef67e0bc54ef797e757dfb0f3be7ae1f25ac9ca6f4f6fa2b9fc2358c",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/064 De la Colline.png",
+      "sha256": "bd526793b2e68b37906f63baae51414470aec4415ca7bcabd0e0b7f27827d1a7",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/065 Le Petit Prince.png",
+      "sha256": "8d65c19c2784776fd70930da73a92e557655932ea81b6eeeb616a54f3ec8c667",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/066 De l'Envolée.png",
+      "sha256": "98823ffb155c13b561136194489cdf304ae7393dbcdbd1da516bd69c038c081e",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/067 Du Vallon.png",
+      "sha256": "7111fc91e0db3bf45caf4603b6c6b8adbfa830d48a4b3feebfb411bfb4354a0b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/068 Des Cépages.png",
+      "sha256": "95fa810f63230a68b1e335ce25ddcc7b155cceb238ee5ed07faab28c3dbb0113",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/069 De l'Escalade.png",
+      "sha256": "5bbd4e8ffb3cd6624d0a08c55068498aa2a727ab6699b6282ae075913ecbf55f",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/070 De l'Odyssée.png",
+      "sha256": "9fb5c22ffbe4d2a2ce82d08f496b59fdabac6e81d7f6ba1e56cd6745f278eb2d",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/072 Du Bois Joli.png",
+      "sha256": "35c703a5cbff645bdf220d8af3bb49cb5518d818842dca5f4bfb2a3ad61fa476",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/073 Des Trois-Saisons.png",
+      "sha256": "e12da15b2415c671207134ec1fa6f2c871ac8e7635bfa22a6b6ed219f47b926a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/075 Carle.png",
+      "sha256": "5f9bcd5a894a30e8054dc92159c632c6da75811cb0f658a856e9cd7da8e3de4a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/077 L'Équipage.png",
+      "sha256": "32bde39c2a2f9035f4c1252bd08709a980d4952a6032aadfe050d4d388f3f83c",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/079 Des Belles-Rives.png",
+      "sha256": "5cdc7cc699bcd47468906da22cb9d3eaa7cc5f5a432b75ca8790dbdda5ed8129",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/080 De la Montée.png",
+      "sha256": "62bcba032f89bddd597e5f9acd57f146dbb473b51640413e3c8c7bedee1ed1ca",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/081 De la Traversée.png",
+      "sha256": "3e8bc5172b8b867f355240e13b32ae36966fdda482759377a3cb1ca0faf9d7d2",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/083 La Sablonnière.png",
+      "sha256": "f5d4645e7e6d5266aa4c73b454cd33167217090e7acf4c4641d69a802a565852",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/085 Des Apprentis-Sages.png",
+      "sha256": "0d5f1d6a365ab6f50207f80642cb204a04f429486e4384d2b29b1a9f8f0fcfff",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/086 De la Rose-des-Vents.png",
+      "sha256": "ffe3bb3c64f3a629784b869f6cc80276ed1b4ad7d1b2bd6c613432133c387ada",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/087 De l'Orée-des-Bois.png",
+      "sha256": "b62cba11bfe8eda1573867ff624d9deb2cdbc1e7c94b6ae666e9d4388cb02332",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/088 Du Sommet.png",
+      "sha256": "bb42b40ae406cb3c96253a822a90f8ba739afeead624d427a913119bb8f35582",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2021-2022/089 Du Cheval-Blanc.png",
+      "sha256": "24b0bd62575a2e4f20e8678ab69b711d77299566e53b083c80e92d075b0a95e4",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2021-2022",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/050 Massé.png",
+      "sha256": "2d5d5a4051b9100c5cde397c3f70a8619ea52f64739f2f4b7dae2e03527f2d29",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/051 La Source.png",
+      "sha256": "243e1ce001987f293a42d598c68d57e0f3e1ebc9a302746f55c54b9e6be1548b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/053 Du Nouveau-Monde.png",
+      "sha256": "4d218afbd006ccbc31831cd27663d79613abf151c2ff9ac733f4abc22abf0b3d",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/054 De Touraine.png",
+      "sha256": "30a439d1b5fccaf3b05c1b2fa8bbb5cdc003670fe20149a67e57660c79ee1a3d",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/056 Le Tremplin.png",
+      "sha256": "4b0847387b05b27423f406a5176125bd63246d8c936318f6fce2000f4bf98631",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/059 L'Oiseau Bleu.png",
+      "sha256": "3e4e129de3c0e1597a98fe1bcc5f33860b3755324034d2a8c17a77753e669ba0",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/063 Ste-Élisabeth.png",
+      "sha256": "8b179ec627ed1b65bcb7caa75cde23a188bcaf7f155344801bd58ced0638c645",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/064 De la Colline.png",
+      "sha256": "2b26ccb006e10a278739f5f81142d90bbe45dd7302a41ebc35af6412f472fb4f",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/065 Le Petit Prince.png",
+      "sha256": "749a633475665e6eaf3efdb579d0ccf0b3478460f7637e325496f37bff8c4a7f",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/066 De l'Envolée.png",
+      "sha256": "4c36422889690c83a095b741ccd11f24a0ece5da3ca36c6fd9e66dacf452288a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/067 Du Vallon.png",
+      "sha256": "56bc705989b5568d38af2824b12a1f1f27f4b758e7e093322a20eadea1f4e88a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/068 Des Cépages.png",
+      "sha256": "105e66e45e9d1e7f6226a777b372f80f1b106dc15869a85b3e97786d1261f8d2",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/069 De l'Escalade.png",
+      "sha256": "f9d80a9f5162cbf4817b29abcfd1ddd9333713699908fe2b28f4bae22438d106",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/070 De l'Odyssée.png",
+      "sha256": "09a801f95696cdff54a1896ade1ed1ebb24407d3870fe056e470705b6fa008fc",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/072 Du Bois Joli.png",
+      "sha256": "98397b6968f55c84f84d4f42024c8ee419e1c26018606519c00ec89eab65a800",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/073 Des Trois-Saisons.png",
+      "sha256": "79e43a94e8ba0e92f0283ee1ef1d3b7df97ea909010f088ba7e5ce3e006fa8ed",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/075 Carle.png",
+      "sha256": "6e205ac6e734a4509ee7eaf10c21b229f70f209157c63f5e9ab3fad93008ac62",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/077 L'Équipage.png",
+      "sha256": "3cd5a1f614a9da8ada180c151039a747bc8f49fdae4379df54b41a79b22bae18",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/079 Des Belles-Rives.png",
+      "sha256": "0bc289b79ad03ad0384d92bea809ac153f3017eb4eb3d9cce54c387a469a814b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/080 De la Montée.png",
+      "sha256": "843f1fc997c0c79600bf96e2b4c2493d62b7fe6c6c41529168ee854188652d0b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/081 De la Traversée.png",
+      "sha256": "a76914f3a05b634df7726edbb9f4c28e079ab8493743e32bacece7ee65fa2135",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/083 La Sablonnière.png",
+      "sha256": "3b676e717cb85df4fe30b3f0e854d99da0712f3fcef580394a883695dbac89dd",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/085 Des Apprentis-Sages.png",
+      "sha256": "fbf49e4e5d747d15407163c8952478ea1729ea75e2c8770ab79fdec00f2a3d82",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/086 De la Rose-des-Vents.png",
+      "sha256": "0fc9cc8298cdd5ef76a2f5ea378b8f132095389ff88bfd7363a530b909ae0a48",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/087 De l'Orée-des-Bois.png",
+      "sha256": "5c0031e2ebe39014414703ee6fd7ed9fdd15e9efc9af3ec53df9dad0cc970570",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/088 Du Sommet.png",
+      "sha256": "6e725df48e0928c58446c77658cd76519595932cf7abad8e5b9f580bd9b78cc0",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2022-2023/089 Du Cheval-Blanc.png",
+      "sha256": "aeb6fd0836a700d4f2efae2d32843c3064cce2227bdde9d4af7bcd1ecd5c5706",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2022-2023",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/050 Massé.png",
+      "sha256": "78ee8f914177728664f8e5dc01f8ccacacd93aa3210946684592c7804b2f447a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/051 La Source.png",
+      "sha256": "37f95ff030a7e9f9e43b4074e061df869e56a090258e9f0e213d60fbd201a9df",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/053 Du Nouveau-Monde.png",
+      "sha256": "ad1f43be0ecf49d74e335ece994b87e17cb487fed51ce1dbde3cd435f60bc69a",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/054 De Touraine.png",
+      "sha256": "4624bbbdb9bb6f2014c21aeaa1a2158d4ac4f1f8577b3dec539056415185d6ac",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/056 Le Tremplin.png",
+      "sha256": "aaaa2a262039fd5803dd112a42fa3540d3a81f55b5104b7fe32407d65398c844",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/059 L'Oiseau bleu.png",
+      "sha256": "ffe6204400da1a00864f6b5abcb3f99384c0384bc08fdd2f6b7600c95d8f4826",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/063 Ste-Élisabeth.png",
+      "sha256": "22cf7038415a9749466f91e41849c7dcffd85b59dda1ca725114ffdac88c3496",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/064 De la Colline.png",
+      "sha256": "7ddfcf081cc62dfe11184c462a4ba7d12be0321eaea6a45aebca56d95a5d3e81",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/065 Le Petit Prince.png",
+      "sha256": "6271ebff3ef237c87c137445bcc3efba4334f792c56a7d30bde824012a9000db",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/066 De l'Envolée.png",
+      "sha256": "01c80c6bb1e81586bbbda86c08bcbf938d125e66304c7a35a7ba5b607d6a84f0",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/067 Du Vallon.png",
+      "sha256": "3206c8f02df77db6c9c4d10bb60ff706cfac943bf971279624fa8a02b0b8a796",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/068 Des Cépages.png",
+      "sha256": "0bac4eb6521e31d1134f719f07e75e212dc11d4a3684abc2a3ce8178b20c23d8",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/069 De l'Escalade.png",
+      "sha256": "666be8388bcd8a557ad8e73caca513e341a6f1798528134f8ebbae38919a573c",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/070 De l'Odyssée.png",
+      "sha256": "f2d9b17ce93a7690115381a38367139cb98e0b3031b91430c203a4ae2ffdb3cb",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/072 Du Bois Joli.png",
+      "sha256": "39a6bb4a8064b71bcf56b45a96a457042f7d04e3a3fe58b2a723230db6e2f8c3",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/073 Des Trois-Saisons.png",
+      "sha256": "715b796d2551b33f1a93c536092e9864a854b5b487bb2b8f26e1c651a43e49c2",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/075 Carle.png",
+      "sha256": "d2bee35a36b4e2b246a638d58c36bf192416f3d9323203a0fd2c3a99676d9a53",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "076",
+      "school": "des Sentiers",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/076 Des Sentiers.png",
+      "sha256": "9bee7fe52d40e728046e5484d0b9af80e0f242fe18250f178c3f04542f00147b",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/077 L'Équipage.png",
+      "sha256": "76c51b607435f07312f97662abf4899cdeee444855aeca2e14095217e40571c2",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/079 Des Belles-Rives.png",
+      "sha256": "b8031ac2d3ab73aff52b8e654b1a48af65836e50610cb43856b535ab4e393b2e",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/080 De la Montée.png",
+      "sha256": "d5aae4ff75b9559a966dd48dd073d32bf2c4e111659b355e3a68f4bcfc6af40e",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "081",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code remplacé par 097 à partir de 2023-24"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/083 La Sablonnière.png",
+      "sha256": "89ae6df981fc8a0d4f313817f877ae9007c7861ad167112c7b3415087fc73894",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/085 Des Apprentis-Sages.png",
+      "sha256": "9cbd752c4ecc64fe0d99678f0fff0f4dcd6df4b2be764d049ca5d38caff42628",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/086 De la Rose-des-Vents.png",
+      "sha256": "0df75096bed1dd89b905f5048f90df472da90da415264c76708f25522436c3dc",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/087 De l'Orée-des-Bois.png",
+      "sha256": "8fe611d40969e710e1228111372f1dc25e49daf77768852dd74ecf1e80a0f285",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/088 Du Sommet.png",
+      "sha256": "80528d62319de116e2ee76f779c0f1a718c9f6eeeb88268976a5c2672a2c1d69",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/089 Du Cheval-Blanc.png",
+      "sha256": "0d99139d2650f56edc0b3ff15b666427bbeacd7ff973ea5344f70a003c2c1898",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "fds",
+      "year": "2023-2024",
+      "code": "097",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Fonds à destination spéciale/2023-2024/097 De la Traversée.png",
+      "sha256": "2c622bbca31bae75d87ae9c4d159f43dbe2de0d8163820e7ae3176b69310d183",
+      "status": "present",
+      "format": "table-projets-revenus"
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/050.pdf",
+      "sha256": "0ea1f2929f90475e4b01fc40780d11ce2a7a0ba88c47f9712151c5d1772956c8",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/051.pdf",
+      "sha256": "f4644e264f16d7d10a4caaaa3856d55477239a5ec33f4b39bae173a96b9b6122",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/053.pdf",
+      "sha256": "484d94319243b67248f5fc1c1642be2b21a8bb0483229a3e8793a3eca1467c8a",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/054.pdf",
+      "sha256": "4979d0df0f0075c4b0782be98f086434e22fcfbb02d7fefc8efbefe0e0da074f",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/056.pdf",
+      "sha256": "a295ef706e2f08954e4c7e15a5755c415c9ea054eb7d4dd68206d4276913adae",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/059.pdf",
+      "sha256": "c3c1c56ba0e39626c4808733e6240b8a663e57632551280d7cf3489d8324db0f",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/063.pdf",
+      "sha256": "3bcf38724560cd2ec73e6101dd2ff540d8149862ad94b08d9866ec88c9fb545c",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/064.pdf",
+      "sha256": "9cf6027b67a0fea5a1816c022572c460cf46c5114ed28fae5c5155e926b56cf4",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/065.pdf",
+      "sha256": "4417b99c94cbd7592100d486ed850395bc9ce8deb88ee6f8d62866758c23d8bb",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/066.pdf",
+      "sha256": "b859395f971c8842a52961f5d6aa6741672d07a135f88ae52ea63e9d4d4c9f15",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/067.pdf",
+      "sha256": "24beca7a73b5aa1281eef89db20cec62989e7c18e8f861b7c3b879d6879e4ef7",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/068.pdf",
+      "sha256": "13dd8d85bb2b4b28fa1dbfc3c18efb586085dbe064be08569ecc2da837868387",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/069.pdf",
+      "sha256": "6e0949129db47d9fb9fa9c8c31e053dc7948722828a86297eeb820eb439a1a9b",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/070.pdf",
+      "sha256": "cf93abb7ad4d2447f3b29537092cdc97dc8c7016599c914a949819cdb2a949eb",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/072.pdf",
+      "sha256": "f8c898e83be8e240b1c792d23e46286744dd27617ab88764a88b23f9325e3b51",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/073.pdf",
+      "sha256": "3f6d90a54a1648f2ec1ce2d2da8da69dda681056fa41c7fbef3fddf6e540a2a0",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/075.pdf",
+      "sha256": "21f650b448d99353d5d13fee4963c7536a6f63fd78ce2c7f23653dc4a451f208",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/077.pdf",
+      "sha256": "37b266d700267b095641cdd1f1e03d5911ed53b0ec38f25c6ff96633151b8c71",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/079.pdf",
+      "sha256": "28cb6aba11861c4160bd99c3925f066612f0ca0feb8df30309208dab7e6647be",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/080.pdf",
+      "sha256": "ec82be510baed1dc7174faabdd5f5c58609da17fb105edd29093526d61542d67",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/081.pdf",
+      "sha256": "5daae0bfc8de41d99ed34747a85b2f2a492d4afc4e8852393f0664dd98d17183",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/083.pdf",
+      "sha256": "7a3e461943eed344463da58a62789677c92e40b924f4bfd80aff42c158951931",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "status": "absent",
+      "reason": "absent de la réponse d'accès (budget seulement)"
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/086.pdf",
+      "sha256": "d8967f6870f54bfdb3a11e8d6b5c9ab1d924bbb9d3a6980e04e0af852d4b4a29",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/087.pdf",
+      "sha256": "a3a0925f2807373126059a44e06a54f4507aca1986e767c8d7535bde89d5747d",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/088.pdf",
+      "sha256": "2a59f4e75c29ec3f185a943eb532f1cb135bb005162c2ae89691ca5ca16e278b",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2019-2020/089.pdf",
+      "sha256": "cde0fdf8d88cd36841d85bb2d71eaa90a5ca0382a11dd11b778329ae79dc3aea",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2019-2020",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/050 P.B. 20-21.pdf",
+      "sha256": "2d792b4e564d0493b0240ef78917b70c0a6afc2519e640617295d5d819e8fb2b",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/051 P.B. 20-21.pdf",
+      "sha256": "8a232fce5ded9113941524ebc35fdd2d7813faa8750b4e466ec4940451308a82",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/053 P.B. 20-21.pdf",
+      "sha256": "01a891c0dd0d499d445a86f8d6c53df11067770664b50ffaf7fe2bb0626b8522",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/054 P.B. 20-21.pdf",
+      "sha256": "f1ae42918021a8a6bdaaf0c16ae45e8eb781e2481a611ca2025deb2a6824898d",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/056 P.B. 20-21.pdf",
+      "sha256": "812048e11a75e773e8006434918b89b462769047187b7b48ed38d9a1cceeefd0",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/059 P.B. 20-21.pdf",
+      "sha256": "65c1eeb86bebe0f972dba08ea9eefe4a403d1b7c477b9aafc3f375b91a25b849",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/063 P.B. 20-21.pdf",
+      "sha256": "224ac21d24e82c619c28c8d64236bf3ccf10f594fb9bdc75398c118ec739fa5c",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/064 P.B. 20-21.pdf",
+      "sha256": "952907efcee19a2d8cc0134ddfcc8f8d07af0ff437e7c930c9b013dc280acc96",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/065 P.B. 20-21.pdf",
+      "sha256": "cb3289b52c2d0ec88252a6316665a2416d8e1b87cf960e588f556a0c81313eea",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/066 P.B. 20-21.pdf",
+      "sha256": "57cd13207253dc803db0b82ee1165a95e41ed222ebd1d247142d5bfc70f6dc20",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/067 P.B. 20-21.pdf",
+      "sha256": "308f4dc2aa2ff4f4a046ab159f4dc8d39aaf299d37c1c9e0689fe13a63fb10ae",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/068 P.B. 20-21.pdf",
+      "sha256": "d90e63660c989b8fb439b0dd161e569154c594db467f07292ecd44ca1fa60744",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/069 P.B. 20-21.pdf",
+      "sha256": "2ceaa8bd26c213f3b3a54cf06273dceb52d58131f41cb6085435edcfe99fab08",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/070 P.B. 20-21.pdf",
+      "sha256": "4e07fa3ec2e12df61d42ac0e8a5c9b82006115c5c5ab4a11c15edf935da9237e",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/072 P.B. 20-21.pdf",
+      "sha256": "50b5f4deb0317397fca0f472ac0cee98c9ae54a4ace903af08fbd562df0e3672",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/073 P.B. 20-21.pdf",
+      "sha256": "92a89cb663601717f6b51787487fd4dcd769b0aaeaf44a47df2b7b80006e390d",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/075 P.B. 20-21.pdf",
+      "sha256": "edf27accbab727d3fc9409742ef1cc00fc8704e9e14c7ad7382d445ebf59d69b",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/077 P.B. 20-21.pdf",
+      "sha256": "d9853757dbb25737ebf0bfbbe63ac8a958c7965a8a65f94a35457383dfda9820",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/079 P.B. 20-21.pdf",
+      "sha256": "ea528a6227a182af3f2a31c0686c506d64d82a84cc84bd1ae8e691eb00d3a839",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/080 P.B. 20-21.pdf",
+      "sha256": "78a66c0ba952d6587224e26ef6adb6b9009b5d050ce3623a1f7ba703ffedd87c",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/081 P.B. 20-21.pdf",
+      "sha256": "d98f70a745624c11ecb26dd59449431cf459d8306865e368487cac3da420c142",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/083 P.B. 20-21.pdf",
+      "sha256": "6c1c0b5aad69f32ea45743e5c33065af06777e990985eedc63288f4e4b1105d3",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/085 P.B. 20-21.pdf",
+      "sha256": "cd12e73632e9b0bacc4945750be61ed4c75aba471121633addd7272d372315f2",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/086 P.B. 20-21.pdf",
+      "sha256": "d7523244abc6c502291719a2d80dafed01f7a33880a5a74790076ddc5ff5b6dc",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/087 P.B. 20-21.pdf",
+      "sha256": "bdfe40ed0d33ecdc88845637eb243b78ad95c0a5eba7a1f8b0b602c88592eee7",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/088 P.B. 20-21.pdf",
+      "sha256": "a0e60ec1e8269674b5a6954a7769735d9a759bc759d5f63f23e4342abf676b35",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2020-2021/089 P.B. 20-21.pdf",
+      "sha256": "bd34c48e98a94f50e18d9c111cbea3b2dc04fee2d8637107a44b0dc5f9b006a4",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2020-2021",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/050_Rapport financier.pdf",
+      "sha256": "457ab9571908a63a905174cdcf113071f07b9302d83d07f47d885cdb701c5ee8",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/051_Rapport financier.pdf",
+      "sha256": "8abe86b659c315b86facec3f90cb628efc5780705d2a26a618060eda56738783",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/053_Rapport financier.pdf",
+      "sha256": "6ac324f0711ad9e3113a2dd5fcf8a8c3fe38db487fc0768fd433b00bf8538724",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/054_Rapport financier.pdf",
+      "sha256": "b806ac8ee02c8c5e5571244b07a2f9783d6efd403fff6c6b0d1d02b4759b57b6",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/056_Rapport financier.pdf",
+      "sha256": "8d19a5bfb5b75e7a52fd82436771be8808c36e7a37f60917082c6bd917ae21e2",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/059_Rapport financier.pdf",
+      "sha256": "bf454cacc1385c68379c8bcb24df1d081a17b6e89c7edf71cdb8a2856b80666d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/063_Rapport financier.pdf",
+      "sha256": "988d1500ba217f2b80592c430f09481f9a7a588b91f7a380aee5fc9269edceba",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/064_Rapport financier.pdf",
+      "sha256": "e9e28a31a154b678bb208a70faeae4443970ee8335a261501c37b69d0bfa0396",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/065_Rapport financier.pdf",
+      "sha256": "aa0b5ff9cc28aab09872c783ec3fb3c08febd75237a6db7ed4c8b6882a9595e3",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/066_Rapport financier.pdf",
+      "sha256": "2b2cc721cd8fa6fce06d150ac96034806be6c08522d22afaa9ac3517bd23b479",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/067_Rapport financier.pdf",
+      "sha256": "c9b8727226076ca498f1a3f1013ddce7b2f491247a2c024892c9f8a1e6c53b2a",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/068_Rapport financier.pdf",
+      "sha256": "f4a454e870ff0c483d2deda06066eacd62b328a67c28a8bbde97ac6b768a1c62",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/069_Rapport financier.pdf",
+      "sha256": "1a06bbe8c2566f5df8cfd95bccc0787374b7276c6ffb0c984220d90304888efe",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/070_Rapport financier.pdf",
+      "sha256": "e013c664b579c5f0d7c9a7db4cdfef89f9af537a15835499b0ecb454df831699",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/072_Rapport financier.pdf",
+      "sha256": "28c73fca0eb34e8f1133a902adc1cf3908db2da3f476c145b70f63d3a31539e8",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/073_Rapport financier.pdf",
+      "sha256": "48ccc23ef5b302d9b3c1f8b050043787b5e103846c8ee78df7d85aa2d16b9866",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/075_Rapport financier.pdf",
+      "sha256": "fa84a7c9514eb3021aaaf1275f1b1501046fcb0a4e7eb4e8ebdd717c6543679d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/077_Rapport financier.pdf",
+      "sha256": "62fbda330ad7cb67231d15f510c567f7b07301c4b4440fbbee7fe68d4af86b70",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/079_Rapport financier.pdf",
+      "sha256": "67a0421cb96c2d9be7a9e40bcfe4a8818c18d60c439b234e30360b80d79e1f2b",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/080_Rapport financier.pdf",
+      "sha256": "f6ce7ba99a01cd4ee2b50ef4e95998c288d985ed1b9aaec2210ee25dec2fd25d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/081_Rapport financier.pdf",
+      "sha256": "2f9da5b914a8dedffba58406d8068127bdb83aacbd8a22890823720663a34436",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/083_Rapport financier.pdf",
+      "sha256": "234dbadcbcc78176c3bc39ab03f375b7fd45d3c310648873d4b52a7e09e260f8",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/085_Rapport financier.pdf",
+      "sha256": "47312ddf636c4c9ebfd8c9572152c6bad23feb512f5c3f5fb58935604dd4ec08",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/086_Rapport financier.pdf",
+      "sha256": "a2e952d1caf2a7a9ca01d4826d543a0ba476b13b9c7758f31d3db9593381ba9d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/087_Rapport financier.pdf",
+      "sha256": "a031f110d207270c1552df2d32fee051c9b9f79f1601d895240394ed6c6e7c01",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/088_Rapport financier.pdf",
+      "sha256": "ea6403141fafbe2be37232a848d15bc5cfcd50e4c9da5a70b8ba85aedbe6b29c",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/089_Rapport financier.pdf",
+      "sha256": "2648ec8a360962199a60bb3c5e1689df2ca051b8b58d89ec62bbdea9323daac0",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2021-2022",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/050 - Rapport financier.pdf",
+      "sha256": "ac3ac0358a3b3535319069045159fa269878f103a05541d43ec5c43521a0937f",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/051 - Rapport financier.pdf",
+      "sha256": "acb2e907aa2a460eb1eb6fc377fb043138673868390d379ce397e48dd8a686e9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/053 - Rapport financier.pdf",
+      "sha256": "6e56a060344b0e4f590e7855e0d2a334fea9b8e0acfcdd3877bc04a534a0c0a3",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/054 - Rapport financier.pdf",
+      "sha256": "9d3991383e11f2d94b6fcac040cfce2f7142f492c6ae2ad83f5c1a558492150f",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/056_Rapport financier.pdf",
+      "sha256": "4961d38bddfbd4e8c95420400c4205829f96b660962f0023ca985add441c935a",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/059_Rapport financier.pdf",
+      "sha256": "8d15bd9190a14662e2814e630d72f72cf41d1eb2a49cb3b8d2625a165c2a313e",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/063_Rapport financier.pdf",
+      "sha256": "50e5b36db1436957e6556a3b8c7cdbde28c7555ebb5f9b86fe874d381b6b9f05",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/064 - Rapport financier.pdf",
+      "sha256": "e210db62241c15d7bbd29ed2cc9e382a01e2db22f0f1333f691b5a1dfe914109",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/065_Rapport financier.pdf",
+      "sha256": "6b0ade5d873a2ef232d17a3f4d749c87b2392db5422883862197bf66d0f9d1b3",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/066_Rapport financier.pdf",
+      "sha256": "43912f2f389f21b44e3cd4d6dfd841333bed6c23bc54dc686a3c772ac18d072f",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/067 Prévisions budgétaires.pdf",
+      "sha256": "060632e06359c8be1eb495d5eac805ffcb48f03d2ae07fed3c11eb2ae8f8e612",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/068 - Rapport financier.pdf",
+      "sha256": "471f2601024d0a339a50e84f64e8961e8fa0dac8c34bf157c14996949f7c0f9a",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/069_Rapport financier sommaire 22-23.pdf",
+      "sha256": "e522e619a922b5e51241426cdae43e9c0db20b7bde13d447dcdc2ce1063872b6",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/070 - Rapport financier  PB 22-23.pdf",
+      "sha256": "ac2b46965d6f7d44dcdbfbd7d7b9adf06df3c00fd92ffc8fde302191abe91fa9",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/072_Rapport financier.pdf",
+      "sha256": "9bd99b84ff79056af7144fa26c1a455562b386d81723c49dbfb2fd3d3d9793a9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/073 - Prévision budgétaire.pdf",
+      "sha256": "97d8a65e2264cff50abaafbb86a773594bcdcf02a61a2070d9b15cddaa89abda",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/075 - Rapport financier.pdf",
+      "sha256": "59c4a7a8b7b287d57e50d7ed9d9f3b00d4f91d1a97869e483d40e0e57cdc08de",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "076",
+      "school": "des Sentiers",
+      "status": "absent",
+      "reason": "école inexistante avant 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/077 - Rapport financier.pdf",
+      "sha256": "4de6cff0220250c11940c77b898fe8a06d1bf1166a9c18a06067863b8ea34d99",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/079 - Rapport financier Sommaire 22-23 PB.pdf",
+      "sha256": "55fde96db33b3834532e3532b726eb816d7b7103d74fcb2e340871c487501ea6",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/080_Rapport financier.pdf",
+      "sha256": "2922d2c45438891c9ad2a384f0236bdc34c3d808e21108efff5ac816dd729528",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "081",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/081- Rapport financier signé.pdf",
+      "sha256": "f662051138bad44d49ad559af41e48bf34062ef10b4f9f5aa0f2b225df14a2c1",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/083 Rapport financier.pdf",
+      "sha256": "57f9f9d780b08a1bab9cd75f3cb3cf374f7e38011cb5ce3cc41ae3c46b4a6efa",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/085 - Rapport financier PB 22-23.pdf",
+      "sha256": "9b26e36ed9cec7c5a1fd96e8c669cfee2fbf9215dacdc8768299b5fa49460e34",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/086 - Rapport financier Sommaire 22-23 PB.pdf",
+      "sha256": "3e2d4670586b7b8dc71c7878ca92dc70acbc6bedb0dbfdf4221c49b3c61ce86c",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/087 - Rapport financier.pdf",
+      "sha256": "3443b1f44be307f169b428bc32045d70fae3a7629ca599610344694198a8d8f9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/088 - Rapport financier.pdf",
+      "sha256": "eddfe1682e086089f3bfb19885beae05f2d3f6571772aa3d811d97d907a446a2",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/089 - PB 22-23 Rapport financier sommaire.pdf",
+      "sha256": "2c943c9dfdd7be4d68908ac8e9a529998f4990ceb67381d21791321fd6674de2",
+      "status": "present",
+      "textLayer": false
+    },
+    {
+      "family": "budget",
+      "year": "2022-2023",
+      "code": "097",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code inexistant avant 2023-24 (voir 081)"
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/050 - Rapport financier sommaire.pdf",
+      "sha256": "628f63accea2f237e95503834587fb46018baa55174d90c347616099dae4d0ba",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/051 - Rapport financier sommaire.pdf",
+      "sha256": "9b44fd845bd00f49c57fb08382b24e278e80faf61c8e8c09ef6d782a492198ad",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/053 - Rapport financier sommaire.pdf",
+      "sha256": "0b740887c82bc3861cb8b10f3595b7559e9f791095b3291ef0084a3e8f7deb19",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/054 - Rapport financier sommaire.pdf",
+      "sha256": "96ee595a1118bbcfbabe1d319640fd14d1466338d4a9ab6d1d2eb712806c23c5",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/056 - Rapport financier sommaire.pdf",
+      "sha256": "fc15e6d02bb24543c11fcf227d237673339e2f28c54f0f0698c0e0498d1ca13e",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/059 - Rapport financier sommaire.pdf",
+      "sha256": "e8f1d38490f302f70fcc92ccca378e48c597b5b6c2b75286be50657ad4b7a5ca",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/063 - Rapport financier Sommaire.pdf",
+      "sha256": "6c01b4f04fecfbce772fe855b9444ca7dc73d490cde535b8d9dd25a29f68e0e0",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/064 - Rapport financier sommaire.pdf",
+      "sha256": "59e90583e0ed19fb1422b0dd8ad0b611bc49244e1783e23ba42e918c0f9fd2a0",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/065 - Rapport financier sommaire.pdf",
+      "sha256": "08b6ed2db8245f024e1f6dff7ecb2ac7b151a1b07ab9c0afc2e0fd4bdc782e1d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/066 - Rapport financier sommaire.pdf",
+      "sha256": "5727e897f6ad626f3c0b78157b65827ab2ca79932a23958e4f4d2db04257365e",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/067 - Rapport financier sommaire.pdf",
+      "sha256": "e6d2fc005b624782cf0dd2ccaf207770d4d335976b9ff6c991e464b8740f8359",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/068 - Rapport financier sommaire.pdf",
+      "sha256": "980905d13ebae59148cb2751b6b2e1ed8b119fde13efa05fef1fb27aecac1aa8",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/069 - Rapport financier sommaire.pdf",
+      "sha256": "911e102b3474772a4095e7d414ee6de5d721353acf80cd3ee4e5811bdd8d6319",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/070 - Rapport financier sommaire.pdf",
+      "sha256": "027fb8f2befa2a58eeec21017c6e7b7dbcdc4adfcd2383c83e4cfc81c97998ae",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/072 - Rapport financier sommaire.pdf",
+      "sha256": "d8f5b8c786276dfba896ade70fd2434727ab765df62cf9a5998ea412cf18c9d9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/073 - Rapport financier sommaire.pdf",
+      "sha256": "973cc5f41a8e069bb72efb98de0306ff819edf8de4f6246ce500f2f56e4e6c05",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/075 - Rapport financier sommaire.pdf",
+      "sha256": "7bc05c06e942925434b491ea91f567fa2669dfcb4e188f4a051f5f8ff4dc4c56",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "076",
+      "school": "des Sentiers",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/076 - Rapport financier sommaire.pdf",
+      "sha256": "dea8fdb5bb3ca73569da55147ea9d4fc338b2cf9e3b68d2372bba2da45f21773",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/077 - Rapport financier sommaire.pdf",
+      "sha256": "d13bafdf1dcf0e56a7a10d01178bb8e12f57091a0f5c095e0c61c3ff1a7cd00e",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/079 - Rapport financier sommaire.pdf",
+      "sha256": "6cf7f1cd5ff3431b10b90b2932a4664ba87d7f3a49ac5c3f1a950a65adc3184f",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/080 - Rapport financier sommaire.pdf",
+      "sha256": "7e73b40ceb5398435603ab19e1d458b4e7931c263eba0c7f73e20b06b3a4fcd9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "081",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code remplacé par 097 à partir de 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/083 - Rapport financier sommaire.pdf",
+      "sha256": "8082f65f9708ac0c961e1dfefbc68af6bed979fcd8d3a0c26f4e16c891464367",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/085 - Rapport financier sommaire.pdf",
+      "sha256": "f2414870c6df33ede6a0ed2a8be50dbe1106ea6a99cecc8ba96ec28b5b5875f8",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/086 - Rapport financier sommaire.pdf",
+      "sha256": "23dcd5ff86f1de6326ddfc07f201fc9121dbd13be6f3f8345cb58c81e9159aad",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/087 - Rapport financier sommaire.pdf",
+      "sha256": "fe8e3071d9124e90b4d99f8507f5ae61ce375195e748a4e8d3bed5ef984803ac",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/088 - Rapport financier sommaire.pdf",
+      "sha256": "a55a978775f594895ad028d3c5d18d245bb236a0626940ec9b01f3fa3db0ecda",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/089 - Rapport financier sommaire.pdf",
+      "sha256": "18f3ea60c25208acbbb4a4bc15b4924ea5503b170e8af46ebb71591fe9f60c2c",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2023-2024",
+      "code": "097",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/097 - Rapport financier sommaire.pdf",
+      "sha256": "65926ddd0fee286b49d0d2a9d75b31a85dfef8a36674cf81885df5a5cb523f1e",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "050",
+      "school": "Massé",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/050 - Rapport financier.pdf",
+      "sha256": "203a34b7f90a30079f7585d6bb04a2bfc0c3885cf1311370e9340585806f7096",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "051",
+      "school": "La Source",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/051 - Rapport financier.pdf",
+      "sha256": "715d053b4224c28041a96bcd4df9fffcc2a9cea3951c670293b2a380bd694114",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "053",
+      "school": "du Nouveau-Monde",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/053 - Rapport financier.pdf",
+      "sha256": "a4bbc75629e0c6f498667ec3c7765d5c805119a6d142d460e1325d9040156941",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "054",
+      "school": "de Touraine",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/054 - Rapport financier.pdf",
+      "sha256": "00500b521a27cda352076bc076324b8d3a5abac5468efa4924d0b188b9dd7b2b",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "056",
+      "school": "le Tremplin",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/056 - Rapport financier.pdf",
+      "sha256": "845ea2e70b0eb1e0f27dfd27c49a53505734c56cc94edbd8f85664b11feacbcd",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "059",
+      "school": "l'Oiseau Bleu",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/059 - Rapport financier.pdf",
+      "sha256": "a0abffa268b4b4643d3bbc29964fbf1c5c932cc49b4ea04104121ae34191c8ce",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "063",
+      "school": "Sainte-Élisabeth",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/063 - Rapport financier.pdf",
+      "sha256": "47b5021086118fc7e69f24a1b7e42701b1899073c42b9b0e35a6b64b1bf74707",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "064",
+      "school": "de la Colline",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/064 - Rapport financier.pdf",
+      "sha256": "1b485410cbb195e3ec4759f24517a243923d262a12a2c02f003c3aec43c8ef83",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "065",
+      "school": "le Petit Prince",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/065 - Rapport financier.pdf",
+      "sha256": "699c860ffb66917edf43494eb624e6a203f2981643da1c0e5373282c5bdf0404",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "066",
+      "school": "de l'Envolée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/066 - Rapport financier.pdf",
+      "sha256": "76f47d7144bcc7d124d8a23e39cc0c69cd22a18d3d179cefde6cb11d58294bcf",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "067",
+      "school": "du Vallon",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/067 - Rapport financier.pdf",
+      "sha256": "7bf49d64e2ebfdb2d21dc37eb7986f6e7779b5a31b91935436105b20743a5475",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "068",
+      "school": "des Cépages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/068 - Rapport financier.pdf",
+      "sha256": "0b29395cacbe5daf71e9e267ac652a5b4287e3a7ad43feefc508bebaeba9c510",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "069",
+      "school": "de l'Escalade",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/069 - Rapport financier.pdf",
+      "sha256": "a9e03e4825c090a890a2a20b322ae1d40cd7629cb019ffad136f904f8c17cd80",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "070",
+      "school": "de l'Odyssée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/070 - Rapport financier.pdf",
+      "sha256": "9e63b4299d5d6e7bb50be01efc76752959e9099c5b4ed3b677c769e7bdb79482",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "072",
+      "school": "du Bois-Joli",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/072 - Rapport financier.pdf",
+      "sha256": "2d5d6199cf4bb51e6d22691f2d592d92f3e53843eb4f3bb6f6f422902bbb8257",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "073",
+      "school": "des Trois-Saisons",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/073 - Rapport financier.pdf",
+      "sha256": "7859cbfd08a71de0eb645466728ce4e48c3aeae93ce0b0f074b6f3caf12071cc",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "075",
+      "school": "Carle",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/075 - Rapport financier.pdf",
+      "sha256": "c4b1c3d031716b42f3020ea795b5ce8599511dbf74f13cef052600f7e254dd29",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "076",
+      "school": "des Sentiers",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/076 - Rapport financier.pdf",
+      "sha256": "980864f620d3aacc71f321a333485ee5ff475ea6c2fd2dafae85e24cb8364579",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "077",
+      "school": "l'Équipage",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/077 - Rapport financier.pdf",
+      "sha256": "e55e1737d41f33b4a9f3c3bc95e5d194dcc582039207ce1af9de624242c2cd80",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "079",
+      "school": "des Belles-Rives",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/079 - Rapport financier.pdf",
+      "sha256": "33704f555f73d6443633540500920baf2bb4e99d94217d7b9ce3c983ac0db611",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "080",
+      "school": "de la Montée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/080 - Rapport financier.pdf",
+      "sha256": "9a8e067a79b4cd26c50b7836e49cd6323073da7e620bf151d674313a1a18d5f9",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "081",
+      "school": "de la Traversée",
+      "status": "absent",
+      "reason": "code remplacé par 097 à partir de 2023-24"
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "083",
+      "school": "la Sablonnière",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/083 - Rapport financier.pdf",
+      "sha256": "39d1df0302330fb9739c2b58817e5e2d64314a8c05aa59a99ce6b80f67f6b9fd",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "085",
+      "school": "des Apprentis-Sages",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/085 - Rapport financier.pdf",
+      "sha256": "1a0d06f5a93f0fbdafb807dd0c8733d849b3659252b9dc4fb206860053295537",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "086",
+      "school": "de la Rose-des-Vents",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/086 - Rapport financier.pdf",
+      "sha256": "75190a27820d3f9dc0aae6b341e55e4d6e87c66a399645306b171f9c38d1b75d",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "087",
+      "school": "de l'Orée-des-Bois",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/087 - Rapport financier.pdf",
+      "sha256": "dee17ef8589fc5971441a0358535e337b4f56b5d77d0eb119b0a492333c2fcda",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "088",
+      "school": "du Sommet",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/088 - Rapport financier.pdf",
+      "sha256": "d856150cde6e2630d041ff6ef6ba8a3e0baf67469e56abbbc7ccc9d29b36cddb",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "089",
+      "school": "du Cheval-Blanc",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/089 - Rapport financier.pdf",
+      "sha256": "222715e037a06e053c6f24c5cf3b28bb13c858abe949e7a628bbcab361b5d3ba",
+      "status": "present",
+      "textLayer": true
+    },
+    {
+      "family": "budget",
+      "year": "2025-2026",
+      "code": "097",
+      "school": "de la Traversée",
+      "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/097 - Rapport financier.pdf",
+      "sha256": "dcde1e0b7470edf1e6d516e1191c1f06e39319394d012580c5089b214a341ff2",
+      "status": "present",
+      "textLayer": true
+    }
+  ],
+  "problems": []
+}

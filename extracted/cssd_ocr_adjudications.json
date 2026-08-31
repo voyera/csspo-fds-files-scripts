@@ -1,0 +1,210 @@
+{
+ "2023-2024": {
+  "053": [
+   {
+    "kind": "missing",
+    "value": 289,
+    "count": 1,
+    "reason": "OCR fusionne le libellé « Dons 921 » et le solde début 289 en « 921289 » ; l'image montre bien 289 (identité : 289+1 061=1 350)."
+   },
+   {
+    "kind": "extra",
+    "value": 921289,
+    "count": 1,
+    "reason": "artefact de fusion libellé+montant (« Dons 921 » + 289)."
+   }
+  ],
+  "054": [
+   {
+    "kind": "extra",
+    "value": 202,
+    "count": 1,
+    "reason": "numéro de groupe dans le libellé « Gr. 202 Croque santé », pas un montant."
+   }
+  ],
+  "064": [
+   {
+    "kind": "missing",
+    "value": 41,
+    "count": 1,
+    "reason": "OCR ne lit qu'une des deux occurrences de 41 $ (solde début et solde fin de « Sortie fin d'année 3e cycle »)."
+   },
+   {
+    "kind": "missing",
+    "value": 3694,
+    "count": 1,
+    "reason": "OCR lit 3674 ; recadrage 6× vérifié à la main : 3 694 (identité : 1 387+3 694=5 081 imprimé)."
+   },
+   {
+    "kind": "extra",
+    "value": 3674,
+    "count": 1,
+    "reason": "mauvaise lecture OCR du 9 (voir ci-dessus)."
+   }
+  ]
+ },
+ "2022-2023": {
+  "053": [
+   {
+    "kind": "extra",
+    "value": 921,
+    "count": 1,
+    "reason": "numéro dans le libellé « Dons 921 », pas un montant."
+   }
+  ],
+  "054": [
+   {
+    "kind": "extra",
+    "value": 202,
+    "count": 1,
+    "reason": "numéro de groupe dans le libellé « Gr. 202 Croque santé »."
+   }
+  ],
+  "064": [
+   {
+    "kind": "missing",
+    "value": 19972,
+    "count": 1,
+    "reason": "OCR tronque « 19 972 » en « 972 » ; somme des lignes 12 902+165+1 387+5 477+41 = 19 972 confirme."
+   },
+   {
+    "kind": "extra",
+    "value": 972,
+    "count": 1,
+    "reason": "troncature OCR (voir ci-dessus)."
+   }
+  ],
+  "066": [
+   {
+    "kind": "missing",
+    "value": 24646,
+    "count": 1,
+    "reason": "OCR lit 24 648 ; recadrage 6× vérifié à la main : 24 646 (somme des lignes 18 917+5 729 et continuité 2023-24 confirment)."
+   },
+   {
+    "kind": "extra",
+    "value": 24648,
+    "count": 1,
+    "reason": "mauvaise lecture OCR du dernier chiffre (voir ci-dessus)."
+   }
+  ],
+  "081": [
+   {
+    "kind": "missing",
+    "value": 17321,
+    "count": 1,
+    "reason": "OCR ne lit pas le total « 17 321 » ; somme des lignes 0+15 719+1 602 = 17 321 confirme."
+   }
+  ],
+  "088": [
+   {
+    "kind": "missing",
+    "value": 3359,
+    "count": 1,
+    "reason": "OCR ne lit pas « 3 359 » ; identité 3 359+8 454 = 11 813 imprimé confirme."
+   }
+  ]
+ },
+ "2021-2022": {
+  "054": [
+   {
+    "kind": "extra",
+    "value": 202,
+    "count": 1,
+    "reason": "numéro de groupe dans le libellé « Gr. 202 Croque santé »."
+   }
+  ],
+  "064": [
+   {
+    "kind": "missing",
+    "value": 19972,
+    "count": 1,
+    "reason": "OCR ne lit pas le total ; somme des soldes fin 12 902+165+1 387+5 477+41 = 19 972 confirme."
+   }
+  ],
+  "069": [
+   {
+    "kind": "missing",
+    "value": 960,
+    "count": 1,
+    "reason": "OCR fusionne le libellé « Act. Accueil 21-22 » et 960 en « 22960 » ; identité 960+3 925 = 4 885 confirme."
+   },
+   {
+    "kind": "extra",
+    "value": 22960,
+    "count": 1,
+    "reason": "artefact de fusion libellé+montant (voir ci-dessus)."
+   }
+  ]
+ },
+ "2020-2021": {
+  "053": [
+   {
+    "kind": "missing",
+    "value": 509,
+    "count": 1,
+    "reason": "OCR fusionne 29 629 et 509 en « 29629509 » ; identité 29 629+509 = 30 138 confirme."
+   },
+   {
+    "kind": "missing",
+    "value": 29629,
+    "count": 1,
+    "reason": "voir fusion ci-dessus."
+   },
+   {
+    "kind": "extra",
+    "value": 29629509,
+    "count": 1,
+    "reason": "artefact de fusion."
+   }
+  ],
+  "054": [
+   {
+    "kind": "missing",
+    "value": 172,
+    "count": 1,
+    "reason": "OCR colle un chiffre parasite (« 5172 ») ; identité 26 946+172−1 395 = 25 723 confirme."
+   },
+   {
+    "kind": "extra",
+    "value": 5172,
+    "count": 1,
+    "reason": "artefact OCR (voir ci-dessus)."
+   },
+   {
+    "kind": "extra",
+    "value": 202,
+    "count": 1,
+    "reason": "numéro de groupe dans le libellé « Gr. 202 Croque santé »."
+   }
+  ],
+  "083": [
+   {
+    "kind": "missing",
+    "value": -6952,
+    "count": 1,
+    "reason": "ajout négatif « (6 952) » : l'OCR lit la grandeur sans le signe ; colonne Ajouts 7 015−6 952 = 63 = total imprimé confirme."
+   },
+   {
+    "kind": "extra",
+    "value": 6952,
+    "count": 1,
+    "reason": "même valeur, signe non vu par l'OCR."
+   }
+  ],
+  "087": [
+   {
+    "kind": "missing",
+    "value": 30904,
+    "count": 1,
+    "reason": "OCR lit 30 704 ; identité 45 401+3 861−18 358 = 30 904 ET continuité 2021-22 (solde début 30 904) confirment."
+   },
+   {
+    "kind": "extra",
+    "value": 30704,
+    "count": 1,
+    "reason": "mauvaise lecture OCR (voir ci-dessus)."
+   }
+  ]
+ }
+}
