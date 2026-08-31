@@ -79,6 +79,48 @@ ignorés).
 
 ---
 
+## Centre de services scolaire des Draveurs (CSSD)
+
+Deuxième réponse d'accès à l'information, dans
+`Centre de services scolaire des Draveurs/` : ~28 écoles primaires
+(codes 050–097), **FDS en captures PNG** (2019-20 → 2023-24, une image par
+école) et **prévisions budgétaires en PDF** (2019-20 → 2023-24 + 2025-26).
+Sémantique différente du CSSPO : les rapports FDS montrent le *grand livre du
+fonds* (solde début, ajouts/revenus = transferts vers le fonds, appropriation
+= sortie du fonds quand la dépense est engagée, solde fin) — PAS le
+revenu/dépense des campagnes de financement (ceux-ci sont dans les colonnes
+« Résultats N-2 » des PDF budgétaires).
+
+| Script | Rôle | Sortie |
+|---|---|---|
+| `scripts/cssd_manifest.py` | Grille école×exercice, hash, format, absences expliquées | `extracted/cssd_manifest.json` |
+| _(extraction vision, en session)_ | Lecture des 136 captures FDS → JSON grand-livre | `extracted/cssd_fds_raw.json` |
+| `scripts/cssd_validate_fds.py` | Identités comptables, totaux imprimés, continuité inter-exercices | `ALL OK` |
+| `scripts/cssd_ocr_crosscheck.py` | Contre-lecture indépendante (tesseract 4×), désaccords arbitrés | `0 désaccords` |
+| `scripts/cssd_extract_budget.py` | PDF numériques 2021-22+ : Clientèle (effectif) + campagnes de financement, 3 colonnes datées par les en-têtes (extraction par coordonnées) | `extracted/cssd_budget_raw.json` |
+
+Les colonnes « Résultats N-2 » des PDF numériques donnent les revenus et
+dépenses **réels** des campagnes de financement pour 2019-20, 2021-22 et
+2023-24 (2020-21 : seulement les 15 écoles au PDF 2022-23 numérique).
+
+### Fiabilité (CSSD)
+
+Montants en **dollars entiers** dans la source : l'affirmation est « rapproché
+des totaux imprimés » (tolérance d'arrondi ±3 $ par ligne), jamais « au cent
+près ». Chaque valeur est validée par (1) l'identité
+`solde fin = début + ajouts − appropriation`, (2) la ligne des totaux
+imprimée, (3) la continuité des soldes entre exercices, et (4) une
+contre-lecture OCR indépendante pour les formats tableau (le gabarit résumé
+2019-20 est illisible par tesseract ; il est couvert par 1-3). Tous les
+désaccords OCR sont arbitrés à la main par recadrage et consignés dans
+`extracted/cssd_ocr_adjudications.json`. Anomalies **de la source** relevées
+et documentées dans le JSON : lignes masquées (051 et 072 en 2022-23),
+incohérence de ±180 $ (070 en 2021-22), solde début vierge (073 en 2019-20),
+restatement 065 entre 2020-21 et 2021-22, remplacement du code 081 par 097
+(Traversée) en 2023-24.
+
+---
+
 ## Notes
 
 - Codes d'établissement : voir le mappage code → nom dans

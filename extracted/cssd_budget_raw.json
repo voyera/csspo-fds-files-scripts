@@ -1,0 +1,3051 @@
+{
+ "2019-2020": {
+  "050": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "051": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "053": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "054": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "056": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "059": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "063": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "064": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "065": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "066": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "067": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "068": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "069": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "070": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "072": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "073": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "075": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "077": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "079": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "080": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "081": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "083": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "086": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "087": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "088": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "089": {
+   "status": "gabarit-ancien-hors-perimetre"
+  }
+ },
+ "2020-2021": {
+  "050": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "051": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "053": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "054": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "056": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "059": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "063": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "064": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "065": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "066": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "067": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "068": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "069": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "070": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "072": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "073": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "075": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "077": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "079": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "080": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "081": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "083": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "085": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "086": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "087": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "088": {
+   "status": "gabarit-ancien-hors-perimetre"
+  },
+  "089": {
+   "status": "gabarit-ancien-hors-perimetre"
+  }
+ },
+ "2021-2022": {
+  "050": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 466,
+    "2020-2021": 462,
+    "2019-2020": 494
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 22950,
+     "dep": 22950
+    },
+    "2020-2021": {
+     "rev": 8000,
+     "dep": 8000
+    },
+    "2019-2020": {
+     "rev": 5365,
+     "dep": 5109
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/050_Rapport financier.pdf"
+  },
+  "051": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 283,
+    "2020-2021": 329,
+    "2019-2020": 359
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2020-2021": {
+     "rev": 5178,
+     "dep": 5178
+    },
+    "2019-2020": {
+     "rev": 15278,
+     "dep": 14625
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/051_Rapport financier.pdf"
+  },
+  "053": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 539,
+    "2020-2021": 559,
+    "2019-2020": 561
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 90000,
+     "dep": 90000
+    },
+    "2020-2021": {
+     "rev": 90000,
+     "dep": 90000
+    },
+    "2019-2020": {
+     "rev": 70545,
+     "dep": 70545
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/053_Rapport financier.pdf"
+  },
+  "054": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 435,
+    "2020-2021": 425,
+    "2019-2020": 425
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2019-2020": {
+     "rev": 19754,
+     "dep": 19754
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/054_Rapport financier.pdf"
+  },
+  "056": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 203,
+    "2020-2021": 204,
+    "2019-2020": 212
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 4804,
+     "dep": 4804
+    },
+    "2019-2020": {
+     "rev": 3607,
+     "dep": 3607
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/056_Rapport financier.pdf"
+  },
+  "059": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 457,
+    "2020-2021": 451,
+    "2019-2020": 436
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 42000,
+     "dep": 42000
+    },
+    "2020-2021": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2019-2020": {
+     "rev": 50741,
+     "dep": 50611
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/059_Rapport financier.pdf"
+  },
+  "063": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 233,
+    "2020-2021": 222,
+    "2019-2020": 211
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2019-2020": {
+     "rev": 13494,
+     "dep": 13469
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/063_Rapport financier.pdf"
+  },
+  "064": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 254,
+    "2020-2021": 230,
+    "2019-2020": 223
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 5800,
+     "dep": 5800
+    },
+    "2020-2021": {
+     "rev": 5500,
+     "dep": 5500
+    },
+    "2019-2020": {
+     "rev": 7618,
+     "dep": 7254
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/064_Rapport financier.pdf"
+  },
+  "065": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 495,
+    "2020-2021": 509,
+    "2019-2020": 506
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 27258,
+     "dep": 26485
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/065_Rapport financier.pdf"
+  },
+  "066": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 404,
+    "2020-2021": 411,
+    "2019-2020": 426
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2020-2021": {
+     "rev": 800,
+     "dep": 800
+    },
+    "2019-2020": {
+     "rev": 14073,
+     "dep": 14073
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/066_Rapport financier.pdf"
+  },
+  "067": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 460,
+    "2020-2021": 481,
+    "2019-2020": 506
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 1200,
+     "dep": 1200
+    },
+    "2019-2020": {
+     "rev": 6261,
+     "dep": 5849
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/067_Rapport financier.pdf"
+  },
+  "068": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 435,
+    "2020-2021": 452,
+    "2019-2020": 495
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 9542,
+     "dep": 9274
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/068_Rapport financier.pdf"
+  },
+  "069": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 515,
+    "2020-2021": 563,
+    "2019-2020": 574
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 30000,
+     "dep": 30000
+    },
+    "2020-2021": {
+     "rev": 16000,
+     "dep": 16000
+    },
+    "2019-2020": {
+     "rev": 38170,
+     "dep": 37502
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/069_Rapport financier.pdf"
+  },
+  "070": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 599,
+    "2020-2021": 589,
+    "2019-2020": 636
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2020-2021": {
+     "rev": 7000,
+     "dep": 7000
+    },
+    "2019-2020": {
+     "rev": 58111,
+     "dep": 55404
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/070_Rapport financier.pdf"
+  },
+  "072": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 399,
+    "2020-2021": 422,
+    "2019-2020": 410
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 21700,
+     "dep": 21700
+    },
+    "2020-2021": {
+     "rev": 1400,
+     "dep": 1400
+    },
+    "2019-2020": {
+     "rev": 32325,
+     "dep": 31840
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/072_Rapport financier.pdf"
+  },
+  "073": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 340,
+    "2020-2021": 353,
+    "2019-2020": 351
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 4000,
+     "dep": 4000
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 11845,
+     "dep": 12186
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/073_Rapport financier.pdf"
+  },
+  "075": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 296,
+    "2020-2021": 292,
+    "2019-2020": 421
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 8000,
+     "dep": 8000
+    },
+    "2020-2021": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2019-2020": {
+     "rev": 28735,
+     "dep": 28648
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/075_Rapport financier.pdf"
+  },
+  "077": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 440,
+    "2020-2021": 419,
+    "2019-2020": 315
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 5418,
+     "dep": 5374
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/077_Rapport financier.pdf"
+  },
+  "079": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 421,
+    "2020-2021": 403,
+    "2019-2020": 425
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 25506,
+     "dep": 25501
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/079_Rapport financier.pdf"
+  },
+  "080": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 312,
+    "2020-2021": 319,
+    "2019-2020": 326
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 13335,
+     "dep": 13335
+    },
+    "2020-2021": {
+     "rev": 14250,
+     "dep": 14250
+    },
+    "2019-2020": {
+     "rev": 23492,
+     "dep": 23413
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/080_Rapport financier.pdf"
+  },
+  "081": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 425,
+    "2020-2021": 400,
+    "2019-2020": 388
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2020-2021": {
+     "rev": 3198,
+     "dep": 3198
+    },
+    "2019-2020": {
+     "rev": 21601,
+     "dep": 21473
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/081_Rapport financier.pdf"
+  },
+  "083": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 549,
+    "2020-2021": 566,
+    "2019-2020": 581
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 9858,
+     "dep": 9858
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 23409,
+     "dep": 23391
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/083_Rapport financier.pdf"
+  },
+  "085": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 271,
+    "2020-2021": 270,
+    "2019-2020": 0
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2020-2021": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2019-2020": {
+     "rev": 0,
+     "dep": 0
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/085_Rapport financier.pdf"
+  },
+  "086": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 293,
+    "2020-2021": 327,
+    "2019-2020": 325
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 3000,
+     "dep": 3000
+    },
+    "2019-2020": {
+     "rev": 14577,
+     "dep": 14577
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/086_Rapport financier.pdf"
+  },
+  "087": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 416,
+    "2020-2021": 411,
+    "2019-2020": 434
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 8000,
+     "dep": 8000
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2019-2020": {
+     "rev": 45318,
+     "dep": 45318
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/087_Rapport financier.pdf"
+  },
+  "088": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 401,
+    "2020-2021": 378,
+    "2019-2020": 399
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 16000,
+     "dep": 16000
+    },
+    "2020-2021": {
+     "rev": 7000,
+     "dep": 7000
+    },
+    "2019-2020": {
+     "rev": 3349,
+     "dep": 3284
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/088_Rapport financier.pdf"
+  },
+  "089": {
+   "status": "ok",
+   "page": 2,
+   "columnYears": [
+    "2021-2022",
+    "2020-2021",
+    "2019-2020"
+   ],
+   "clientele": {
+    "2021-2022": 627,
+    "2020-2021": 589,
+    "2019-2020": 672
+   },
+   "campagnes": {
+    "2021-2022": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2020-2021": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2019-2020": {
+     "rev": 37777,
+     "dep": 32122
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2021-2022/089_Rapport financier.pdf"
+  }
+ },
+ "2022-2023": {
+  "050": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "051": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 275,
+    "2021-2022": 316,
+    "2020-2021": 329
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 21000,
+     "dep": 21000
+    },
+    "2021-2022": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2020-2021": {
+     "rev": 3923,
+     "dep": 3923
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/051 - Rapport financier.pdf"
+  },
+  "053": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 517,
+    "2021-2022": 524,
+    "2020-2021": 559
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 90000,
+     "dep": 90000
+    },
+    "2021-2022": {
+     "rev": 90000,
+     "dep": 90000
+    },
+    "2020-2021": {
+     "rev": 61827,
+     "dep": 61827
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/053 - Rapport financier.pdf"
+  },
+  "054": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "056": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 193,
+    "2021-2022": 199,
+    "2020-2021": 204
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 4355,
+     "dep": 3927
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/056_Rapport financier.pdf"
+  },
+  "059": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 443,
+    "2021-2022": 452,
+    "2020-2021": 451
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 33000,
+     "dep": 33000
+    },
+    "2021-2022": {
+     "rev": 42000,
+     "dep": 42000
+    },
+    "2020-2021": {
+     "rev": 25206,
+     "dep": 25206
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/059_Rapport financier.pdf"
+  },
+  "063": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 227,
+    "2021-2022": 223,
+    "2020-2021": 222
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 4407,
+     "dep": 4407
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/063_Rapport financier.pdf"
+  },
+  "064": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 264,
+    "2021-2022": 255,
+    "2020-2021": 230
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 5800,
+     "dep": 5800
+    },
+    "2021-2022": {
+     "rev": 5800,
+     "dep": 5800
+    },
+    "2020-2021": {
+     "rev": 3060,
+     "dep": 3054
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/064 - Rapport financier.pdf"
+  },
+  "065": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "066": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 405,
+    "2021-2022": 418,
+    "2020-2021": 411
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2021-2022": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2020-2021": {
+     "rev": 3862,
+     "dep": 3862
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/066_Rapport financier.pdf"
+  },
+  "067": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "068": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 429,
+    "2021-2022": 457,
+    "2020-2021": 452
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 0,
+     "dep": 1
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/068 - Rapport financier.pdf"
+  },
+  "069": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "070": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "072": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 414,
+    "2021-2022": 407,
+    "2020-2021": 422
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 40285,
+     "dep": 40285
+    },
+    "2021-2022": {
+     "rev": 21700,
+     "dep": 21700
+    },
+    "2020-2021": {
+     "rev": 13347,
+     "dep": 13337
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/072_Rapport financier.pdf"
+  },
+  "073": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "075": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "077": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 442,
+    "2021-2022": 448,
+    "2020-2021": 419
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 27000,
+     "dep": 27000
+    },
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 269,
+     "dep": 264
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/077 - Rapport financier.pdf"
+  },
+  "079": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 420,
+    "2021-2022": 430,
+    "2020-2021": 403
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2020-2021": {
+     "rev": 3835,
+     "dep": 3815
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/079 - Rapport financier Sommaire 22-23 PB.pdf"
+  },
+  "080": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 353,
+    "2021-2022": 334,
+    "2020-2021": 319
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2021-2022": {
+     "rev": 13335,
+     "dep": 13335
+    },
+    "2020-2021": {
+     "rev": 10587,
+     "dep": 10403
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/080_Rapport financier.pdf"
+  },
+  "081": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "083": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "085": {
+   "status": "scanne-sans-couche-texte"
+  },
+  "086": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 312,
+    "2021-2022": 316,
+    "2020-2021": 327
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 19000,
+     "dep": 19000
+    },
+    "2021-2022": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2020-2021": {
+     "rev": 8780,
+     "dep": 8780
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/086 - Rapport financier Sommaire 22-23 PB.pdf"
+  },
+  "087": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 419,
+    "2021-2022": 451,
+    "2020-2021": 411
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2021-2022": {
+     "rev": 8000,
+     "dep": 8000
+    },
+    "2020-2021": {
+     "rev": 21057,
+     "dep": 20685
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/087 - Rapport financier.pdf"
+  },
+  "088": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2022-2023",
+    "2021-2022",
+    "2020-2021"
+   ],
+   "clientele": {
+    "2022-2023": 410,
+    "2021-2022": 415,
+    "2020-2021": 378
+   },
+   "campagnes": {
+    "2022-2023": {
+     "rev": 7000,
+     "dep": 7000
+    },
+    "2021-2022": {
+     "rev": 16000,
+     "dep": 16000
+    },
+    "2020-2021": {
+     "rev": 1051,
+     "dep": 48
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2022-2023/088 - Rapport financier.pdf"
+  },
+  "089": {
+   "status": "scanne-sans-couche-texte"
+  }
+ },
+ "2023-2024": {
+  "050": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 442,
+    "2022-2023": 446,
+    "2021-2022": 482
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 8000,
+     "dep": 8000
+    },
+    "2022-2023": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2021-2022": {
+     "rev": 19432,
+     "dep": 18987
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/050 - Rapport financier sommaire.pdf"
+  },
+  "051": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 283,
+    "2022-2023": 293,
+    "2021-2022": 291
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 18000,
+     "dep": 18000
+    },
+    "2022-2023": {
+     "rev": 21000,
+     "dep": 21000
+    },
+    "2021-2022": {
+     "rev": 16679,
+     "dep": 16679
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/051 - Rapport financier sommaire.pdf"
+  },
+  "053": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 537,
+    "2022-2023": 516,
+    "2021-2022": 522
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 220000,
+     "dep": 220000
+    },
+    "2022-2023": {
+     "rev": 90000,
+     "dep": 90000
+    },
+    "2021-2022": {
+     "rev": 114090,
+     "dep": 114090
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/053 - Rapport financier sommaire.pdf"
+  },
+  "054": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 307,
+    "2022-2023": 437,
+    "2021-2022": 435
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2022-2023": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2021-2022": {
+     "rev": 15374,
+     "dep": 15328
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/054 - Rapport financier sommaire.pdf"
+  },
+  "056": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 187,
+    "2022-2023": 195,
+    "2021-2022": 199
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 7000,
+     "dep": 7000
+    },
+    "2022-2023": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2021-2022": {
+     "rev": 10237,
+     "dep": 8257
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/056 - Rapport financier sommaire.pdf"
+  },
+  "059": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 434,
+    "2022-2023": 448,
+    "2021-2022": 452
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 50000,
+     "dep": 50000
+    },
+    "2022-2023": {
+     "rev": 33000,
+     "dep": 33000
+    },
+    "2021-2022": {
+     "rev": 40029,
+     "dep": 40029
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/059 - Rapport financier sommaire.pdf"
+  },
+  "063": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 231,
+    "2022-2023": 222,
+    "2021-2022": 213
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2022-2023": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2021-2022": {
+     "rev": 29091,
+     "dep": 29091
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/063 - Rapport financier Sommaire.pdf"
+  },
+  "064": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 278,
+    "2022-2023": 284,
+    "2021-2022": 249
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2022-2023": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2021-2022": {
+     "rev": 30061,
+     "dep": 29746
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/064 - Rapport financier sommaire.pdf"
+  },
+  "065": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 497,
+    "2022-2023": 513,
+    "2021-2022": 504
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2022-2023": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2021-2022": {
+     "rev": 8027,
+     "dep": 7909
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/065 - Rapport financier sommaire.pdf"
+  },
+  "066": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 405,
+    "2022-2023": 414,
+    "2021-2022": 404
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 27000,
+     "dep": 27000
+    },
+    "2022-2023": {
+     "rev": 15977,
+     "dep": 15977
+    },
+    "2021-2022": {
+     "rev": 22173,
+     "dep": 22173
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/066 - Rapport financier sommaire.pdf"
+  },
+  "067": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 482,
+    "2022-2023": 474,
+    "2021-2022": 478
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 2103,
+     "dep": 2103
+    },
+    "2022-2023": {
+     "rev": 2103,
+     "dep": 2103
+    },
+    "2021-2022": {
+     "rev": 18774,
+     "dep": 17231
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/067 - Rapport financier sommaire.pdf"
+  },
+  "068": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 434,
+    "2022-2023": 442,
+    "2021-2022": 440
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 45000,
+     "dep": 45000
+    },
+    "2022-2023": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2021-2022": {
+     "rev": 6827,
+     "dep": 6811
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/068 - Rapport financier sommaire.pdf"
+  },
+  "069": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 544,
+    "2022-2023": 533,
+    "2021-2022": 542
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 75000,
+     "dep": 75000
+    },
+    "2022-2023": {
+     "rev": 60000,
+     "dep": 60000
+    },
+    "2021-2022": {
+     "rev": 75504,
+     "dep": 75160
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/069 - Rapport financier sommaire.pdf"
+  },
+  "070": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 609,
+    "2022-2023": 615,
+    "2021-2022": 588
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2022-2023": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2021-2022": {
+     "rev": 10507,
+     "dep": 9919
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/070 - Rapport financier sommaire.pdf"
+  },
+  "072": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 401,
+    "2022-2023": 424,
+    "2021-2022": 407
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 64392,
+     "dep": 64392
+    },
+    "2022-2023": {
+     "rev": 46895,
+     "dep": 46895
+    },
+    "2021-2022": {
+     "rev": 26544,
+     "dep": 26430
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/072 - Rapport financier sommaire.pdf"
+  },
+  "073": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 316,
+    "2022-2023": 374,
+    "2021-2022": 370
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 45000,
+     "dep": 45000
+    },
+    "2022-2023": {
+     "rev": 50000,
+     "dep": 50000
+    },
+    "2021-2022": {
+     "rev": 72216,
+     "dep": 72111
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/073 - Rapport financier sommaire.pdf"
+  },
+  "075": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 290,
+    "2022-2023": 286,
+    "2021-2022": 304
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2022-2023": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2021-2022": {
+     "rev": 9958,
+     "dep": 9958
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/075 - Rapport financier sommaire.pdf"
+  },
+  "076": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 172,
+    "2022-2023": 0,
+    "2021-2022": 0
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 2250,
+     "dep": 2250
+    },
+    "2022-2023": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/076 - Rapport financier sommaire.pdf"
+  },
+  "077": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 457,
+    "2022-2023": 461,
+    "2021-2022": 438
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 14000,
+     "dep": 14000
+    },
+    "2022-2023": {
+     "rev": 17000,
+     "dep": 17000
+    },
+    "2021-2022": {
+     "rev": 7683,
+     "dep": 7683
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/077 - Rapport financier sommaire.pdf"
+  },
+  "079": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 455,
+    "2022-2023": 442,
+    "2021-2022": 420
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2022-2023": {
+     "rev": 17000,
+     "dep": 17000
+    },
+    "2021-2022": {
+     "rev": 10850,
+     "dep": 10074
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/079 - Rapport financier sommaire.pdf"
+  },
+  "080": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 357,
+    "2022-2023": 350,
+    "2021-2022": 324
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 55854,
+     "dep": 55854
+    },
+    "2022-2023": {
+     "rev": 30000,
+     "dep": 30000
+    },
+    "2021-2022": {
+     "rev": 37847,
+     "dep": 37847
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/080 - Rapport financier sommaire.pdf"
+  },
+  "083": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 553,
+    "2022-2023": 550,
+    "2021-2022": 550
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2022-2023": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2021-2022": {
+     "rev": 973,
+     "dep": 973
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/083 - Rapport financier sommaire.pdf"
+  },
+  "085": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 299,
+    "2022-2023": 275,
+    "2021-2022": 259
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2022-2023": {
+     "rev": 7000,
+     "dep": 7000
+    },
+    "2021-2022": {
+     "rev": 23089,
+     "dep": 23089
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/085 - Rapport financier sommaire.pdf"
+  },
+  "086": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 308,
+    "2022-2023": 316,
+    "2021-2022": 306
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2022-2023": {
+     "rev": 30000,
+     "dep": 30000
+    },
+    "2021-2022": {
+     "rev": 14581,
+     "dep": 14581
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/086 - Rapport financier sommaire.pdf"
+  },
+  "087": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 421,
+    "2022-2023": 430,
+    "2021-2022": 439
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 18000,
+     "dep": 18000
+    },
+    "2022-2023": {
+     "rev": 11891,
+     "dep": 11891
+    },
+    "2021-2022": {
+     "rev": 21672,
+     "dep": 21672
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/087 - Rapport financier sommaire.pdf"
+  },
+  "088": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 382,
+    "2022-2023": 388,
+    "2021-2022": 407
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 8400,
+     "dep": 8400
+    },
+    "2022-2023": {
+     "rev": 13600,
+     "dep": 13600
+    },
+    "2021-2022": {
+     "rev": 7612,
+     "dep": 7612
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/088 - Rapport financier sommaire.pdf"
+  },
+  "089": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 608,
+    "2022-2023": 639,
+    "2021-2022": 648
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 42000,
+     "dep": 42000
+    },
+    "2022-2023": {
+     "rev": 118953,
+     "dep": 118953
+    },
+    "2021-2022": {
+     "rev": 53377,
+     "dep": 52588
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/089 - Rapport financier sommaire.pdf"
+  },
+  "097": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2023-2024",
+    "2022-2023",
+    "2021-2022"
+   ],
+   "clientele": {
+    "2023-2024": 254,
+    "2022-2023": 0,
+    "2021-2022": 0
+   },
+   "campagnes": {
+    "2023-2024": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2022-2023": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2021-2022": {
+     "rev": 0,
+     "dep": 0
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2023-2024/097 - Rapport financier sommaire.pdf"
+  }
+ },
+ "2025-2026": {
+  "050": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 395,
+    "2024-2025": 434,
+    "2023-2024": 456
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 18000,
+     "dep": 18000
+    },
+    "2024-2025": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2023-2024": {
+     "rev": 20844,
+     "dep": 20844
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/050 - Rapport financier.pdf"
+  },
+  "051": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 352,
+    "2024-2025": 365,
+    "2023-2024": 354
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 11500,
+     "dep": 11500
+    },
+    "2024-2025": {
+     "rev": 11500,
+     "dep": 11500
+    },
+    "2023-2024": {
+     "rev": 27455,
+     "dep": 27450
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/051 - Rapport financier.pdf"
+  },
+  "053": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 614,
+    "2024-2025": 590,
+    "2023-2024": 541
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 250000,
+     "dep": 250000
+    },
+    "2024-2025": {
+     "rev": 210000,
+     "dep": 210000
+    },
+    "2023-2024": {
+     "rev": 211835,
+     "dep": 211835
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/053 - Rapport financier.pdf"
+  },
+  "054": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 303,
+    "2024-2025": 309,
+    "2023-2024": 333
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2024-2025": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2023-2024": {
+     "rev": 11953,
+     "dep": 11678
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/054 - Rapport financier.pdf"
+  },
+  "056": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 181,
+    "2024-2025": 215,
+    "2023-2024": 211
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2024-2025": {
+     "rev": 6000,
+     "dep": 6000
+    },
+    "2023-2024": {
+     "rev": 3574,
+     "dep": 3397
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/056 - Rapport financier.pdf"
+  },
+  "059": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 470,
+    "2024-2025": 438,
+    "2023-2024": 437
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 50000,
+     "dep": 50000
+    },
+    "2024-2025": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2023-2024": {
+     "rev": 33272,
+     "dep": 33253
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/059 - Rapport financier.pdf"
+  },
+  "063": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 211,
+    "2024-2025": 234,
+    "2023-2024": 224
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 35000,
+     "dep": 35000
+    },
+    "2024-2025": {
+     "rev": 23000,
+     "dep": 23000
+    },
+    "2023-2024": {
+     "rev": 19805,
+     "dep": 19352
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/063 - Rapport financier.pdf"
+  },
+  "064": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 247,
+    "2024-2025": 260,
+    "2023-2024": 284
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2024-2025": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2023-2024": {
+     "rev": 4665,
+     "dep": 4504
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/064 - Rapport financier.pdf"
+  },
+  "065": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 500,
+    "2024-2025": 502,
+    "2023-2024": 496
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2024-2025": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2023-2024": {
+     "rev": 664,
+     "dep": 664
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/065 - Rapport financier.pdf"
+  },
+  "066": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 365,
+    "2024-2025": 413,
+    "2023-2024": 416
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 12980,
+     "dep": 12980
+    },
+    "2024-2025": {
+     "rev": 14981,
+     "dep": 14981
+    },
+    "2023-2024": {
+     "rev": 24715,
+     "dep": 24715
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/066 - Rapport financier.pdf"
+  },
+  "067": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 447,
+    "2024-2025": 474,
+    "2023-2024": 490
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 20000,
+     "dep": 20000
+    },
+    "2024-2025": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2023-2024": {
+     "rev": 49499,
+     "dep": 49499
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/067 - Rapport financier.pdf"
+  },
+  "068": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 375,
+    "2024-2025": 441,
+    "2023-2024": 460
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 15000,
+     "dep": 15000
+    },
+    "2024-2025": {
+     "rev": 30000,
+     "dep": 30000
+    },
+    "2023-2024": {
+     "rev": 34965,
+     "dep": 34959
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/068 - Rapport financier.pdf"
+  },
+  "069": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 559,
+    "2024-2025": 577,
+    "2023-2024": 563
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 75000,
+     "dep": 75000
+    },
+    "2024-2025": {
+     "rev": 75000,
+     "dep": 75000
+    },
+    "2023-2024": {
+     "rev": 92759,
+     "dep": 91352
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/069 - Rapport financier.pdf"
+  },
+  "070": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 614,
+    "2024-2025": 626,
+    "2023-2024": 607
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2024-2025": {
+     "rev": 3000,
+     "dep": 3000
+    },
+    "2023-2024": {
+     "rev": 11270,
+     "dep": 7245
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/070 - Rapport financier.pdf"
+  },
+  "072": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 446,
+    "2024-2025": 421,
+    "2023-2024": 395
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 27000,
+     "dep": 27000
+    },
+    "2024-2025": {
+     "rev": 30000,
+     "dep": 30000
+    },
+    "2023-2024": {
+     "rev": 33991,
+     "dep": 33746
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/072 - Rapport financier.pdf"
+  },
+  "073": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 309,
+    "2024-2025": 321,
+    "2023-2024": 334
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 50000,
+     "dep": 50000
+    },
+    "2024-2025": {
+     "rev": 40850,
+     "dep": 40850
+    },
+    "2023-2024": {
+     "rev": 41052,
+     "dep": 41052
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/073 - Rapport financier.pdf"
+  },
+  "075": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 304,
+    "2024-2025": 252,
+    "2023-2024": 291
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 0,
+     "dep": 0
+    },
+    "2024-2025": {
+     "rev": 1944,
+     "dep": 1944
+    },
+    "2023-2024": {
+     "rev": 917,
+     "dep": 852
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/075 - Rapport financier.pdf"
+  },
+  "076": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 158,
+    "2024-2025": 148,
+    "2023-2024": 164
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2024-2025": {
+     "rev": 7500,
+     "dep": 7500
+    },
+    "2023-2024": {
+     "rev": 7198,
+     "dep": 7198
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/076 - Rapport financier.pdf"
+  },
+  "077": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 442,
+    "2024-2025": 448,
+    "2023-2024": 458
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 12000,
+     "dep": 12000
+    },
+    "2024-2025": {
+     "rev": 12000,
+     "dep": 12000
+    },
+    "2023-2024": {
+     "rev": 20810,
+     "dep": 20810
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/077 - Rapport financier.pdf"
+  },
+  "079": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 450,
+    "2024-2025": 449,
+    "2023-2024": 443
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 40000,
+     "dep": 40000
+    },
+    "2024-2025": {
+     "rev": 27000,
+     "dep": 27000
+    },
+    "2023-2024": {
+     "rev": 23500,
+     "dep": 22680
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/079 - Rapport financier.pdf"
+  },
+  "080": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 352,
+    "2024-2025": 344,
+    "2023-2024": 351
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 16950,
+     "dep": 16950
+    },
+    "2024-2025": {
+     "rev": 40000,
+     "dep": 40000
+    },
+    "2023-2024": {
+     "rev": 88523,
+     "dep": 88523
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/080 - Rapport financier.pdf"
+  },
+  "083": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 583,
+    "2024-2025": 564,
+    "2023-2024": 544
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2024-2025": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2023-2024": {
+     "rev": 28657,
+     "dep": 28657
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/083 - Rapport financier.pdf"
+  },
+  "085": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 275,
+    "2024-2025": 316,
+    "2023-2024": 312
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 10000,
+     "dep": 10000
+    },
+    "2024-2025": {
+     "rev": 5000,
+     "dep": 5000
+    },
+    "2023-2024": {
+     "rev": 14686,
+     "dep": 14452
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/085 - Rapport financier.pdf"
+  },
+  "086": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 292,
+    "2024-2025": 284,
+    "2023-2024": 317
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 37500,
+     "dep": 37500
+    },
+    "2024-2025": {
+     "rev": 25000,
+     "dep": 25000
+    },
+    "2023-2024": {
+     "rev": 25541,
+     "dep": 25366
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/086 - Rapport financier.pdf"
+  },
+  "087": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 405,
+    "2024-2025": 418,
+    "2023-2024": 416
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 14292,
+     "dep": 14292
+    },
+    "2024-2025": {
+     "rev": 14292,
+     "dep": 14292
+    },
+    "2023-2024": {
+     "rev": 10711,
+     "dep": 10711
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/087 - Rapport financier.pdf"
+  },
+  "088": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 359,
+    "2024-2025": 362,
+    "2023-2024": 378
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 8500,
+     "dep": 8500
+    },
+    "2024-2025": {
+     "rev": 8500,
+     "dep": 8500
+    },
+    "2023-2024": {
+     "rev": 6558,
+     "dep": 6550
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/088 - Rapport financier.pdf"
+  },
+  "089": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 667,
+    "2024-2025": 685,
+    "2023-2024": 631
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 18000,
+     "dep": 18000
+    },
+    "2024-2025": {
+     "rev": 34000,
+     "dep": 34000
+    },
+    "2023-2024": {
+     "rev": 53897,
+     "dep": 52781
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/089 - Rapport financier.pdf"
+  },
+  "097": {
+   "status": "ok",
+   "page": 3,
+   "columnYears": [
+    "2025-2026",
+    "2024-2025",
+    "2023-2024"
+   ],
+   "clientele": {
+    "2025-2026": 260,
+    "2024-2025": 269,
+    "2023-2024": 257
+   },
+   "campagnes": {
+    "2025-2026": {
+     "rev": 2000,
+     "dep": 2000
+    },
+    "2024-2025": {
+     "rev": 1350,
+     "dep": 1350
+    },
+    "2023-2024": {
+     "rev": 2896,
+     "dep": 2896
+    }
+   },
+   "file": "Centre de services scolaire des Draveurs/Prévision budgétaire établissements/2025-2026/097 - Rapport financier.pdf"
+  }
+ }
+}

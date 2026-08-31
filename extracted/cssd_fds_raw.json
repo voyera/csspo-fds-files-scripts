@@ -1,0 +1,3414 @@
+{
+ "2023-2024": {
+  "050": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeux cour école",
+     "open": 8451,
+     "add": 466,
+     "approp": 0,
+     "close": 8917
+    },
+    {
+     "label": "Activités des élèves - Vie étudiante",
+     "open": 0,
+     "add": 11280,
+     "approp": 0,
+     "close": 11280
+    }
+   ],
+   "totals": {
+    "open": 8451,
+    "add": 11746,
+    "approp": 0,
+    "close": 20197
+   }
+  },
+  "051": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour d'école (activités, structures,mat)",
+     "open": 20433,
+     "add": 8735,
+     "approp": 0,
+     "close": 29169
+    },
+    {
+     "label": "Élèves démunis",
+     "open": 9204,
+     "add": 1077,
+     "approp": 0,
+     "close": 10281
+    },
+    {
+     "label": "Activités aux élèves (musi,TSA, finiss.)",
+     "open": 4918,
+     "add": 0,
+     "approp": 0,
+     "close": 4918
+    }
+   ],
+   "totals": {
+    "open": 34555,
+    "add": 9812,
+    "approp": 0,
+    "close": 44368
+   }
+  },
+  "053": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour école, act., sorties éduc., matérie",
+     "open": 65929,
+     "add": 12639,
+     "approp": 1380,
+     "close": 77188
+    },
+    {
+     "label": "Dons 921",
+     "open": 289,
+     "add": 1061,
+     "approp": 0,
+     "close": 1350
+    },
+    {
+     "label": "Projet Pizza",
+     "open": 0,
+     "add": 828,
+     "approp": 0,
+     "close": 828
+    },
+    {
+     "label": "Sorties et activités du préscolaire",
+     "open": 0,
+     "add": 1600,
+     "approp": 0,
+     "close": 1600
+    }
+   ],
+   "totals": {
+    "open": 66218,
+    "add": 16128,
+    "approp": 1380,
+    "close": 80966
+   }
+  },
+  "054": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 0,
+     "add": 9298,
+     "approp": 9298,
+     "close": 0
+    },
+    {
+     "label": "Sorties cultures et act.",
+     "open": 48354,
+     "add": 3432,
+     "approp": 9298,
+     "close": 42488
+    },
+    {
+     "label": "Vernissage",
+     "open": 643,
+     "add": 0,
+     "approp": 0,
+     "close": 643
+    },
+    {
+     "label": "Gr. 202 Croque santé",
+     "open": 118,
+     "add": 0,
+     "approp": 0,
+     "close": 118
+    },
+    {
+     "label": "Fêtes d'accueil et des déjeuners de Noël",
+     "open": 1879,
+     "add": 6435,
+     "approp": 0,
+     "close": 8313
+    },
+    {
+     "label": "Classe extérieure",
+     "open": 11203,
+     "add": 0,
+     "approp": 0,
+     "close": 11203
+    }
+   ],
+   "totals": {
+    "open": 62197,
+    "add": 19165,
+    "approp": 18596,
+    "close": 62766
+   }
+  },
+  "056": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 3032,
+     "add": 2465,
+     "approp": 0,
+     "close": 5497
+    }
+   ],
+   "totals": {
+    "open": 3032,
+    "add": 2465,
+    "approp": 0,
+    "close": 5497
+   }
+  },
+  "059": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 2226,
+     "add": 4686,
+     "approp": 0,
+     "close": 6912
+    },
+    {
+     "label": "Aménagement cour maternelles",
+     "open": 1849,
+     "add": 0,
+     "approp": 0,
+     "close": 1849
+    },
+    {
+     "label": "Familles démunies",
+     "open": 1347,
+     "add": 68,
+     "approp": 0,
+     "close": 1415
+    },
+    {
+     "label": "Amén. cour, travaux mineurs, mobilier",
+     "open": 31492,
+     "add": 13012,
+     "approp": 0,
+     "close": 44504
+    }
+   ],
+   "totals": {
+    "open": 36914,
+    "add": 17766,
+    "approp": 0,
+    "close": 54680
+   }
+  },
+  "063": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 35626,
+     "add": 4238,
+     "approp": 23991,
+     "close": 15873
+    }
+   ],
+   "totals": {
+    "open": 35626,
+    "add": 4238,
+    "approp": 23991,
+    "close": 15873
+   }
+  },
+  "064": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 13761,
+     "add": 1423,
+     "approp": 0,
+     "close": 15185
+    },
+    {
+     "label": "Projet Cuistots",
+     "open": 165,
+     "add": 0,
+     "approp": 0,
+     "close": 165
+    },
+    {
+     "label": "Act. étudiantes, mat. scol., dîners dép.",
+     "open": 1387,
+     "add": 3694,
+     "approp": 0,
+     "close": 5081
+    },
+    {
+     "label": "Évaluations orthophonie, psychologie",
+     "open": 10436,
+     "add": 0,
+     "approp": 0,
+     "close": 10436
+    },
+    {
+     "label": "Sortie fin d'année 3e cycle",
+     "open": 41,
+     "add": 0,
+     "approp": 0,
+     "close": 41
+    }
+   ],
+   "totals": {
+    "open": 25790,
+    "add": 5117,
+    "approp": 0,
+    "close": 30908
+   }
+  },
+  "065": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Achat d'instruments de musique",
+     "open": 4,
+     "add": 0,
+     "approp": 0,
+     "close": 4
+    }
+   ],
+   "totals": {
+    "open": 4,
+    "add": 0,
+    "approp": 0,
+    "close": 4
+   }
+  },
+  "066": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 18917,
+     "add": 3116,
+     "approp": 18235,
+     "close": 3798
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 5729,
+     "add": 912,
+     "approp": 800,
+     "close": 5842
+    }
+   ],
+   "totals": {
+    "open": 24646,
+    "add": 4028,
+    "approp": 19035,
+    "close": 9640
+   }
+  },
+  "067": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 2615,
+     "add": 152,
+     "approp": 0,
+     "close": 2767
+    },
+    {
+     "label": "Le sentier du Vallon",
+     "open": 130,
+     "add": 0,
+     "approp": 0,
+     "close": 130
+    }
+   ],
+   "totals": {
+    "open": 2745,
+    "add": 152,
+    "approp": 0,
+    "close": 2897
+   }
+  },
+  "068": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 90134,
+     "add": 21396,
+     "approp": 41265,
+     "close": 70265
+    },
+    {
+     "label": "Soutien en loisir personnes handicapées",
+     "open": 2633,
+     "add": 3000,
+     "approp": 635,
+     "close": 4998
+    }
+   ],
+   "totals": {
+    "open": 92767,
+    "add": 24396,
+    "approp": 41900,
+    "close": 75263
+   }
+  },
+  "069": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 32091,
+     "add": 15898,
+     "approp": 0,
+     "close": 47989
+    },
+    {
+     "label": "Act. Accueil 21-22",
+     "open": 8561,
+     "add": 1516,
+     "approp": 1985,
+     "close": 8091
+    },
+    {
+     "label": "Serre hydroponique",
+     "open": 0,
+     "add": 130,
+     "approp": 0,
+     "close": 130
+    },
+    {
+     "label": "Fête des finissants",
+     "open": 845,
+     "add": 0,
+     "approp": 704,
+     "close": 141
+    },
+    {
+     "label": "Visite d'une usine robotique",
+     "open": 0,
+     "add": 1549,
+     "approp": 0,
+     "close": 1549
+    }
+   ],
+   "totals": {
+    "open": 41497,
+    "add": 19093,
+    "approp": 2689,
+    "close": 57901
+   }
+  },
+  "070": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Trèfle et embellissement cour d'école",
+     "open": 3877,
+     "add": 0,
+     "approp": 0,
+     "close": 3877
+    },
+    {
+     "label": "BBQ annuel",
+     "open": 277,
+     "add": 0,
+     "approp": 0,
+     "close": 277
+    },
+    {
+     "label": "Achat mat./Activités classe/Sorties/ act",
+     "open": 5631,
+     "add": 5416,
+     "approp": 0,
+     "close": 11047
+    }
+   ],
+   "totals": {
+    "open": 9785,
+    "add": 5416,
+    "approp": 0,
+    "close": 15201
+   }
+  },
+  "072": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeu",
+     "open": 58898,
+     "add": 14588,
+     "approp": 0,
+     "close": 73485
+    },
+    {
+     "label": "Activité d'accueil",
+     "open": 3878,
+     "add": 4918,
+     "approp": 3679,
+     "close": 5117
+    },
+    {
+     "label": "901-902 projet Smoothies",
+     "open": 456,
+     "add": 0,
+     "approp": 456,
+     "close": 0
+    },
+    {
+     "label": "Activités diverses pour élèves",
+     "open": 585,
+     "add": 0,
+     "approp": 0,
+     "close": 585
+    },
+    {
+     "label": "Murale des valeurs",
+     "open": 2427,
+     "add": 0,
+     "approp": 2427,
+     "close": 0
+    },
+    {
+     "label": "Embelissement de la bibliothèque",
+     "open": 1500,
+     "add": 0,
+     "approp": 1500,
+     "close": 0
+    },
+    {
+     "label": "Embellissement de la cour d'école",
+     "open": 17117,
+     "add": 9893,
+     "approp": 0,
+     "close": 27010
+    }
+   ],
+   "totals": {
+    "open": 84861,
+    "add": 29399,
+    "approp": 8062,
+    "close": 106197
+   }
+  },
+  "073": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 14470,
+     "add": 24500,
+     "approp": 9934,
+     "close": 29036
+    },
+    {
+     "label": "Transf. Don familles défavorisées",
+     "open": 1391,
+     "add": 450,
+     "approp": 0,
+     "close": 1841
+    },
+    {
+     "label": "Activités des élèves",
+     "open": 17477,
+     "add": 19351,
+     "approp": 3652,
+     "close": 33175
+    },
+    {
+     "label": "Local polyvalent",
+     "open": 0,
+     "add": 5705,
+     "approp": 0,
+     "close": 5705
+    }
+   ],
+   "totals": {
+    "open": 33338,
+    "add": 50006,
+    "approp": 13586,
+    "close": 69756
+   }
+  },
+  "075": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Projet d'accueil",
+     "open": 85,
+     "add": 0,
+     "approp": 0,
+     "close": 85
+    },
+    {
+     "label": "Activités 18-19 / Amélior. cour d'école",
+     "open": 35902,
+     "add": 2400,
+     "approp": 3631,
+     "close": 34671
+    },
+    {
+     "label": "Environnement",
+     "open": 1107,
+     "add": 0,
+     "approp": 0,
+     "close": 1107
+    },
+    {
+     "label": "Transformation de la bibliothèque",
+     "open": 968,
+     "add": 0,
+     "approp": 0,
+     "close": 968
+    }
+   ],
+   "totals": {
+    "open": 38062,
+    "add": 2400,
+    "approp": 3631,
+    "close": 36831
+   }
+  },
+  "076": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 4000,
+     "add": 359,
+     "approp": 0,
+     "close": 4359
+    },
+    {
+     "label": "Activités aux élèves",
+     "open": 2221,
+     "add": 0,
+     "approp": 0,
+     "close": 2221
+    },
+    {
+     "label": "Achat instruments de musique",
+     "open": 143,
+     "add": 0,
+     "approp": 0,
+     "close": 143
+    },
+    {
+     "label": "Activité des finissants",
+     "open": 0,
+     "add": 232,
+     "approp": 0,
+     "close": 232
+    }
+   ],
+   "totals": {
+    "open": 6364,
+    "add": 591,
+    "approp": 0,
+    "close": 6954
+   }
+  },
+  "077": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités éducatives et cour école",
+     "open": 24050,
+     "add": 3699,
+     "approp": 0,
+     "close": 27749
+    },
+    {
+     "label": "Activités spéciales (OPP)",
+     "open": 8346,
+     "add": 1277,
+     "approp": 3357,
+     "close": 6267
+    },
+    {
+     "label": "Amélioration de la bibliothèque",
+     "open": 1000,
+     "add": 1277,
+     "approp": 1000,
+     "close": 1277
+    }
+   ],
+   "totals": {
+    "open": 33396,
+    "add": 6254,
+    "approp": 4357,
+    "close": 35293
+   }
+  },
+  "079": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 38224,
+     "add": 2109,
+     "approp": 0,
+     "close": 40333
+    },
+    {
+     "label": "Activités des élèves",
+     "open": 0,
+     "add": 12516,
+     "approp": 0,
+     "close": 12516
+    }
+   ],
+   "totals": {
+    "open": 38224,
+    "add": 14625,
+    "approp": 0,
+    "close": 52849
+   }
+  },
+  "080": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 58854,
+     "add": 16184,
+     "approp": 46618,
+     "close": 28420
+    },
+    {
+     "label": "Projet entrepreunarial",
+     "open": 500,
+     "add": 221,
+     "approp": 320,
+     "close": 401
+    }
+   ],
+   "totals": {
+    "open": 59354,
+    "add": 16405,
+    "approp": 46938,
+    "close": 28821
+   }
+  },
+  "083": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 7772,
+     "add": 920,
+     "approp": 2219,
+     "close": 6472
+    },
+    {
+     "label": "Aménagement - cour d'école / cour présco",
+     "open": 9983,
+     "add": 15925,
+     "approp": 0,
+     "close": 25908
+    }
+   ],
+   "totals": {
+    "open": 17755,
+    "add": 16845,
+    "approp": 2219,
+    "close": 32380
+   }
+  },
+  "085": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 6875,
+     "add": 2801,
+     "approp": 4024,
+     "close": 5651
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 8125,
+     "add": 1577,
+     "approp": 0,
+     "close": 9702
+    }
+   ],
+   "totals": {
+    "open": 15000,
+    "add": 4378,
+    "approp": 4024,
+    "close": 15353
+   }
+  },
+  "086": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 36328,
+     "add": 8388,
+     "approp": 0,
+     "close": 44716
+    },
+    {
+     "label": "Embellisement de la bibliothèque",
+     "open": 3268,
+     "add": 4981,
+     "approp": 0,
+     "close": 8249
+    }
+   ],
+   "totals": {
+    "open": 39596,
+    "add": 13369,
+    "approp": 0,
+    "close": 52965
+   }
+  },
+  "087": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Volet pédagogique et activités (élèves)",
+     "open": 39175,
+     "add": 6658,
+     "approp": 0,
+     "close": 45833
+    }
+   ],
+   "totals": {
+    "open": 39175,
+    "add": 6658,
+    "approp": 0,
+    "close": 45833
+   }
+  },
+  "088": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 11813,
+     "add": 869,
+     "approp": 1076,
+     "close": 11606
+    },
+    {
+     "label": "OPP Fête Foraine",
+     "open": 3931,
+     "add": 2278,
+     "approp": 0,
+     "close": 6209
+    }
+   ],
+   "totals": {
+    "open": 15744,
+    "add": 3147,
+    "approp": 1076,
+    "close": 17815
+   }
+  },
+  "089": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 69591,
+     "add": 9651,
+     "approp": 26055,
+     "close": 53187
+    },
+    {
+     "label": "Activités des élèves OPP",
+     "open": 3373,
+     "add": 4232,
+     "approp": 2070,
+     "close": 5536
+    },
+    {
+     "label": "Activités des finissant",
+     "open": 0,
+     "add": 1061,
+     "approp": 0,
+     "close": 1061
+    }
+   ],
+   "totals": {
+    "open": 72964,
+    "add": 14944,
+    "approp": 28125,
+    "close": 59784
+   }
+  },
+  "097": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 8000,
+     "add": 630,
+     "approp": 0,
+     "close": 8630
+    },
+    {
+     "label": "Activités aux élèves",
+     "open": 3331,
+     "add": 772,
+     "approp": 0,
+     "close": 4102
+    },
+    {
+     "label": "Achat instruments de musique",
+     "open": 214,
+     "add": 0,
+     "approp": 0,
+     "close": 214
+    }
+   ],
+   "totals": {
+    "open": 11545,
+    "add": 1402,
+    "approp": 0,
+    "close": 12946
+   }
+  }
+ },
+ "2022-2023": {
+  "050": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeux cour école",
+     "open": 8102,
+     "add": 349,
+     "approp": 0,
+     "close": 8451
+    }
+   ],
+   "totals": {
+    "open": 8102,
+    "add": 349,
+    "approp": 0,
+    "close": 8451
+   }
+  },
+  "051": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour d'école (activités, structures,mat)",
+     "open": 43013,
+     "add": 8633,
+     "approp": 31213,
+     "close": 20433
+    },
+    {
+     "label": "Élèves démunis",
+     "open": 8162,
+     "add": 1162,
+     "approp": 120,
+     "close": 9204
+    }
+   ],
+   "totals": {
+    "open": 56093,
+    "add": 9795,
+    "approp": 31333,
+    "close": 34555
+   },
+   "incompleteLines": true,
+   "note": "Capture avec ligne masquée : écart de 4 918 $ (open et close) entre les totaux imprimés et les 2 lignes visibles = solde du projet « Activités aux élèves (musi,TSA, finiss.) » visible en 2023-24, sans mouvement en 2022-23."
+  },
+  "053": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour école, act., sorties éduc., matérie",
+     "open": 32279,
+     "add": 48120,
+     "approp": 14470,
+     "close": 65929
+    },
+    {
+     "label": "Dons 921",
+     "open": 0,
+     "add": 289,
+     "approp": 0,
+     "close": 289
+    }
+   ],
+   "totals": {
+    "open": 32279,
+    "add": 48409,
+    "approp": 14470,
+    "close": 66218
+   }
+  },
+  "054": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Sorties cultures et act.",
+     "open": 35576,
+     "add": 15019,
+     "approp": 2241,
+     "close": 48354
+    },
+    {
+     "label": "Vernissage",
+     "open": 643,
+     "add": 0,
+     "approp": 0,
+     "close": 643
+    },
+    {
+     "label": "Gr. 202 Croque santé",
+     "open": 118,
+     "add": 0,
+     "approp": 0,
+     "close": 118
+    },
+    {
+     "label": "Fêtes d'accueil et des déjeuners de Noël",
+     "open": 1879,
+     "add": 0,
+     "approp": 0,
+     "close": 1879
+    },
+    {
+     "label": "Classe extérieure",
+     "open": 11203,
+     "add": 11203,
+     "approp": 11203,
+     "close": 11203
+    }
+   ],
+   "totals": {
+    "open": 49419,
+    "add": 26222,
+    "approp": 13444,
+    "close": 62197
+   }
+  },
+  "056": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 2257,
+     "add": 775,
+     "approp": 0,
+     "close": 3032
+    }
+   ],
+   "totals": {
+    "open": 2257,
+    "add": 775,
+    "approp": 0,
+    "close": 3032
+   }
+  },
+  "059": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 465,
+     "add": 1761,
+     "approp": 0,
+     "close": 2226
+    },
+    {
+     "label": "Aménagement cour maternelles",
+     "open": 1849,
+     "add": 0,
+     "approp": 0,
+     "close": 1849
+    },
+    {
+     "label": "Familles démunies",
+     "open": 86,
+     "add": 1262,
+     "approp": 0,
+     "close": 1347
+    },
+    {
+     "label": "Les Petits Cuistots",
+     "open": 770,
+     "add": 0,
+     "approp": 770,
+     "close": 0
+    },
+    {
+     "label": "Amén. cour, travaux mineurs, mobilier",
+     "open": 27203,
+     "add": 5401,
+     "approp": 1112,
+     "close": 31492
+    }
+   ],
+   "totals": {
+    "open": 30373,
+    "add": 8424,
+    "approp": 1882,
+    "close": 36914
+   }
+  },
+  "063": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 31316,
+     "add": 6790,
+     "approp": 2480,
+     "close": 35626
+    }
+   ],
+   "totals": {
+    "open": 31316,
+    "add": 6790,
+    "approp": 2480,
+    "close": 35626
+   }
+  },
+  "064": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 12902,
+     "add": 860,
+     "approp": 0,
+     "close": 13761
+    },
+    {
+     "label": "Projet Cuistots",
+     "open": 165,
+     "add": 0,
+     "approp": 0,
+     "close": 165
+    },
+    {
+     "label": "Act. étudiantes, mat. scol., dîners dép.",
+     "open": 1387,
+     "add": 4959,
+     "approp": 0,
+     "close": 6346
+    },
+    {
+     "label": "Évaluations orthophonie, psychologie",
+     "open": 5477,
+     "add": 0,
+     "approp": 0,
+     "close": 5477
+    },
+    {
+     "label": "Sortie fin d'année 3e cycle",
+     "open": 41,
+     "add": 0,
+     "approp": 0,
+     "close": 41
+    }
+   ],
+   "totals": {
+    "open": 19972,
+    "add": 5819,
+    "approp": 0,
+    "close": 25790
+   }
+  },
+  "065": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Achat d'instruments de musique",
+     "open": 4,
+     "add": 0,
+     "approp": 0,
+     "close": 4
+    }
+   ],
+   "totals": {
+    "open": 4,
+    "add": 0,
+    "approp": 0,
+    "close": 4
+   }
+  },
+  "066": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 10201,
+     "add": 8715,
+     "approp": 0,
+     "close": 18917
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 5729,
+     "add": 0,
+     "approp": 0,
+     "close": 5729
+    }
+   ],
+   "totals": {
+    "open": 15930,
+    "add": 8715,
+    "approp": 0,
+    "close": 24646
+   }
+  },
+  "067": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Don pour matériel numérique",
+     "open": 130,
+     "add": 0,
+     "approp": 0,
+     "close": 130
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 0,
+     "add": 2615,
+     "approp": 0,
+     "close": 2615
+    }
+   ],
+   "totals": {
+    "open": 130,
+    "add": 2615,
+    "approp": 0,
+    "close": 2745
+   }
+  },
+  "068": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 69433,
+     "add": 20700,
+     "approp": 0,
+     "close": 90134
+    },
+    {
+     "label": "Soutien en loisir personnes handicapées",
+     "open": 3073,
+     "add": 0,
+     "approp": 440,
+     "close": 2633
+    }
+   ],
+   "totals": {
+    "open": 72506,
+    "add": 20700,
+    "approp": 440,
+    "close": 92767
+   }
+  },
+  "069": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 71460,
+     "add": 26856,
+     "approp": 66225,
+     "close": 32091
+    },
+    {
+     "label": "Act. Accueil 21-22",
+     "open": 4885,
+     "add": 8561,
+     "approp": 4885,
+     "close": 8561
+    },
+    {
+     "label": "Fête des finissants",
+     "open": 495,
+     "add": 845,
+     "approp": 495,
+     "close": 845
+    }
+   ],
+   "totals": {
+    "open": 76840,
+    "add": 36262,
+    "approp": 71605,
+    "close": 41497
+   }
+  },
+  "070": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Trèfle et embellissement cour d'école",
+     "open": 3877,
+     "add": 0,
+     "approp": 0,
+     "close": 3877
+    },
+    {
+     "label": "BBQ annuel",
+     "open": 5705,
+     "add": 0,
+     "approp": 5428,
+     "close": 277
+    },
+    {
+     "label": "Achat mat./Activités classe/Sorties/ act",
+     "open": 2029,
+     "add": 3602,
+     "approp": 0,
+     "close": 5631
+    }
+   ],
+   "totals": {
+    "open": 11611,
+    "add": 3602,
+    "approp": 5428,
+    "close": 9785
+   }
+  },
+  "072": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeu",
+     "open": 55824,
+     "add": 3073,
+     "approp": 0,
+     "close": 58898
+    },
+    {
+     "label": "Activité d'accueil",
+     "open": 5878,
+     "add": 2934,
+     "approp": 4935,
+     "close": 3878
+    }
+   ],
+   "totals": {
+    "open": 74817,
+    "add": 17794,
+    "approp": 7752,
+    "close": 84861
+   },
+   "incompleteLines": true,
+   "note": "Capture avec lignes masquées : les totaux imprimés dépassent la somme des 2 lignes visibles (écart solde fin 22 085 $ = soldes d'ouverture 2023-24 des 5 projets absents de la capture)."
+  },
+  "073": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 27007,
+     "add": 1347,
+     "approp": 13884,
+     "close": 14470
+    },
+    {
+     "label": "Transf. Don familles défavorisées",
+     "open": 1065,
+     "add": 326,
+     "approp": 0,
+     "close": 1391
+    },
+    {
+     "label": "Activités des élèves",
+     "open": 5827,
+     "add": 20712,
+     "approp": 9062,
+     "close": 17477
+    }
+   ],
+   "totals": {
+    "open": 33899,
+    "add": 22385,
+    "approp": 22946,
+    "close": 33338
+   }
+  },
+  "075": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Projet d'accueil",
+     "open": 85,
+     "add": 0,
+     "approp": 0,
+     "close": 85
+    },
+    {
+     "label": "Activités 18-19 / Amélior. cour d'école",
+     "open": 34371,
+     "add": 1531,
+     "approp": 0,
+     "close": 35902
+    },
+    {
+     "label": "Environnement",
+     "open": 1107,
+     "add": 0,
+     "approp": 0,
+     "close": 1107
+    },
+    {
+     "label": "Transformation de la bibliothèque",
+     "open": 0,
+     "add": 968,
+     "approp": 0,
+     "close": 968
+    }
+   ],
+   "totals": {
+    "open": 35563,
+    "add": 2499,
+    "approp": 0,
+    "close": 38062
+   }
+  },
+  "077": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités éducatives",
+     "open": 19730,
+     "add": 4320,
+     "approp": 0,
+     "close": 24050
+    },
+    {
+     "label": "Activités spéciales (OPP)",
+     "open": 8212,
+     "add": 1514,
+     "approp": 1380,
+     "close": 8346
+    },
+    {
+     "label": "Amélioration de la bibliothèque",
+     "open": 0,
+     "add": 1000,
+     "approp": 0,
+     "close": 1000
+    }
+   ],
+   "totals": {
+    "open": 27942,
+    "add": 6834,
+    "approp": 1380,
+    "close": 33396
+   }
+  },
+  "079": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 26863,
+     "add": 11361,
+     "approp": 0,
+     "close": 38224
+    }
+   ],
+   "totals": {
+    "open": 26863,
+    "add": 11361,
+    "approp": 0,
+    "close": 38224
+   }
+  },
+  "080": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 55239,
+     "add": 16877,
+     "approp": 13262,
+     "close": 58854
+    },
+    {
+     "label": "Projet entrepreunarial",
+     "open": 0,
+     "add": 500,
+     "approp": 0,
+     "close": 500
+    }
+   ],
+   "totals": {
+    "open": 55239,
+    "add": 17377,
+    "approp": 13262,
+    "close": 59354
+   }
+  },
+  "081": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 0,
+     "add": 12000,
+     "approp": 0,
+     "close": 12000
+    },
+    {
+     "label": "Activités aux élèves",
+     "open": 15719,
+     "add": 1832,
+     "approp": 12000,
+     "close": 5551
+    },
+    {
+     "label": "Achat instruments de musique",
+     "open": 1602,
+     "add": 0,
+     "approp": 1245,
+     "close": 357
+    }
+   ],
+   "totals": {
+    "open": 17321,
+    "add": 13832,
+    "approp": 13245,
+    "close": 17908
+   }
+  },
+  "083": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement - cour d'école / cour présco",
+     "open": 9983,
+     "add": 0,
+     "approp": 0,
+     "close": 9983
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 0,
+     "add": 7772,
+     "approp": 0,
+     "close": 7772
+    }
+   ],
+   "totals": {
+    "open": 9983,
+    "add": 7772,
+    "approp": 0,
+    "close": 17755
+   }
+  },
+  "085": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 7846,
+     "add": 0,
+     "approp": 972,
+     "close": 6875
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 0,
+     "add": 8125,
+     "approp": 0,
+     "close": 8125
+    }
+   ],
+   "totals": {
+    "open": 7846,
+    "add": 8125,
+    "approp": 972,
+    "close": 15000
+   }
+  },
+  "086": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 37309,
+     "add": 4984,
+     "approp": 5966,
+     "close": 36328
+    },
+    {
+     "label": "Embellisement de la bibliothèque",
+     "open": 0,
+     "add": 3268,
+     "approp": 0,
+     "close": 3268
+    }
+   ],
+   "totals": {
+    "open": 37309,
+    "add": 8252,
+    "approp": 5966,
+    "close": 39596
+   }
+  },
+  "087": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Volet pédagogique et activités (élèves)",
+     "open": 18854,
+     "add": 20322,
+     "approp": 0,
+     "close": 39175
+    }
+   ],
+   "totals": {
+    "open": 18854,
+    "add": 20322,
+    "approp": 0,
+    "close": 39175
+   }
+  },
+  "088": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 3359,
+     "add": 8454,
+     "approp": 0,
+     "close": 11813
+    },
+    {
+     "label": "OPP Fête Foraine",
+     "open": 3931,
+     "add": 0,
+     "approp": 0,
+     "close": 3931
+    }
+   ],
+   "totals": {
+    "open": 7290,
+    "add": 8454,
+    "approp": 0,
+    "close": 15744
+   }
+  },
+  "089": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 44804,
+     "add": 24787,
+     "approp": 0,
+     "close": 69591
+    },
+    {
+     "label": "Activités des élèves OPP",
+     "open": 0,
+     "add": 3373,
+     "approp": 0,
+     "close": 3373
+    }
+   ],
+   "totals": {
+    "open": 44804,
+    "add": 28160,
+    "approp": 0,
+    "close": 72964
+   }
+  }
+ },
+ "2021-2022": {
+  "050": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeux cour école",
+     "open": 8051,
+     "add": 51,
+     "approp": 0,
+     "close": 8102
+    }
+   ],
+   "totals": {
+    "open": 8051,
+    "add": 51,
+    "approp": 0,
+    "close": 8102
+   }
+  },
+  "051": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour d'école (activités, structures,mat)",
+     "open": 30471,
+     "add": 12542,
+     "approp": 0,
+     "close": 43013
+    },
+    {
+     "label": "Élèves démunis",
+     "open": 1922,
+     "add": 6285,
+     "approp": 45,
+     "close": 8162
+    },
+    {
+     "label": "Activités aux élèves (musi,TSA, finiss.)",
+     "open": 5047,
+     "add": 0,
+     "approp": 129,
+     "close": 4918
+    }
+   ],
+   "totals": {
+    "open": 37440,
+    "add": 18827,
+    "approp": 174,
+    "close": 56093
+   }
+  },
+  "053": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Cour école, act., sorties éduc., matérie",
+     "open": 30137,
+     "add": 2142,
+     "approp": 0,
+     "close": 32279
+    }
+   ],
+   "totals": {
+    "open": 30137,
+    "add": 2142,
+    "approp": 0,
+    "close": 32279
+   }
+  },
+  "054": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Sorties cultures et act.",
+     "open": 25724,
+     "add": 9852,
+     "approp": 0,
+     "close": 35576
+    },
+    {
+     "label": "Vernissage",
+     "open": 643,
+     "add": 0,
+     "approp": 0,
+     "close": 643
+    },
+    {
+     "label": "Gr. 202 Croque santé",
+     "open": 118,
+     "add": 0,
+     "approp": 0,
+     "close": 118
+    },
+    {
+     "label": "Fêtes d'accueil et des déjeuners de Noël",
+     "open": 1879,
+     "add": 0,
+     "approp": 0,
+     "close": 1879
+    },
+    {
+     "label": "Classe extérieure",
+     "open": 0,
+     "add": 11203,
+     "approp": 0,
+     "close": 11203
+    }
+   ],
+   "totals": {
+    "open": 28364,
+    "add": 21055,
+    "approp": 0,
+    "close": 49419
+   }
+  },
+  "056": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 3089,
+     "add": 1125,
+     "approp": 1957,
+     "close": 2257
+    }
+   ],
+   "totals": {
+    "open": 3089,
+    "add": 1125,
+    "approp": 1957,
+    "close": 2257
+   }
+  },
+  "059": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités",
+     "open": 0,
+     "add": 465,
+     "approp": 0,
+     "close": 465
+    },
+    {
+     "label": "Aménagement cour maternelles",
+     "open": 1980,
+     "add": 0,
+     "approp": 131,
+     "close": 1849
+    },
+    {
+     "label": "Familles démunies",
+     "open": 110,
+     "add": 0,
+     "approp": 24,
+     "close": 86
+    },
+    {
+     "label": "Les Petits Cuistots",
+     "open": 1041,
+     "add": 0,
+     "approp": 271,
+     "close": 770
+    },
+    {
+     "label": "Amén. cour, travaux mineurs, mobilier",
+     "open": 24230,
+     "add": 2974,
+     "approp": 0,
+     "close": 27203
+    }
+   ],
+   "totals": {
+    "open": 27361,
+    "add": 3439,
+    "approp": 426,
+    "close": 30373
+   }
+  },
+  "063": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 12008,
+     "add": 19309,
+     "approp": 0,
+     "close": 31316
+    }
+   ],
+   "totals": {
+    "open": 12008,
+    "add": 19309,
+    "approp": 0,
+    "close": 31316
+   }
+  },
+  "064": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 14234,
+     "add": 151,
+     "approp": 1483,
+     "close": 12902
+    },
+    {
+     "label": "Projet Cuistots",
+     "open": 165,
+     "add": 0,
+     "approp": 0,
+     "close": 165
+    },
+    {
+     "label": "Act. étudiantes, mat. scol., dîners dép.",
+     "open": 3706,
+     "add": 1067,
+     "approp": 3386,
+     "close": 1387
+    },
+    {
+     "label": "Évaluations orthophonie, psychologie",
+     "open": 7246,
+     "add": 0,
+     "approp": 1769,
+     "close": 5477
+    },
+    {
+     "label": "Sortie fin d'année 3e cycle",
+     "open": 1161,
+     "add": 0,
+     "approp": 1120,
+     "close": 41
+    }
+   ],
+   "totals": {
+    "open": 26512,
+    "add": 1218,
+    "approp": 7758,
+    "close": 19972
+   }
+  },
+  "065": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Achat d'instruments de musique",
+     "open": 970,
+     "add": 3287,
+     "approp": 4253,
+     "close": 4
+    }
+   ],
+   "totals": {
+    "open": 970,
+    "add": 3287,
+    "approp": 4253,
+    "close": 4
+   }
+  },
+  "066": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 0,
+     "add": 10201,
+     "approp": 0,
+     "close": 10201
+    },
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 6521,
+     "add": 56,
+     "approp": 848,
+     "close": 5729
+    }
+   ],
+   "totals": {
+    "open": 6521,
+    "add": 10257,
+    "approp": 848,
+    "close": 15930
+   }
+  },
+  "067": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Don pour matériel numérique",
+     "open": 3678,
+     "add": 0,
+     "approp": 3678,
+     "close": 0
+    },
+    {
+     "label": "Le sentier du Vallon",
+     "open": 116,
+     "add": 14,
+     "approp": 0,
+     "close": 130
+    }
+   ],
+   "totals": {
+    "open": 3794,
+    "add": 14,
+    "approp": 3678,
+    "close": 130
+   }
+  },
+  "068": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 57850,
+     "add": 11583,
+     "approp": 0,
+     "close": 69433
+    },
+    {
+     "label": "Soutien en loisir personnes handicapées",
+     "open": 3073,
+     "add": 0,
+     "approp": 0,
+     "close": 3073
+    }
+   ],
+   "totals": {
+    "open": 60923,
+    "add": 11583,
+    "approp": 0,
+    "close": 72506
+   }
+  },
+  "069": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 59302,
+     "add": 12158,
+     "approp": 0,
+     "close": 71460
+    },
+    {
+     "label": "Act. Accueil 21-22",
+     "open": 960,
+     "add": 3925,
+     "approp": 0,
+     "close": 4885
+    },
+    {
+     "label": "Fête des finissants",
+     "open": 0,
+     "add": 495,
+     "approp": 0,
+     "close": 495
+    }
+   ],
+   "totals": {
+    "open": 60262,
+    "add": 16578,
+    "approp": 0,
+    "close": 76840
+   }
+  },
+  "070": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Trèfle et embellissement cour d'école",
+     "open": 3877,
+     "add": 0,
+     "approp": 0,
+     "close": 3877
+    },
+    {
+     "label": "BBQ annuel",
+     "open": 4670,
+     "add": 5352,
+     "approp": 4317,
+     "close": 5885,
+     "sourceAnomaly": "Document source incohérent de ±180 $ : solde fin imprimé ≠ début+revenus−appropriation (vérifié par recadrage 8×) ; le rapport 2022-23 ouvre avec les valeurs calculées (5 705 / 2 029), pas les valeurs imprimées (5 885 / 1 849)."
+    },
+    {
+     "label": "Achat mat./Activités classe/Sorties/ act",
+     "open": 6740,
+     "add": 1463,
+     "approp": 6174,
+     "close": 1849,
+     "sourceAnomaly": "Document source incohérent de ±180 $ : solde fin imprimé ≠ début+revenus−appropriation (vérifié par recadrage 8×) ; le rapport 2022-23 ouvre avec les valeurs calculées (5 705 / 2 029), pas les valeurs imprimées (5 885 / 1 849)."
+    }
+   ],
+   "totals": {
+    "open": 15287,
+    "add": 6814,
+    "approp": 10491,
+    "close": 11611
+   }
+  },
+  "072": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Structure de jeu",
+     "open": 55463,
+     "add": 361,
+     "approp": 0,
+     "close": 55824
+    },
+    {
+     "label": "Activité d'accueil",
+     "open": 1990,
+     "add": 5878,
+     "approp": 1990,
+     "close": 5878
+    },
+    {
+     "label": "901-902 projet Smoothies",
+     "open": 456,
+     "add": 0,
+     "approp": 0,
+     "close": 456
+    },
+    {
+     "label": "Activités diverses pour élèves",
+     "open": 585,
+     "add": 0,
+     "approp": 0,
+     "close": 585
+    },
+    {
+     "label": "Murale des valeurs",
+     "open": 0,
+     "add": 3595,
+     "approp": 0,
+     "close": 3595
+    },
+    {
+     "label": "Embelissement de la bibliothèque",
+     "open": 0,
+     "add": 1500,
+     "approp": 0,
+     "close": 1500
+    },
+    {
+     "label": "Embellissement de la cour d'école",
+     "open": 0,
+     "add": 6979,
+     "approp": 0,
+     "close": 6979
+    }
+   ],
+   "totals": {
+    "open": 58494,
+    "add": 18313,
+    "approp": 1990,
+    "close": 74817
+   }
+  },
+  "073": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 28097,
+     "add": 213,
+     "approp": 1303,
+     "close": 27007
+    },
+    {
+     "label": "Petits déjeuners et collations",
+     "open": 8801,
+     "add": 0,
+     "approp": 8801,
+     "close": 0
+    },
+    {
+     "label": "Transf. Don familles défavorisées",
+     "open": 372,
+     "add": 692,
+     "approp": 0,
+     "close": 1065
+    },
+    {
+     "label": "Activités des élèves",
+     "open": 0,
+     "add": 5827,
+     "approp": 0,
+     "close": 5827
+    }
+   ],
+   "totals": {
+    "open": 37270,
+    "add": 6732,
+    "approp": 10104,
+    "close": 33899
+   }
+  },
+  "075": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Projet d'accueil",
+     "open": 85,
+     "add": 0,
+     "approp": 0,
+     "close": 85
+    },
+    {
+     "label": "Activités 18-19 / Amélior. cour d'école",
+     "open": 37193,
+     "add": 2116,
+     "approp": 4938,
+     "close": 34371
+    },
+    {
+     "label": "Environnement",
+     "open": 1107,
+     "add": 0,
+     "approp": 0,
+     "close": 1107
+    }
+   ],
+   "totals": {
+    "open": 38385,
+    "add": 2116,
+    "approp": 4938,
+    "close": 35563
+   }
+  },
+  "077": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Activités éducatives et cour école",
+     "open": 18943,
+     "add": 786,
+     "approp": 0,
+     "close": 19730
+    },
+    {
+     "label": "Activités spéciales (OPP)",
+     "open": 7649,
+     "add": 3451,
+     "approp": 2889,
+     "close": 8212
+    }
+   ],
+   "totals": {
+    "open": 26592,
+    "add": 4237,
+    "approp": 2889,
+    "close": 27942
+   }
+  },
+  "079": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 16757,
+     "add": 10106,
+     "approp": 0,
+     "close": 26863
+    }
+   ],
+   "totals": {
+    "open": 16757,
+    "add": 10106,
+    "approp": 0,
+    "close": 26863
+   }
+  },
+  "080": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 43065,
+     "add": 12173,
+     "approp": 0,
+     "close": 55239
+    }
+   ],
+   "totals": {
+    "open": 43065,
+    "add": 12173,
+    "approp": 0,
+    "close": 55239
+   }
+  },
+  "081": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 13253,
+     "add": 33354,
+     "approp": 46607,
+     "close": 0
+    },
+    {
+     "label": "Activités aux élèves",
+     "open": 30528,
+     "add": 18545,
+     "approp": 33354,
+     "close": 15719
+    },
+    {
+     "label": "Achat instruments de musique",
+     "open": 1602,
+     "add": 0,
+     "approp": 0,
+     "close": 1602
+    }
+   ],
+   "totals": {
+    "open": 45383,
+    "add": 51899,
+    "approp": 79961,
+    "close": 17321
+   }
+  },
+  "083": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement - cour d'école / cour présco",
+     "open": 9920,
+     "add": 63,
+     "approp": 0,
+     "close": 9983
+    }
+   ],
+   "totals": {
+    "open": 9920,
+    "add": 63,
+    "approp": 0,
+    "close": 9983
+   }
+  },
+  "085": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 4313,
+     "add": 3534,
+     "approp": 0,
+     "close": 7846
+    }
+   ],
+   "totals": {
+    "open": 4313,
+    "add": 3534,
+    "approp": 0,
+    "close": 7846
+   }
+  },
+  "086": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 23297,
+     "add": 14013,
+     "approp": 0,
+     "close": 37309
+    }
+   ],
+   "totals": {
+    "open": 23297,
+    "add": 14013,
+    "approp": 0,
+    "close": 37309
+   }
+  },
+  "087": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Volet pédagogique et activités (élèves)",
+     "open": 30904,
+     "add": 3735,
+     "approp": 15785,
+     "close": 18854
+    }
+   ],
+   "totals": {
+    "open": 30904,
+    "add": 3735,
+    "approp": 15785,
+    "close": 18854
+   }
+  },
+  "088": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 31817,
+     "add": 3359,
+     "approp": 31817,
+     "close": 3359
+    },
+    {
+     "label": "OPP Fête Foraine",
+     "open": 881,
+     "add": 3050,
+     "approp": 0,
+     "close": 3931
+    }
+   ],
+   "totals": {
+    "open": 32698,
+    "add": 6409,
+    "approp": 31817,
+    "close": 7290
+   }
+  },
+  "089": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 10268,
+     "add": 34536,
+     "approp": 0,
+     "close": 44804
+    }
+   ],
+   "totals": {
+    "open": 10268,
+    "add": 34536,
+    "approp": 0,
+    "close": 44804
+   }
+  }
+ },
+ "2020-2021": {
+  "050": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Structure de jeux cour école",
+     "open": 8000,
+     "add": 51,
+     "approp": 0,
+     "close": 8051
+    }
+   ],
+   "totals": {
+    "open": 8000,
+    "add": 51,
+    "approp": 0,
+    "close": 8051
+   }
+  },
+  "051": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Projet Accueil,lect. Teth. Jeux est. Cours",
+     "open": 30471,
+     "add": 0,
+     "approp": 0,
+     "close": 30471
+    },
+    {
+     "label": "Classe TSA",
+     "open": 1368,
+     "add": 0,
+     "approp": 0,
+     "close": 1368
+    },
+    {
+     "label": "Musique",
+     "open": 190,
+     "add": 0,
+     "approp": 0,
+     "close": 190
+    },
+    {
+     "label": "Élèves Démunis",
+     "open": 3310,
+     "add": 308,
+     "approp": 1696,
+     "close": 1922
+    },
+    {
+     "label": "Act.2-3 années 2020-2021",
+     "open": 596,
+     "add": 0,
+     "approp": 0,
+     "close": 596
+    },
+    {
+     "label": "Activité pour tous les élèves",
+     "open": 1431,
+     "add": 254,
+     "approp": 0,
+     "close": 1685
+    },
+    {
+     "label": "Activité pour les 6ièmes 2020-2021",
+     "open": 3081,
+     "add": 678,
+     "approp": 2551,
+     "close": 1208
+    }
+   ],
+   "totals": {
+    "open": 40447,
+    "add": 1240,
+    "approp": 4247,
+    "close": 37440
+   }
+  },
+  "053": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Cour école, act., sorties éduc., matériel",
+     "open": 29629,
+     "add": 509,
+     "approp": 0,
+     "close": 30138
+    },
+    {
+     "label": "Centraide/Traiteur",
+     "open": 704,
+     "add": 0,
+     "approp": 704,
+     "close": 0
+    }
+   ],
+   "totals": {
+    "open": 30333,
+    "add": 509,
+    "approp": 704,
+    "close": 30138
+   }
+  },
+  "054": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Cour d'école",
+     "open": 508,
+     "add": 0,
+     "approp": 508,
+     "close": 0
+    },
+    {
+     "label": "Sorties cultures et act.",
+     "open": 26946,
+     "add": 172,
+     "approp": 1395,
+     "close": 25723
+    },
+    {
+     "label": "Vernissage",
+     "open": 643,
+     "add": 0,
+     "approp": 0,
+     "close": 643
+    },
+    {
+     "label": "Gr. 202 Croque santé",
+     "open": 118,
+     "add": 0,
+     "approp": 0,
+     "close": 118
+    },
+    {
+     "label": "Fêtes d'accueil et déjeuners de Noël",
+     "open": 0,
+     "add": 1879,
+     "approp": 0,
+     "close": 1879
+    }
+   ],
+   "totals": {
+    "open": 28215,
+    "add": 2051,
+    "approp": 1903,
+    "close": 28363
+   }
+  },
+  "056": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Acitivités",
+     "open": 3070,
+     "add": 19,
+     "approp": 0,
+     "close": 3089
+    }
+   ],
+   "totals": {
+    "open": 3070,
+    "add": 19,
+    "approp": 0,
+    "close": 3089
+   }
+  },
+  "059": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour maternelles",
+     "open": 38736,
+     "add": 0,
+     "approp": 36756,
+     "close": 1980
+    },
+    {
+     "label": "Familles démunies",
+     "open": 129,
+     "add": 0,
+     "approp": 19,
+     "close": 110
+    },
+    {
+     "label": "Les Petits Cuistots",
+     "open": 1914,
+     "add": 0,
+     "approp": 874,
+     "close": 1040
+    },
+    {
+     "label": "Amén. cour, travaux mineurs, mobilier",
+     "open": 10040,
+     "add": 14189,
+     "approp": 0,
+     "close": 24229
+    }
+   ],
+   "totals": {
+    "open": 50819,
+    "add": 14189,
+    "approp": 37649,
+    "close": 27359
+   }
+  },
+  "063": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 4559,
+     "add": 7449,
+     "approp": 0,
+     "close": 12008
+    }
+   ],
+   "totals": {
+    "open": 4559,
+    "add": 7449,
+    "approp": 0,
+    "close": 12008
+   }
+  },
+  "064": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 41660,
+     "add": 0,
+     "approp": 27426,
+     "close": 14234
+    },
+    {
+     "label": "Projet cuisine 6e année",
+     "open": 3,
+     "add": 0,
+     "approp": 3,
+     "close": 0
+    },
+    {
+     "label": "Projet Cuistots",
+     "open": 234,
+     "add": 0,
+     "approp": 68,
+     "close": 166
+    },
+    {
+     "label": "Activités étu., mat. scol., dîners dépan.",
+     "open": 3611,
+     "add": 749,
+     "approp": 654,
+     "close": 3706
+    },
+    {
+     "label": "Évaluations orthophonie, psychologie",
+     "open": 3587,
+     "add": 3658,
+     "approp": 0,
+     "close": 7245
+    },
+    {
+     "label": "Sortie fin d'année 3e cycle",
+     "open": 1161,
+     "add": 0,
+     "approp": 0,
+     "close": 1161
+    }
+   ],
+   "totals": {
+    "open": 50256,
+    "add": 4407,
+    "approp": 28151,
+    "close": 26512
+   }
+  },
+  "065": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Intérêts FDS",
+     "open": 0,
+     "add": 0,
+     "approp": 0,
+     "close": 0
+    },
+    {
+     "label": "Achat instrument de musique",
+     "open": 0,
+     "add": 3284,
+     "approp": 0,
+     "close": 3284
+    }
+   ],
+   "totals": {
+    "open": 0,
+    "add": 3284,
+    "approp": 0,
+    "close": 3284
+   }
+  },
+  "066": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Accueil, activités, jeux pour cour école",
+     "open": 9389,
+     "add": 57,
+     "approp": 2924,
+     "close": 6522
+    }
+   ],
+   "totals": {
+    "open": 9389,
+    "add": 57,
+    "approp": 2924,
+    "close": 6522
+   }
+  },
+  "067": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Don pour Matériel numérique",
+     "open": 5065,
+     "add": 0,
+     "approp": 1387,
+     "close": 3678
+    },
+    {
+     "label": "Le sentier du Vallon",
+     "open": 3007,
+     "add": 44,
+     "approp": 2934,
+     "close": 117
+    }
+   ],
+   "totals": {
+    "open": 8072,
+    "add": 44,
+    "approp": 4321,
+    "close": 3795
+   }
+  },
+  "068": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 57467,
+     "add": 383,
+     "approp": 0,
+     "close": 57850
+    },
+    {
+     "label": "Soutien en loisir personnes hand.",
+     "open": 3073,
+     "add": 0,
+     "approp": 0,
+     "close": 3073
+    }
+   ],
+   "totals": {
+    "open": 60540,
+    "add": 383,
+    "approp": 0,
+    "close": 60923
+   }
+  },
+  "069": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour école",
+     "open": 64631,
+     "add": 471,
+     "approp": 5800,
+     "close": 59302
+    },
+    {
+     "label": "Act. Accueil 21-22",
+     "open": 0,
+     "add": 960,
+     "approp": 0,
+     "close": 960
+    }
+   ],
+   "totals": {
+    "open": 64631,
+    "add": 1431,
+    "approp": 5800,
+    "close": 60262
+   }
+  },
+  "070": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Trèfle et embellissement cour d'école",
+     "open": 1000,
+     "add": 2877,
+     "approp": 0,
+     "close": 3877
+    },
+    {
+     "label": "BBQ annuel",
+     "open": 4670,
+     "add": 0,
+     "approp": 0,
+     "close": 4670
+    },
+    {
+     "label": "Achat mat./Activités classe/Sorties/ act. Parasco./Act. et audio vidéo/Familles dém.",
+     "open": 19872,
+     "add": 135,
+     "approp": 13267,
+     "close": 6740
+    }
+   ],
+   "totals": {
+    "open": 25542,
+    "add": 3012,
+    "approp": 13267,
+    "close": 15287
+   }
+  },
+  "072": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Structure de jeu (réparer ou démolir)",
+     "open": 47649,
+     "add": 7814,
+     "approp": 0,
+     "close": 55463
+    },
+    {
+     "label": "Activité d'accueil",
+     "open": 2393,
+     "add": 1990,
+     "approp": 2393,
+     "close": 1990
+    },
+    {
+     "label": "901-902 projet Smoothies",
+     "open": 2604,
+     "add": 0,
+     "approp": 2148,
+     "close": 456
+    },
+    {
+     "label": "Activités diverses pour élèves",
+     "open": 0,
+     "add": 2437,
+     "approp": 1852,
+     "close": 585
+    }
+   ],
+   "totals": {
+    "open": 52646,
+    "add": 12241,
+    "approp": 6393,
+    "close": 58494
+   }
+  },
+  "073": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 27910,
+     "add": 187,
+     "approp": 0,
+     "close": 28097
+    },
+    {
+     "label": "Petits déjeuners et collations",
+     "open": 1920,
+     "add": 8791,
+     "approp": 1910,
+     "close": 8801
+    },
+    {
+     "label": "Activité 6e année",
+     "open": 122,
+     "add": 0,
+     "approp": 122,
+     "close": 0
+    },
+    {
+     "label": "Transf. Don familles défavorisées",
+     "open": 372,
+     "add": 0,
+     "approp": 0,
+     "close": 372
+    }
+   ],
+   "totals": {
+    "open": 30324,
+    "add": 8978,
+    "approp": 2032,
+    "close": 37270
+   }
+  },
+  "075": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Projet accueil",
+     "open": 85,
+     "add": 0,
+     "approp": 0,
+     "close": 85
+    },
+    {
+     "label": "Activités 18-19 / Amélioration cour école",
+     "open": 52019,
+     "add": 1631,
+     "approp": 16456,
+     "close": 37194
+    },
+    {
+     "label": "Environnement",
+     "open": 1107,
+     "add": 0,
+     "approp": 0,
+     "close": 1107
+    }
+   ],
+   "totals": {
+    "open": 53211,
+    "add": 1631,
+    "approp": 16456,
+    "close": 38386
+   }
+  },
+  "077": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Activités éducatives",
+     "open": 18154,
+     "add": 789,
+     "approp": 0,
+     "close": 18943
+    },
+    {
+     "label": "Act. Spéciales (rentrée, Noël, cour école, etc.)",
+     "open": 7457,
+     "add": 462,
+     "approp": 269,
+     "close": 7650
+    }
+   ],
+   "totals": {
+    "open": 25611,
+    "add": 1251,
+    "approp": 269,
+    "close": 26593
+   }
+  },
+  "079": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 20365,
+     "add": 127,
+     "approp": 3735,
+     "close": 16757
+    }
+   ],
+   "totals": {
+    "open": 20365,
+    "add": 127,
+    "approp": 3735,
+    "close": 16757
+   }
+  },
+  "080": {
+   "format": "table-projets-revenus",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 49518,
+     "add": 3535,
+     "approp": 9988,
+     "close": 43065
+    }
+   ],
+   "totals": {
+    "open": 49518,
+    "add": 3535,
+    "approp": 9988,
+    "close": 43065
+   }
+  },
+  "081": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 13010,
+     "add": 243,
+     "approp": 0,
+     "close": 13253
+    },
+    {
+     "label": "Activités élèves",
+     "open": 23759,
+     "add": 6769,
+     "approp": 0,
+     "close": 30528
+    },
+    {
+     "label": "Achat instruments musique",
+     "open": 1602,
+     "add": 0,
+     "approp": 0,
+     "close": 1602
+    }
+   ],
+   "totals": {
+    "open": 38371,
+    "add": 7012,
+    "approp": 0,
+    "close": 45383
+   }
+  },
+  "083": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement - cour d'école / cour présco",
+     "open": 2905,
+     "add": 7015,
+     "approp": 0,
+     "close": 9920
+    },
+    {
+     "label": "Sorties scolaires",
+     "open": 6952,
+     "add": -6952,
+     "approp": 0,
+     "close": 0
+    }
+   ],
+   "totals": {
+    "open": 9857,
+    "add": 63,
+    "approp": 0,
+    "close": 9920
+   }
+  },
+  "085": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école 35% de Carle",
+     "open": 4286,
+     "add": 27,
+     "approp": 0,
+     "close": 4313
+    }
+   ],
+   "totals": {
+    "open": 4286,
+    "add": 27,
+    "approp": 0,
+    "close": 4313
+   }
+  },
+  "086": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement - cour d'école",
+     "open": 21047,
+     "add": 2249,
+     "approp": 0,
+     "close": 23296
+    }
+   ],
+   "totals": {
+    "open": 21047,
+    "add": 2249,
+    "approp": 0,
+    "close": 23296
+   }
+  },
+  "087": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école + act. Projet, etc.",
+     "open": 45401,
+     "add": 3861,
+     "approp": 18358,
+     "close": 30904
+    }
+   ],
+   "totals": {
+    "open": 45401,
+    "add": 3861,
+    "approp": 18358,
+    "close": 30904
+   }
+  },
+  "088": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement cour d'école",
+     "open": 31594,
+     "add": 0,
+     "approp": 0,
+     "close": 31594
+    },
+    {
+     "label": "OPP Fête Foraine",
+     "open": 881,
+     "add": 0,
+     "approp": 0,
+     "close": 881
+    },
+    {
+     "label": "Intérêts FDS",
+     "open": 17,
+     "add": 206,
+     "approp": 0,
+     "close": 223
+    }
+   ],
+   "totals": {
+    "open": 32492,
+    "add": 206,
+    "approp": 0,
+    "close": 32698
+   }
+  },
+  "089": {
+   "format": "table-projets-ajouts",
+   "projects": [
+    {
+     "label": "Aménagement de la cour d'école",
+     "open": 7023,
+     "add": 3245,
+     "approp": 0,
+     "close": 10268
+    }
+   ],
+   "totals": {
+    "open": 7023,
+    "add": 3245,
+    "approp": 0,
+    "close": 10268
+   }
+  }
+ },
+ "2019-2020": {
+  "050": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 0,
+    "add": 8000,
+    "approp": 0,
+    "close": 8000
+   }
+  },
+  "051": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 36131,
+    "add": 5726,
+    "approp": 1409,
+    "close": 40447
+   }
+  },
+  "053": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 21809,
+    "add": 20724,
+    "approp": 12200,
+    "close": 30333
+   }
+  },
+  "054": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 13401,
+    "add": 23612,
+    "approp": 8797,
+    "close": 28215
+   }
+  },
+  "056": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 921,
+    "add": 2149,
+    "approp": 0,
+    "close": 3070
+   }
+  },
+  "059": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 56591,
+    "add": 11748,
+    "approp": 17520,
+    "close": 50820
+   }
+  },
+  "063": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 0,
+    "add": 4559,
+    "approp": 0,
+    "close": 4559
+   }
+  },
+  "064": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 44879,
+    "add": 6988,
+    "approp": 1611,
+    "close": 50256
+   }
+  },
+  "065": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 23,
+    "add": 0,
+    "approp": 23,
+    "close": 0
+   }
+  },
+  "066": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 4370,
+    "add": 7149,
+    "approp": 2130,
+    "close": 9389
+   }
+  },
+  "067": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 4877,
+    "add": 5065,
+    "approp": 1870,
+    "close": 8072
+   }
+  },
+  "068": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 47578,
+    "add": 15462,
+    "approp": 2501,
+    "close": 60539
+   }
+  },
+  "069": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 51153,
+    "add": 13478,
+    "approp": 0,
+    "close": 64631
+   }
+  },
+  "070": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 26225,
+    "add": 10243,
+    "approp": 10925,
+    "close": 25543
+   }
+  },
+  "072": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 39593,
+    "add": 16444,
+    "approp": 3390,
+    "close": 52647
+   }
+  },
+  "073": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 36486,
+    "add": 9215,
+    "approp": 15376,
+    "close": 30325
+   },
+   "derivedOpen": true,
+   "note": "Cellule « SOLDE - DÉBUT D'EXERCICE » vierge dans la source (vérifié par recadrage 4×) ; solde début dérivé de l'identité : 30 325 − 9 215 + 15 376 = 36 486 $."
+  },
+  "075": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 48132,
+    "add": 9365,
+    "approp": 4286,
+    "close": 53211
+   }
+  },
+  "077": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 26586,
+    "add": 2302,
+    "approp": 3277,
+    "close": 25611
+   }
+  },
+  "079": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 9924,
+    "add": 10441,
+    "approp": 0,
+    "close": 20365
+   }
+  },
+  "080": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 36326,
+    "add": 13192,
+    "approp": 0,
+    "close": 49518
+   }
+  },
+  "081": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 30786,
+    "add": 7586,
+    "approp": 0,
+    "close": 38371
+   }
+  },
+  "083": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 6955,
+    "add": 3315,
+    "approp": 412,
+    "close": 9858
+   }
+  },
+  "085": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 0,
+    "add": 4286,
+    "approp": 0,
+    "close": 4286
+   }
+  },
+  "086": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 9148,
+    "add": 11899,
+    "approp": 0,
+    "close": 21047
+   }
+  },
+  "087": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 41135,
+    "add": 20854,
+    "approp": 16588,
+    "close": 45401
+   }
+  },
+  "088": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 1000,
+    "add": 31492,
+    "approp": 0,
+    "close": 32492
+   }
+  },
+  "089": {
+   "format": "summary-4-lignes",
+   "projects": [],
+   "totals": {
+    "open": 2804,
+    "add": 4219,
+    "approp": 0,
+    "close": 7023
+   }
+  }
+ }
+}
